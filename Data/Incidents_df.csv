@@ -1,0 +1,1501 @@
+IncidentID,CarID,IncidentDate,Description,Cost
+1,1139,2023-04-24,driving under the influence,14064.0
+2,1888,2023-10-17,head-on collision,6291.0
+3,1147,2023-12-03,side-impact collision,7864.0
+4,576,2024-02-09,driving under the influence,6121.0
+5,1061,2023-08-25,sideswipe collision,5965.0
+6,1977,2023-06-13,driving under the influence,5186.0
+7,1841,2023-10-26,sideswipe collision,5489.0
+8,274,2023-09-13,head-on collision,8758.0
+9,1841,2024-01-24,aggressive driving,9770.0
+10,940,2023-03-29,speeding,8960.0
+11,1208,2023-03-30,head-on collision,14182.0
+12,814,2023-10-09,rear-end collision,7628.0
+13,1110,2023-07-13,pedestrian accident,13367.0
+14,1272,2023-02-27,sideswipe collision,11997.0
+15,490,2023-03-27,distracted driving,9485.0
+16,193,2024-01-29,speeding,7372.0
+17,1035,2023-11-27,speeding,11085.0
+18,905,2023-06-06,head-on collision,11236.0
+19,1074,2023-08-29,pedestrian accident,7313.0
+20,1623,2023-04-27,speeding,5156.0
+21,1671,2023-02-17,drowsy driving,7971.0
+22,1108,2023-06-11,side-impact collision,5272.0
+23,1747,2024-02-08,aggressive driving,6504.0
+24,1245,2023-05-18,drowsy driving,14073.0
+25,1935,2023-05-28,pedestrian accident,14902.0
+26,1843,2023-10-03,rollover,11046.0
+27,145,2023-10-08,pedestrian accident,5083.0
+28,326,2023-02-16,aggressive driving,12071.0
+29,1466,2023-06-30,pedestrian accident,6526.0
+30,948,2023-12-22,speeding,8698.0
+31,788,2023-03-04,rear-end collision,7372.0
+32,327,2023-04-10,drowsy driving,12017.0
+33,1901,2024-01-17,head-on collision,11480.0
+34,904,2023-07-22,sideswipe collision,9043.0
+35,1135,2023-07-05,rear-end collision,11109.0
+36,1880,2023-12-08,sideswipe collision,13957.0
+37,45,2023-03-28,rollover,12228.0
+38,1064,2023-08-26,aggressive driving,7416.0
+39,1208,2023-11-28,pedestrian accident,13813.0
+40,1906,2024-02-10,speeding,14333.0
+41,792,2023-10-24,rollover,6245.0
+42,1711,2024-01-28,rear-end collision,11909.0
+43,290,2023-02-11,drowsy driving,12298.0
+44,473,2023-04-15,pedestrian accident,7049.0
+45,570,2023-05-29,speeding,13187.0
+46,164,2023-04-06,aggressive driving,13991.0
+47,1453,2023-09-03,rollover,10993.0
+48,99,2023-03-10,aggressive driving,12616.0
+49,910,2023-08-31,side-impact collision,7848.0
+50,1168,2023-07-21,distracted driving,10501.0
+51,1743,2023-09-15,speeding,6433.0
+52,68,2023-04-29,speeding,8700.0
+53,796,2023-07-07,distracted driving,14778.0
+54,353,2023-06-07,distracted driving,9948.0
+55,1749,2023-09-20,side-impact collision,8574.0
+56,398,2024-01-14,speeding,8708.0
+57,722,2023-09-05,distracted driving,6477.0
+58,950,2023-04-22,distracted driving,9325.0
+59,733,2023-10-14,distracted driving,6628.0
+60,825,2023-09-20,sideswipe collision,12494.0
+61,877,2023-03-15,rollover,11856.0
+62,1499,2024-01-08,pedestrian accident,9775.0
+63,1571,2024-01-28,distracted driving,10099.0
+64,1664,2023-12-22,drowsy driving,12849.0
+65,134,2023-11-26,head-on collision,14688.0
+66,694,2023-09-30,speeding,13178.0
+67,484,2023-09-11,rear-end collision,5118.0
+68,1159,2023-02-13,drowsy driving,7218.0
+69,1059,2023-05-26,side-impact collision,8755.0
+70,910,2023-07-28,rollover,9308.0
+71,1184,2023-09-19,head-on collision,8611.0
+72,979,2023-03-20,distracted driving,11087.0
+73,801,2023-04-07,speeding,13197.0
+74,119,2023-02-18,improper turns,11932.0
+75,558,2023-07-17,head-on collision,9989.0
+76,362,2023-03-02,distracted driving,10974.0
+77,1358,2023-11-21,improper turns,11504.0
+78,310,2023-03-29,side-impact collision,10665.0
+79,1272,2023-12-08,speeding,8788.0
+80,367,2023-04-04,rear-end collision,13941.0
+81,1804,2023-07-31,aggressive driving,13539.0
+82,987,2023-06-12,speeding,11261.0
+83,1763,2023-07-19,pedestrian accident,8648.0
+84,268,2023-06-12,sideswipe collision,8223.0
+85,1243,2023-04-01,distracted driving,9624.0
+86,1819,2023-10-14,rollover,11022.0
+87,1888,2024-01-18,drowsy driving,6060.0
+88,256,2023-05-03,rear-end collision,12773.0
+89,126,2023-09-04,sideswipe collision,13365.0
+90,1918,2023-09-30,drowsy driving,5243.0
+91,205,2023-12-09,side-impact collision,6716.0
+92,1654,2023-07-18,side-impact collision,6317.0
+93,70,2023-12-06,rollover,7243.0
+94,1154,2023-08-02,sideswipe collision,12138.0
+95,180,2023-03-02,head-on collision,9276.0
+96,1792,2023-04-19,improper turns,7217.0
+97,971,2023-05-16,sideswipe collision,6567.0
+98,1708,2023-08-18,rollover,12152.0
+99,606,2023-06-20,rear-end collision,9078.0
+100,840,2023-02-14,distracted driving,6559.0
+101,45,2023-04-24,distracted driving,10247.0
+102,1400,2023-05-18,rear-end collision,5011.0
+103,106,2023-03-30,sideswipe collision,9575.0
+104,239,2023-10-17,rollover,14980.0
+105,1127,2023-10-07,head-on collision,5919.0
+106,259,2023-02-23,pedestrian accident,6605.0
+107,1231,2023-08-25,drowsy driving,5829.0
+108,1053,2023-12-27,rollover,11932.0
+109,1224,2023-12-03,distracted driving,11242.0
+110,664,2024-01-15,distracted driving,9659.0
+111,64,2024-01-10,rollover,6443.0
+112,465,2023-04-28,sideswipe collision,6129.0
+113,1560,2023-09-30,improper turns,12144.0
+114,1360,2023-06-29,head-on collision,7940.0
+115,1941,2023-10-14,driving under the influence,14267.0
+116,1514,2023-11-25,head-on collision,6886.0
+117,575,2023-09-12,drowsy driving,5402.0
+118,358,2023-10-07,drowsy driving,7622.0
+119,359,2023-11-15,sideswipe collision,12664.0
+120,1005,2023-02-25,drowsy driving,7012.0
+121,455,2023-10-24,side-impact collision,12536.0
+122,156,2023-04-29,speeding,6871.0
+123,1951,2023-12-05,improper turns,11195.0
+124,1694,2024-01-05,head-on collision,8342.0
+125,1135,2023-07-26,side-impact collision,5994.0
+126,1878,2023-05-17,head-on collision,7336.0
+127,1212,2023-10-13,distracted driving,7564.0
+128,1779,2023-07-03,distracted driving,9358.0
+129,1054,2023-05-27,improper turns,5500.0
+130,1794,2023-05-08,pedestrian accident,7602.0
+131,697,2023-10-15,driving under the influence,13187.0
+132,309,2023-08-11,rear-end collision,11202.0
+133,1385,2023-08-12,aggressive driving,11628.0
+134,1221,2023-08-05,improper turns,8063.0
+135,1263,2023-04-01,head-on collision,6551.0
+136,1721,2023-08-10,speeding,13934.0
+137,1918,2023-10-13,drowsy driving,5104.0
+138,1216,2023-05-14,distracted driving,5236.0
+139,793,2023-06-02,pedestrian accident,7268.0
+140,218,2023-09-27,pedestrian accident,6000.0
+141,1597,2024-01-02,speeding,8610.0
+142,1895,2023-12-09,side-impact collision,10048.0
+143,1886,2023-09-24,head-on collision,13802.0
+144,84,2023-08-18,sideswipe collision,7602.0
+145,1646,2023-06-11,head-on collision,8346.0
+146,651,2023-11-03,side-impact collision,5232.0
+147,1065,2023-07-07,pedestrian accident,6834.0
+148,1116,2023-05-15,driving under the influence,13430.0
+149,321,2023-10-22,improper turns,6214.0
+150,660,2024-01-04,sideswipe collision,7665.0
+151,414,2023-02-21,improper turns,11497.0
+152,1000,2023-12-11,rear-end collision,5125.0
+153,920,2023-04-04,aggressive driving,5949.0
+154,997,2023-09-24,pedestrian accident,7014.0
+155,1055,2023-09-30,aggressive driving,12763.0
+156,1956,2023-05-20,improper turns,10429.0
+157,365,2023-05-13,drowsy driving,6043.0
+158,1285,2023-12-24,pedestrian accident,8586.0
+159,1029,2023-12-13,side-impact collision,6126.0
+160,316,2023-05-22,distracted driving,11735.0
+161,1018,2023-03-04,aggressive driving,9833.0
+162,349,2023-11-20,rollover,14913.0
+163,597,2023-11-09,head-on collision,11584.0
+164,44,2023-11-24,rear-end collision,9251.0
+165,297,2023-12-17,rollover,11544.0
+166,409,2023-10-15,rear-end collision,12594.0
+167,1697,2023-05-21,head-on collision,10524.0
+168,641,2024-01-01,sideswipe collision,12413.0
+169,1868,2023-08-20,speeding,12186.0
+170,1439,2023-05-24,aggressive driving,14764.0
+171,1083,2023-02-23,aggressive driving,5399.0
+172,273,2023-08-14,improper turns,14814.0
+173,488,2023-11-14,rear-end collision,12927.0
+174,781,2023-06-15,aggressive driving,8680.0
+175,106,2024-01-28,head-on collision,9140.0
+176,656,2023-09-06,head-on collision,10843.0
+177,1238,2024-02-05,drowsy driving,8712.0
+178,1773,2023-03-05,improper turns,11686.0
+179,636,2023-07-31,speeding,8997.0
+180,1604,2024-02-05,sideswipe collision,12582.0
+181,1326,2023-05-14,sideswipe collision,10588.0
+182,1849,2023-08-06,side-impact collision,14956.0
+183,381,2024-02-11,speeding,9146.0
+184,267,2023-08-03,side-impact collision,14407.0
+185,687,2023-10-17,rear-end collision,10379.0
+186,1601,2023-03-31,drowsy driving,9542.0
+187,37,2023-03-12,rollover,6885.0
+188,188,2023-08-05,speeding,12657.0
+189,714,2023-11-14,distracted driving,8026.0
+190,365,2023-09-19,drowsy driving,6932.0
+191,1006,2023-12-19,pedestrian accident,12213.0
+192,41,2023-02-17,sideswipe collision,12571.0
+193,1840,2023-04-22,speeding,10095.0
+194,1415,2023-07-06,head-on collision,8056.0
+195,317,2023-06-24,head-on collision,11166.0
+196,1655,2023-10-21,drowsy driving,10229.0
+197,900,2023-09-30,driving under the influence,9107.0
+198,18,2023-08-25,improper turns,10950.0
+199,1619,2023-11-29,drowsy driving,13527.0
+200,128,2023-07-10,improper turns,10585.0
+201,1703,2023-07-25,rear-end collision,11535.0
+202,487,2023-10-26,rollover,13328.0
+203,1863,2023-02-24,drowsy driving,8269.0
+204,1692,2023-04-21,drowsy driving,10252.0
+205,495,2024-01-15,speeding,9140.0
+206,400,2023-03-25,aggressive driving,8933.0
+207,1734,2023-11-19,improper turns,12160.0
+208,759,2023-04-26,drowsy driving,13438.0
+209,1432,2023-02-15,head-on collision,11487.0
+210,1296,2023-02-19,speeding,6107.0
+211,1214,2023-12-29,driving under the influence,11023.0
+212,34,2024-01-05,pedestrian accident,12323.0
+213,976,2024-01-13,sideswipe collision,14130.0
+214,1502,2023-05-25,aggressive driving,7113.0
+215,1692,2023-07-19,driving under the influence,10063.0
+216,993,2023-07-01,aggressive driving,8239.0
+217,304,2023-10-22,pedestrian accident,14255.0
+218,1565,2023-07-21,rollover,6028.0
+219,1125,2023-11-12,drowsy driving,7306.0
+220,467,2023-06-03,aggressive driving,12120.0
+221,1138,2024-01-13,distracted driving,13055.0
+222,1181,2023-09-03,rear-end collision,11231.0
+223,1585,2023-12-30,side-impact collision,12163.0
+224,625,2023-10-09,speeding,5825.0
+225,812,2023-12-30,rollover,8511.0
+226,1308,2023-05-07,driving under the influence,11694.0
+227,1864,2023-06-28,rear-end collision,14073.0
+228,76,2023-10-09,pedestrian accident,6381.0
+229,439,2023-11-26,pedestrian accident,12995.0
+230,1982,2023-07-17,sideswipe collision,6507.0
+231,1649,2023-09-24,drowsy driving,6940.0
+232,184,2023-07-20,aggressive driving,11723.0
+233,110,2023-08-15,improper turns,5500.0
+234,431,2023-05-04,driving under the influence,12658.0
+235,1688,2023-05-01,sideswipe collision,6914.0
+236,303,2023-02-24,drowsy driving,11461.0
+237,1254,2023-04-02,drowsy driving,5410.0
+238,1889,2023-09-30,aggressive driving,10770.0
+239,525,2023-05-23,driving under the influence,11505.0
+240,1094,2023-04-30,aggressive driving,12600.0
+241,392,2023-10-02,pedestrian accident,12430.0
+242,838,2023-04-25,head-on collision,6676.0
+243,1739,2023-07-11,driving under the influence,7876.0
+244,1932,2023-08-18,driving under the influence,5748.0
+245,858,2023-03-07,improper turns,7385.0
+246,44,2023-06-28,pedestrian accident,7701.0
+247,1022,2024-02-04,sideswipe collision,6722.0
+248,1047,2023-11-23,pedestrian accident,9834.0
+249,232,2023-04-15,drowsy driving,12064.0
+250,1029,2023-03-29,speeding,5964.0
+251,108,2023-04-21,side-impact collision,12252.0
+252,1043,2023-09-20,distracted driving,8357.0
+253,1254,2023-06-14,rear-end collision,7986.0
+254,199,2023-06-15,sideswipe collision,6287.0
+255,13,2024-02-09,drowsy driving,14675.0
+256,729,2023-05-31,aggressive driving,8937.0
+257,982,2023-12-01,rollover,11407.0
+258,910,2023-04-13,side-impact collision,12955.0
+259,1732,2023-02-24,pedestrian accident,11413.0
+260,1612,2023-09-12,sideswipe collision,8762.0
+261,465,2023-06-21,rear-end collision,11138.0
+262,1806,2023-12-30,pedestrian accident,14220.0
+263,1162,2023-05-29,pedestrian accident,8531.0
+264,1286,2023-03-30,improper turns,14654.0
+265,1714,2023-04-04,drowsy driving,5056.0
+266,149,2023-09-15,improper turns,8788.0
+267,1858,2023-03-22,head-on collision,13518.0
+268,1652,2023-02-27,speeding,8709.0
+269,1401,2023-12-31,sideswipe collision,7159.0
+270,260,2023-08-19,sideswipe collision,10901.0
+271,1345,2024-01-07,head-on collision,13230.0
+272,1619,2023-09-05,aggressive driving,7049.0
+273,1938,2023-04-09,speeding,5806.0
+274,528,2023-12-10,drowsy driving,5542.0
+275,843,2023-08-28,aggressive driving,6431.0
+276,199,2023-03-01,side-impact collision,14252.0
+277,885,2023-05-22,pedestrian accident,6622.0
+278,738,2023-09-10,aggressive driving,11922.0
+279,601,2023-04-20,driving under the influence,11353.0
+280,1439,2023-07-25,speeding,13817.0
+281,825,2023-09-17,aggressive driving,10098.0
+282,560,2023-12-01,driving under the influence,13032.0
+283,411,2023-09-01,aggressive driving,5876.0
+284,1435,2023-11-10,sideswipe collision,10416.0
+285,1026,2023-09-10,pedestrian accident,12476.0
+286,1466,2023-11-18,head-on collision,7518.0
+287,326,2023-10-04,rollover,5219.0
+288,184,2023-08-18,side-impact collision,11193.0
+289,618,2023-07-24,driving under the influence,10632.0
+290,1002,2023-03-11,head-on collision,13154.0
+291,794,2024-01-27,side-impact collision,8986.0
+292,1297,2024-02-06,speeding,8656.0
+293,1814,2023-10-12,rollover,9040.0
+294,1779,2023-10-07,drowsy driving,8338.0
+295,153,2024-01-16,driving under the influence,5429.0
+296,300,2023-05-23,driving under the influence,9513.0
+297,877,2023-09-27,rear-end collision,14521.0
+298,95,2023-04-10,sideswipe collision,11833.0
+299,917,2023-04-24,head-on collision,11529.0
+300,1908,2023-11-26,head-on collision,8940.0
+301,1663,2023-09-22,sideswipe collision,9461.0
+302,120,2023-11-04,rollover,12946.0
+303,360,2023-03-20,rear-end collision,14213.0
+304,530,2023-10-06,distracted driving,10899.0
+305,157,2024-01-01,pedestrian accident,7323.0
+306,14,2023-06-02,rear-end collision,9435.0
+307,1969,2023-07-04,rollover,7545.0
+308,446,2023-10-24,rollover,11347.0
+309,1654,2023-05-11,distracted driving,7179.0
+310,1285,2023-10-22,side-impact collision,9115.0
+311,529,2023-09-07,pedestrian accident,10512.0
+312,624,2023-09-19,driving under the influence,8071.0
+313,336,2023-07-23,speeding,11431.0
+314,339,2023-12-18,rear-end collision,13655.0
+315,773,2023-05-21,head-on collision,12304.0
+316,1150,2023-05-11,sideswipe collision,14651.0
+317,593,2023-08-04,rear-end collision,8403.0
+318,573,2023-12-30,drowsy driving,7083.0
+319,76,2024-01-12,sideswipe collision,6532.0
+320,1194,2023-08-03,distracted driving,5947.0
+321,343,2023-09-19,rear-end collision,14661.0
+322,764,2023-12-26,driving under the influence,13872.0
+323,39,2023-04-20,side-impact collision,12041.0
+324,348,2023-04-15,head-on collision,11936.0
+325,1942,2024-01-03,pedestrian accident,11679.0
+326,1834,2023-07-27,driving under the influence,12534.0
+327,235,2023-07-08,drowsy driving,13704.0
+328,1325,2023-06-03,aggressive driving,6674.0
+329,1278,2023-08-29,distracted driving,13655.0
+330,1045,2023-06-20,improper turns,12751.0
+331,1952,2024-01-11,rear-end collision,14760.0
+332,602,2023-06-17,speeding,11330.0
+333,249,2023-05-17,pedestrian accident,12346.0
+334,1265,2023-08-18,rear-end collision,5800.0
+335,833,2023-12-02,distracted driving,10455.0
+336,1025,2023-05-12,improper turns,6038.0
+337,355,2023-12-15,rollover,6406.0
+338,1108,2023-09-10,distracted driving,8647.0
+339,325,2023-05-01,head-on collision,8665.0
+340,459,2023-04-10,rear-end collision,12159.0
+341,1142,2023-03-22,pedestrian accident,12546.0
+342,841,2023-11-03,pedestrian accident,9323.0
+343,1380,2023-04-15,head-on collision,9417.0
+344,728,2023-09-20,distracted driving,14350.0
+345,577,2023-09-01,speeding,12381.0
+346,465,2023-08-25,distracted driving,6827.0
+347,1976,2023-02-24,driving under the influence,13051.0
+348,1350,2023-04-04,rollover,13411.0
+349,114,2023-12-18,distracted driving,14949.0
+350,771,2024-01-22,driving under the influence,10835.0
+351,1533,2023-12-09,driving under the influence,13181.0
+352,387,2024-01-17,driving under the influence,10364.0
+353,1663,2023-12-14,speeding,6905.0
+354,1115,2023-05-20,drowsy driving,8292.0
+355,244,2023-08-19,distracted driving,13392.0
+356,1180,2023-02-12,drowsy driving,10169.0
+357,1483,2023-03-19,driving under the influence,8501.0
+358,1164,2023-11-23,sideswipe collision,11724.0
+359,1374,2023-03-25,sideswipe collision,11110.0
+360,585,2024-02-03,improper turns,6455.0
+361,750,2023-12-29,sideswipe collision,6875.0
+362,522,2023-04-12,driving under the influence,5259.0
+363,1976,2023-09-13,rollover,14185.0
+364,688,2023-10-14,rear-end collision,11472.0
+365,1231,2023-12-28,distracted driving,6467.0
+366,307,2023-09-22,drowsy driving,14816.0
+367,53,2023-12-18,aggressive driving,7666.0
+368,1094,2023-03-29,sideswipe collision,11841.0
+369,702,2023-07-22,improper turns,8557.0
+370,1096,2023-10-31,sideswipe collision,8449.0
+371,1514,2023-05-08,rear-end collision,6110.0
+372,722,2023-05-21,driving under the influence,5556.0
+373,496,2023-03-12,aggressive driving,11334.0
+374,1567,2023-05-18,pedestrian accident,11424.0
+375,851,2023-10-13,side-impact collision,10984.0
+376,78,2023-12-13,distracted driving,5982.0
+377,1819,2023-10-12,rear-end collision,11241.0
+378,915,2023-03-22,side-impact collision,9657.0
+379,1327,2023-07-26,sideswipe collision,7937.0
+380,191,2023-09-04,aggressive driving,11759.0
+381,1461,2023-03-31,rear-end collision,11340.0
+382,180,2024-01-13,drowsy driving,13625.0
+383,911,2023-05-04,rollover,8868.0
+384,660,2023-05-06,drowsy driving,10315.0
+385,646,2023-04-23,distracted driving,6328.0
+386,80,2023-12-01,improper turns,5409.0
+387,276,2023-02-27,sideswipe collision,10942.0
+388,115,2023-07-08,sideswipe collision,14025.0
+389,1949,2023-05-08,speeding,10973.0
+390,932,2023-08-26,aggressive driving,14157.0
+391,1481,2023-10-03,rollover,6550.0
+392,616,2024-01-06,pedestrian accident,11242.0
+393,1070,2023-07-22,improper turns,9685.0
+394,1526,2023-11-14,distracted driving,7171.0
+395,512,2023-10-28,speeding,8630.0
+396,933,2023-07-07,head-on collision,5605.0
+397,221,2023-05-30,rear-end collision,6788.0
+398,1727,2024-01-07,aggressive driving,7904.0
+399,1824,2023-07-16,drowsy driving,11587.0
+400,817,2024-02-03,head-on collision,13074.0
+401,1111,2023-08-10,distracted driving,9018.0
+402,1190,2023-06-23,rollover,8124.0
+403,1690,2023-02-13,pedestrian accident,7250.0
+404,143,2024-01-20,pedestrian accident,8164.0
+405,161,2023-11-25,distracted driving,12982.0
+406,401,2024-01-04,head-on collision,14300.0
+407,1406,2023-08-03,distracted driving,6569.0
+408,24,2023-11-11,speeding,8691.0
+409,622,2023-12-11,rollover,6766.0
+410,1582,2023-08-30,improper turns,11744.0
+411,1819,2023-11-14,aggressive driving,12740.0
+412,255,2023-09-25,rollover,12780.0
+413,1632,2023-10-08,drowsy driving,5845.0
+414,391,2023-03-31,rear-end collision,11725.0
+415,1823,2023-03-25,rear-end collision,8268.0
+416,214,2023-09-10,drowsy driving,13566.0
+417,345,2023-03-26,side-impact collision,7741.0
+418,480,2023-02-23,distracted driving,11923.0
+419,857,2024-01-17,driving under the influence,12543.0
+420,1433,2023-08-14,sideswipe collision,11022.0
+421,1454,2023-09-22,side-impact collision,8046.0
+422,394,2023-08-18,rollover,9660.0
+423,1716,2023-10-27,side-impact collision,11136.0
+424,713,2023-10-07,sideswipe collision,9979.0
+425,1829,2024-01-19,speeding,7347.0
+426,1530,2023-09-15,side-impact collision,11239.0
+427,748,2023-05-29,aggressive driving,12973.0
+428,11,2023-06-30,aggressive driving,9525.0
+429,1790,2023-08-11,head-on collision,12554.0
+430,1134,2023-11-30,distracted driving,11245.0
+431,1269,2024-01-13,driving under the influence,14931.0
+432,194,2023-04-14,head-on collision,14742.0
+433,1109,2023-09-22,head-on collision,11369.0
+434,1569,2023-06-28,drowsy driving,8444.0
+435,768,2023-12-19,speeding,5948.0
+436,180,2023-12-24,speeding,11674.0
+437,698,2023-11-17,sideswipe collision,5382.0
+438,435,2023-03-10,aggressive driving,7883.0
+439,1222,2023-05-24,side-impact collision,12923.0
+440,529,2023-10-26,head-on collision,5383.0
+441,8,2023-09-12,rollover,13349.0
+442,229,2023-06-16,improper turns,14799.0
+443,314,2023-04-26,aggressive driving,6012.0
+444,85,2023-11-27,driving under the influence,13284.0
+445,613,2023-04-14,rear-end collision,9836.0
+446,738,2023-06-04,aggressive driving,7618.0
+447,729,2023-10-02,improper turns,9875.0
+448,346,2023-04-30,aggressive driving,6306.0
+449,298,2023-04-05,rollover,14712.0
+450,379,2023-08-20,pedestrian accident,9705.0
+451,1983,2023-09-27,driving under the influence,8026.0
+452,1201,2023-03-04,aggressive driving,7890.0
+453,1174,2023-05-26,aggressive driving,12078.0
+454,196,2023-02-17,head-on collision,8407.0
+455,2000,2023-12-03,pedestrian accident,9574.0
+456,426,2023-04-20,rollover,5535.0
+457,1874,2023-05-26,head-on collision,11908.0
+458,282,2023-03-19,aggressive driving,5197.0
+459,1443,2023-08-17,head-on collision,10070.0
+460,352,2023-03-15,sideswipe collision,5688.0
+461,308,2023-09-16,rollover,13222.0
+462,49,2023-07-10,side-impact collision,12971.0
+463,1452,2023-07-24,sideswipe collision,7785.0
+464,1678,2024-01-12,speeding,13925.0
+465,1935,2023-03-17,rear-end collision,12280.0
+466,1865,2023-05-31,side-impact collision,5410.0
+467,1174,2023-05-16,drowsy driving,7263.0
+468,95,2023-06-23,improper turns,10951.0
+469,1207,2023-03-29,aggressive driving,7835.0
+470,954,2023-12-23,distracted driving,6132.0
+471,1456,2023-08-25,side-impact collision,8805.0
+472,1723,2023-10-02,improper turns,5928.0
+473,882,2023-06-03,driving under the influence,12150.0
+474,60,2023-03-09,aggressive driving,5012.0
+475,983,2023-02-16,aggressive driving,9331.0
+476,1654,2023-08-27,speeding,10278.0
+477,912,2023-02-13,drowsy driving,7961.0
+478,745,2023-09-29,improper turns,11166.0
+479,1046,2024-02-05,drowsy driving,12870.0
+480,1026,2023-06-30,head-on collision,6639.0
+481,449,2023-12-08,improper turns,12924.0
+482,282,2023-05-06,improper turns,14547.0
+483,19,2023-10-25,side-impact collision,8823.0
+484,1771,2024-01-28,sideswipe collision,11717.0
+485,347,2023-08-09,driving under the influence,6099.0
+486,186,2023-03-04,pedestrian accident,6131.0
+487,203,2023-12-22,driving under the influence,7146.0
+488,612,2023-08-30,pedestrian accident,8847.0
+489,83,2023-07-17,pedestrian accident,11161.0
+490,700,2023-05-07,head-on collision,8215.0
+491,1143,2023-11-05,distracted driving,11786.0
+492,1721,2023-04-03,sideswipe collision,12090.0
+493,1315,2023-09-22,speeding,8184.0
+494,794,2023-10-29,head-on collision,8572.0
+495,277,2023-05-07,pedestrian accident,6413.0
+496,1085,2023-12-14,speeding,10834.0
+497,896,2023-06-15,speeding,8764.0
+498,679,2023-08-31,improper turns,6483.0
+499,1438,2023-03-14,driving under the influence,9668.0
+500,743,2023-10-12,speeding,11389.0
+501,1459,2023-04-05,rollover,10328.0
+502,552,2024-02-11,sideswipe collision,11970.0
+503,1952,2023-06-23,driving under the influence,13615.0
+504,1654,2023-06-13,aggressive driving,12740.0
+505,1259,2023-02-18,side-impact collision,10206.0
+506,371,2023-10-18,rear-end collision,9086.0
+507,174,2023-03-20,distracted driving,9834.0
+508,792,2023-03-26,side-impact collision,5525.0
+509,1811,2023-12-22,speeding,5534.0
+510,1809,2023-06-29,head-on collision,11316.0
+511,1211,2023-07-10,speeding,11112.0
+512,294,2023-05-08,sideswipe collision,8471.0
+513,309,2023-09-23,pedestrian accident,11515.0
+514,1196,2023-11-02,rollover,11772.0
+515,541,2023-04-30,driving under the influence,9874.0
+516,255,2023-12-29,driving under the influence,10037.0
+517,1765,2024-01-23,side-impact collision,12434.0
+518,1823,2024-02-01,aggressive driving,8196.0
+519,347,2023-07-02,aggressive driving,12803.0
+520,1276,2023-11-16,rear-end collision,7483.0
+521,820,2023-07-19,rollover,12025.0
+522,86,2023-07-04,speeding,8063.0
+523,747,2023-09-07,rear-end collision,13595.0
+524,1827,2023-10-08,rollover,7411.0
+525,1334,2023-07-21,aggressive driving,9603.0
+526,1095,2023-06-10,driving under the influence,6349.0
+527,1041,2023-07-19,sideswipe collision,5295.0
+528,86,2023-02-24,driving under the influence,5530.0
+529,530,2023-09-15,rear-end collision,12785.0
+530,1621,2023-09-12,rear-end collision,12018.0
+531,471,2023-12-09,driving under the influence,7140.0
+532,269,2023-05-27,head-on collision,11943.0
+533,157,2024-02-08,speeding,13708.0
+534,431,2023-06-27,rollover,13897.0
+535,1467,2023-12-20,distracted driving,13451.0
+536,42,2023-08-12,drowsy driving,14532.0
+537,913,2023-09-18,aggressive driving,9811.0
+538,318,2024-01-23,sideswipe collision,8900.0
+539,1568,2023-12-03,pedestrian accident,8087.0
+540,1584,2023-07-20,improper turns,11126.0
+541,1549,2023-10-20,aggressive driving,8550.0
+542,383,2023-08-02,distracted driving,12951.0
+543,1816,2023-04-14,rollover,10938.0
+544,1786,2023-03-05,speeding,5833.0
+545,875,2023-08-18,pedestrian accident,13540.0
+546,212,2023-04-21,rear-end collision,13418.0
+547,1987,2023-08-18,distracted driving,6332.0
+548,331,2023-03-02,speeding,6959.0
+549,1275,2024-01-04,pedestrian accident,12239.0
+550,1504,2023-03-13,sideswipe collision,14548.0
+551,157,2023-05-30,sideswipe collision,14453.0
+552,1277,2023-07-10,drowsy driving,6816.0
+553,1643,2023-07-04,side-impact collision,7823.0
+554,1973,2023-11-27,side-impact collision,13972.0
+555,816,2023-04-27,side-impact collision,8714.0
+556,136,2023-04-01,head-on collision,11673.0
+557,405,2023-07-03,head-on collision,14754.0
+558,337,2023-11-09,improper turns,13035.0
+559,1711,2023-03-11,rollover,11492.0
+560,95,2023-05-19,side-impact collision,14606.0
+561,1268,2023-12-15,drowsy driving,14477.0
+562,736,2024-01-24,rollover,10813.0
+563,1068,2023-12-07,drowsy driving,8157.0
+564,1655,2023-05-25,rear-end collision,12050.0
+565,197,2023-08-14,distracted driving,5097.0
+566,239,2024-01-31,pedestrian accident,13507.0
+567,1782,2023-09-24,rear-end collision,11734.0
+568,248,2023-09-01,improper turns,9276.0
+569,392,2023-11-02,rollover,10339.0
+570,1083,2023-03-16,head-on collision,6210.0
+571,1896,2024-01-19,sideswipe collision,10566.0
+572,584,2023-08-14,pedestrian accident,8236.0
+573,1279,2023-04-01,aggressive driving,10931.0
+574,1772,2023-11-22,improper turns,6478.0
+575,892,2024-01-02,pedestrian accident,12518.0
+576,969,2023-12-17,aggressive driving,7370.0
+577,1502,2023-03-13,driving under the influence,9834.0
+578,1518,2023-03-29,rear-end collision,14724.0
+579,552,2023-03-09,pedestrian accident,10235.0
+580,720,2023-05-01,distracted driving,9331.0
+581,293,2023-12-26,drowsy driving,11168.0
+582,1851,2023-11-30,improper turns,11112.0
+583,339,2023-08-16,pedestrian accident,12914.0
+584,1123,2023-07-19,pedestrian accident,6117.0
+585,1022,2024-02-08,improper turns,14052.0
+586,1420,2024-01-25,head-on collision,9626.0
+587,630,2023-12-19,head-on collision,12541.0
+588,39,2023-05-10,sideswipe collision,7477.0
+589,241,2024-01-30,rear-end collision,9085.0
+590,1980,2024-02-10,improper turns,5279.0
+591,1841,2023-11-13,aggressive driving,10745.0
+592,1811,2023-07-17,driving under the influence,12997.0
+593,60,2023-09-08,distracted driving,5877.0
+594,258,2023-07-08,side-impact collision,11713.0
+595,315,2023-11-10,side-impact collision,8228.0
+596,1072,2023-03-31,sideswipe collision,7747.0
+597,801,2023-03-27,head-on collision,8039.0
+598,1258,2023-02-23,rollover,14560.0
+599,662,2023-04-21,drowsy driving,8487.0
+600,1450,2023-03-01,side-impact collision,6261.0
+601,682,2023-10-16,aggressive driving,13376.0
+602,1549,2023-09-30,side-impact collision,8373.0
+603,1357,2023-10-23,rollover,5491.0
+604,989,2024-02-02,driving under the influence,14032.0
+605,1058,2023-05-17,distracted driving,14417.0
+606,558,2023-10-15,rear-end collision,9845.0
+607,299,2023-09-30,driving under the influence,14899.0
+608,1488,2023-04-27,improper turns,6257.0
+609,1136,2023-12-01,side-impact collision,5169.0
+610,375,2023-04-03,rear-end collision,5567.0
+611,708,2023-08-30,drowsy driving,10457.0
+612,699,2023-08-19,head-on collision,5299.0
+613,1904,2024-01-25,pedestrian accident,7023.0
+614,136,2023-03-29,rear-end collision,13769.0
+615,1861,2023-04-01,pedestrian accident,11877.0
+616,912,2023-07-21,sideswipe collision,12573.0
+617,1119,2023-03-22,aggressive driving,14097.0
+618,710,2023-04-24,speeding,10374.0
+619,1009,2023-05-04,drowsy driving,9983.0
+620,1511,2023-05-30,distracted driving,14234.0
+621,599,2023-05-02,pedestrian accident,7004.0
+622,1170,2023-03-07,rollover,12508.0
+623,524,2023-11-24,rear-end collision,5887.0
+624,555,2023-04-20,rollover,10042.0
+625,154,2023-12-19,rollover,5298.0
+626,951,2024-01-23,sideswipe collision,6929.0
+627,732,2023-07-07,improper turns,12379.0
+628,813,2023-06-09,pedestrian accident,12285.0
+629,537,2023-02-26,head-on collision,9561.0
+630,482,2023-09-21,sideswipe collision,12946.0
+631,253,2023-05-25,rear-end collision,10228.0
+632,34,2023-09-12,side-impact collision,11061.0
+633,1223,2023-03-10,aggressive driving,10995.0
+634,576,2023-05-23,distracted driving,6278.0
+635,967,2024-01-08,sideswipe collision,11917.0
+636,646,2023-04-14,distracted driving,5087.0
+637,1790,2023-09-30,rollover,11891.0
+638,1220,2023-11-18,drowsy driving,13590.0
+639,921,2023-07-26,pedestrian accident,9576.0
+640,1197,2023-05-25,distracted driving,13927.0
+641,438,2023-12-19,rear-end collision,6004.0
+642,717,2023-02-12,driving under the influence,11839.0
+643,949,2023-11-14,rollover,13461.0
+644,1561,2023-09-28,driving under the influence,9934.0
+645,656,2023-04-16,distracted driving,11353.0
+646,173,2024-01-16,rear-end collision,13385.0
+647,907,2023-02-24,aggressive driving,12923.0
+648,232,2023-12-18,sideswipe collision,9055.0
+649,316,2024-01-30,speeding,5345.0
+650,156,2024-02-03,distracted driving,10809.0
+651,1496,2023-07-07,sideswipe collision,6122.0
+652,1195,2023-08-24,sideswipe collision,14815.0
+653,457,2023-11-12,distracted driving,14134.0
+654,793,2023-12-12,drowsy driving,6027.0
+655,1460,2023-02-27,improper turns,5698.0
+656,1077,2023-06-05,distracted driving,7968.0
+657,1671,2023-02-15,pedestrian accident,6830.0
+658,1074,2023-07-17,aggressive driving,14874.0
+659,1424,2023-04-15,speeding,10820.0
+660,1134,2023-09-26,drowsy driving,13705.0
+661,1061,2023-04-15,aggressive driving,14013.0
+662,1256,2023-06-17,driving under the influence,11569.0
+663,1791,2023-04-14,drowsy driving,13065.0
+664,121,2023-06-28,rear-end collision,7350.0
+665,1226,2023-07-13,aggressive driving,6027.0
+666,1042,2023-07-25,driving under the influence,6831.0
+667,1368,2023-10-05,rollover,12597.0
+668,1446,2023-12-28,pedestrian accident,5698.0
+669,164,2023-09-06,drowsy driving,6888.0
+670,1766,2023-11-13,rear-end collision,7671.0
+671,963,2023-09-23,distracted driving,11934.0
+672,604,2023-03-13,improper turns,14241.0
+673,85,2024-01-07,aggressive driving,12094.0
+674,1941,2023-04-02,speeding,12836.0
+675,1647,2023-02-13,improper turns,14004.0
+676,768,2023-06-09,head-on collision,7711.0
+677,734,2023-10-20,pedestrian accident,9065.0
+678,616,2023-04-29,side-impact collision,13940.0
+679,878,2023-12-26,driving under the influence,14468.0
+680,156,2023-05-09,rollover,13808.0
+681,1431,2023-07-24,speeding,9315.0
+682,1603,2023-08-25,speeding,10058.0
+683,507,2024-01-01,improper turns,7762.0
+684,333,2023-09-17,drowsy driving,13745.0
+685,1606,2023-04-09,improper turns,5155.0
+686,1238,2023-05-17,driving under the influence,7606.0
+687,515,2023-12-01,improper turns,14433.0
+688,1150,2023-11-05,speeding,8065.0
+689,1694,2023-09-08,rear-end collision,5266.0
+690,1098,2023-07-02,rear-end collision,11799.0
+691,519,2023-08-25,sideswipe collision,13279.0
+692,908,2023-07-13,speeding,7888.0
+693,476,2023-04-13,sideswipe collision,10852.0
+694,1637,2023-08-22,head-on collision,7599.0
+695,135,2023-11-12,speeding,7153.0
+696,1716,2023-05-27,aggressive driving,13584.0
+697,1751,2023-12-10,side-impact collision,12786.0
+698,1218,2023-03-12,sideswipe collision,9271.0
+699,918,2023-09-15,drowsy driving,8460.0
+700,1618,2023-09-28,side-impact collision,5170.0
+701,37,2024-01-07,distracted driving,5546.0
+702,554,2023-08-25,improper turns,9250.0
+703,844,2023-07-07,aggressive driving,11797.0
+704,1074,2023-12-08,rear-end collision,13059.0
+705,1821,2023-05-06,side-impact collision,11448.0
+706,467,2023-02-28,pedestrian accident,9652.0
+707,153,2023-07-21,distracted driving,12998.0
+708,1213,2024-01-10,rollover,13966.0
+709,1600,2023-10-09,rear-end collision,11936.0
+710,1453,2023-05-04,pedestrian accident,11128.0
+711,786,2023-07-17,head-on collision,7745.0
+712,185,2023-12-19,driving under the influence,10328.0
+713,1664,2023-06-12,head-on collision,10831.0
+714,430,2023-12-29,speeding,5235.0
+715,1470,2023-03-29,rear-end collision,8674.0
+716,1620,2023-09-22,drowsy driving,14000.0
+717,939,2023-02-21,improper turns,11121.0
+718,297,2023-02-17,distracted driving,14361.0
+719,714,2023-03-01,pedestrian accident,14145.0
+720,859,2023-07-10,pedestrian accident,14673.0
+721,1306,2023-10-15,speeding,6319.0
+722,1613,2024-01-24,side-impact collision,9093.0
+723,1346,2023-05-18,sideswipe collision,10740.0
+724,234,2023-11-11,distracted driving,11075.0
+725,575,2024-02-05,improper turns,13797.0
+726,480,2023-12-31,drowsy driving,8519.0
+727,1106,2023-04-23,distracted driving,6938.0
+728,429,2023-04-28,side-impact collision,9109.0
+729,897,2024-01-07,sideswipe collision,10958.0
+730,520,2023-07-19,improper turns,11511.0
+731,467,2023-04-09,aggressive driving,10914.0
+732,1813,2023-12-24,speeding,8581.0
+733,790,2023-05-10,rear-end collision,5335.0
+734,388,2023-09-06,drowsy driving,5325.0
+735,1038,2024-02-08,side-impact collision,7108.0
+736,61,2023-11-03,side-impact collision,10228.0
+737,1640,2023-10-21,aggressive driving,9952.0
+738,1878,2023-05-18,head-on collision,7578.0
+739,1606,2023-12-20,rollover,5901.0
+740,576,2023-04-18,aggressive driving,10437.0
+741,1140,2023-04-12,distracted driving,6171.0
+742,1199,2024-01-06,pedestrian accident,9795.0
+743,1055,2023-04-23,pedestrian accident,7032.0
+744,396,2024-01-10,side-impact collision,8877.0
+745,1293,2023-10-03,side-impact collision,6554.0
+746,1146,2023-08-08,rollover,14223.0
+747,953,2023-02-19,head-on collision,5506.0
+748,1313,2023-09-03,sideswipe collision,9583.0
+749,772,2023-08-10,drowsy driving,9472.0
+750,402,2023-10-03,head-on collision,12382.0
+751,1912,2024-01-01,improper turns,5364.0
+752,1756,2023-06-06,side-impact collision,7207.0
+753,1005,2023-02-11,rear-end collision,8197.0
+754,1795,2023-08-11,rollover,6518.0
+755,705,2023-06-29,rollover,7774.0
+756,1643,2024-01-06,sideswipe collision,10564.0
+757,1710,2023-10-26,driving under the influence,7365.0
+758,407,2023-07-16,driving under the influence,9157.0
+759,1846,2024-02-10,speeding,9641.0
+760,18,2023-07-05,head-on collision,9721.0
+761,1295,2023-09-04,rollover,8869.0
+762,340,2023-05-21,drowsy driving,5790.0
+763,79,2023-12-13,side-impact collision,9431.0
+764,646,2023-12-01,rear-end collision,12758.0
+765,154,2023-04-16,driving under the influence,9876.0
+766,168,2023-10-10,aggressive driving,10447.0
+767,368,2023-06-23,distracted driving,9078.0
+768,244,2024-01-27,driving under the influence,11318.0
+769,1417,2023-02-15,rollover,12688.0
+770,973,2023-06-24,aggressive driving,7385.0
+771,1788,2023-05-28,aggressive driving,5476.0
+772,619,2023-10-04,drowsy driving,13702.0
+773,245,2023-10-04,head-on collision,9620.0
+774,425,2023-08-29,improper turns,6498.0
+775,663,2023-09-28,side-impact collision,12723.0
+776,894,2023-02-12,head-on collision,9624.0
+777,1158,2023-10-12,improper turns,9960.0
+778,226,2023-04-14,head-on collision,7012.0
+779,1210,2023-09-02,speeding,12636.0
+780,748,2023-11-30,rear-end collision,6739.0
+781,1840,2023-08-16,pedestrian accident,8503.0
+782,1757,2024-01-15,side-impact collision,11547.0
+783,1242,2023-04-27,distracted driving,12834.0
+784,625,2024-01-12,rollover,12743.0
+785,1881,2023-07-01,pedestrian accident,11200.0
+786,275,2023-08-06,drowsy driving,10786.0
+787,1878,2023-11-20,speeding,5323.0
+788,1379,2023-04-16,pedestrian accident,10627.0
+789,487,2023-06-03,driving under the influence,9585.0
+790,1704,2023-11-01,distracted driving,7601.0
+791,1781,2024-01-09,sideswipe collision,10822.0
+792,659,2023-06-11,improper turns,13317.0
+793,1813,2023-06-01,drowsy driving,14917.0
+794,1954,2023-02-11,driving under the influence,9030.0
+795,533,2023-05-01,sideswipe collision,12224.0
+796,137,2023-05-10,drowsy driving,6242.0
+797,1722,2023-10-24,improper turns,5430.0
+798,1508,2023-02-14,side-impact collision,14027.0
+799,1359,2024-01-30,rear-end collision,10002.0
+800,1481,2023-06-15,pedestrian accident,6713.0
+801,803,2023-04-25,improper turns,6769.0
+802,1872,2023-10-07,side-impact collision,12376.0
+803,1024,2024-01-12,head-on collision,9344.0
+804,507,2023-03-30,side-impact collision,14525.0
+805,818,2023-11-18,rear-end collision,10892.0
+806,975,2023-05-30,head-on collision,8536.0
+807,349,2023-04-25,aggressive driving,5122.0
+808,876,2024-01-03,sideswipe collision,12605.0
+809,1949,2023-07-25,driving under the influence,7111.0
+810,1370,2023-03-15,rollover,12932.0
+811,1689,2023-11-23,aggressive driving,12237.0
+812,122,2023-09-25,head-on collision,9144.0
+813,1245,2023-03-03,pedestrian accident,14684.0
+814,466,2023-06-14,drowsy driving,14568.0
+815,1642,2023-04-11,driving under the influence,5571.0
+816,1001,2024-01-22,aggressive driving,14620.0
+817,1738,2023-07-30,speeding,12314.0
+818,122,2023-11-06,side-impact collision,10052.0
+819,576,2024-01-26,speeding,10954.0
+820,68,2023-02-23,speeding,12285.0
+821,461,2023-04-30,side-impact collision,14865.0
+822,455,2023-02-20,aggressive driving,8609.0
+823,828,2024-02-01,rollover,14526.0
+824,296,2023-10-28,side-impact collision,10911.0
+825,217,2024-01-23,driving under the influence,9136.0
+826,1796,2023-08-25,distracted driving,14297.0
+827,1178,2023-08-19,pedestrian accident,12019.0
+828,306,2023-07-29,driving under the influence,12382.0
+829,76,2023-10-04,rear-end collision,6793.0
+830,1261,2023-11-03,speeding,10171.0
+831,722,2023-03-21,drowsy driving,5863.0
+832,545,2023-08-18,distracted driving,14118.0
+833,849,2023-06-17,side-impact collision,14273.0
+834,760,2023-03-27,rear-end collision,14913.0
+835,616,2023-04-08,driving under the influence,8710.0
+836,694,2023-09-09,distracted driving,11785.0
+837,897,2023-06-20,sideswipe collision,13043.0
+838,1417,2024-01-17,aggressive driving,8952.0
+839,1462,2023-10-05,speeding,5723.0
+840,1297,2023-02-28,driving under the influence,7006.0
+841,1299,2024-01-02,driving under the influence,11857.0
+842,1108,2023-05-14,pedestrian accident,9377.0
+843,98,2023-04-08,aggressive driving,9590.0
+844,1746,2023-10-10,aggressive driving,14767.0
+845,314,2023-07-05,head-on collision,11989.0
+846,347,2023-03-17,head-on collision,12710.0
+847,191,2023-02-12,driving under the influence,12834.0
+848,1778,2023-11-04,pedestrian accident,9740.0
+849,490,2023-06-03,rollover,8148.0
+850,24,2023-10-11,head-on collision,9692.0
+851,1988,2024-01-21,distracted driving,6141.0
+852,1528,2023-08-21,pedestrian accident,13601.0
+853,363,2023-05-21,head-on collision,7349.0
+854,1612,2023-04-08,rear-end collision,12309.0
+855,1280,2023-06-13,driving under the influence,13838.0
+856,491,2023-05-20,improper turns,10870.0
+857,73,2023-09-05,rollover,8119.0
+858,1590,2023-10-06,distracted driving,13874.0
+859,1351,2023-09-02,driving under the influence,11832.0
+860,1424,2023-05-29,aggressive driving,8861.0
+861,717,2023-12-02,aggressive driving,10470.0
+862,1016,2023-08-16,side-impact collision,9729.0
+863,22,2023-05-22,side-impact collision,12304.0
+864,1336,2023-08-11,drowsy driving,14721.0
+865,1218,2023-03-10,rear-end collision,9677.0
+866,30,2023-03-18,speeding,9867.0
+867,55,2023-06-13,sideswipe collision,6582.0
+868,1273,2023-12-12,head-on collision,11305.0
+869,1693,2023-05-07,drowsy driving,12011.0
+870,538,2023-10-02,aggressive driving,11082.0
+871,1470,2023-05-12,rear-end collision,6711.0
+872,753,2023-08-05,sideswipe collision,8303.0
+873,1145,2023-07-25,head-on collision,14403.0
+874,1533,2023-10-27,speeding,10008.0
+875,1198,2023-09-04,rear-end collision,9987.0
+876,1103,2024-02-06,pedestrian accident,13195.0
+877,749,2023-02-12,improper turns,12961.0
+878,924,2023-10-01,improper turns,14024.0
+879,1780,2023-09-23,aggressive driving,10390.0
+880,1955,2023-06-28,driving under the influence,8150.0
+881,1546,2023-11-27,speeding,9593.0
+882,1801,2024-01-07,speeding,9552.0
+883,484,2023-07-24,aggressive driving,10336.0
+884,460,2023-05-01,improper turns,13144.0
+885,972,2023-04-02,rear-end collision,12566.0
+886,730,2024-01-11,drowsy driving,7151.0
+887,283,2023-03-03,head-on collision,10203.0
+888,1207,2023-06-25,improper turns,11048.0
+889,540,2023-08-30,improper turns,8345.0
+890,331,2023-09-29,distracted driving,5860.0
+891,1640,2023-08-09,improper turns,8877.0
+892,480,2023-06-05,speeding,13970.0
+893,351,2023-04-17,side-impact collision,9835.0
+894,1702,2023-05-26,aggressive driving,13421.0
+895,310,2023-12-23,driving under the influence,6061.0
+896,749,2023-12-04,speeding,13661.0
+897,1640,2023-03-23,rear-end collision,5161.0
+898,1494,2024-01-31,distracted driving,11609.0
+899,1180,2023-08-31,rear-end collision,13944.0
+900,682,2023-10-10,speeding,12752.0
+901,273,2024-01-17,rollover,6580.0
+902,704,2023-02-12,speeding,12356.0
+903,719,2023-08-31,rollover,9323.0
+904,430,2023-07-31,sideswipe collision,11125.0
+905,1925,2024-01-19,driving under the influence,12330.0
+906,1202,2023-06-24,sideswipe collision,6700.0
+907,284,2024-02-11,improper turns,13219.0
+908,635,2023-08-17,rollover,6331.0
+909,1529,2023-12-16,drowsy driving,7879.0
+910,899,2023-12-02,speeding,6914.0
+911,822,2023-03-14,speeding,14781.0
+912,1877,2023-05-01,driving under the influence,13163.0
+913,1449,2023-09-27,improper turns,9045.0
+914,914,2023-08-16,side-impact collision,10136.0
+915,603,2023-09-06,pedestrian accident,7863.0
+916,1130,2023-04-30,driving under the influence,10567.0
+917,1476,2023-10-22,distracted driving,14132.0
+918,782,2023-11-05,rear-end collision,14360.0
+919,56,2024-01-04,speeding,11161.0
+920,1063,2023-10-28,improper turns,8485.0
+921,782,2023-03-05,rollover,11392.0
+922,1311,2023-12-05,side-impact collision,11586.0
+923,1906,2023-10-08,speeding,9783.0
+924,1237,2024-01-27,aggressive driving,11043.0
+925,255,2023-10-07,rear-end collision,7654.0
+926,1816,2023-10-29,rear-end collision,5450.0
+927,494,2023-03-16,speeding,14070.0
+928,388,2023-02-24,driving under the influence,9886.0
+929,1333,2023-05-27,pedestrian accident,11026.0
+930,519,2024-01-22,drowsy driving,13203.0
+931,1655,2023-11-11,sideswipe collision,14398.0
+932,1160,2023-05-11,head-on collision,10703.0
+933,550,2023-11-12,pedestrian accident,13812.0
+934,1137,2023-05-06,driving under the influence,13671.0
+935,992,2023-05-21,drowsy driving,12360.0
+936,989,2024-01-23,rear-end collision,5770.0
+937,59,2023-03-30,drowsy driving,12433.0
+938,1488,2023-03-13,rollover,11598.0
+939,745,2023-03-01,speeding,12510.0
+940,938,2023-04-18,sideswipe collision,7077.0
+941,911,2023-10-15,driving under the influence,12057.0
+942,1805,2024-01-23,pedestrian accident,5307.0
+943,1354,2023-10-16,distracted driving,9830.0
+944,86,2023-10-16,aggressive driving,12077.0
+945,1235,2023-09-07,distracted driving,11530.0
+946,1826,2023-03-01,driving under the influence,8688.0
+947,1855,2023-08-26,distracted driving,6711.0
+948,160,2023-07-12,speeding,14888.0
+949,865,2023-02-12,rollover,8950.0
+950,522,2023-07-21,head-on collision,5496.0
+951,834,2023-07-23,improper turns,11160.0
+952,655,2023-05-14,side-impact collision,11251.0
+953,918,2023-09-20,sideswipe collision,12246.0
+954,1295,2023-11-07,driving under the influence,9393.0
+955,273,2023-03-26,drowsy driving,8739.0
+956,483,2023-10-05,distracted driving,8209.0
+957,1236,2023-10-23,distracted driving,5193.0
+958,1569,2023-05-06,distracted driving,7051.0
+959,1152,2023-09-30,distracted driving,8128.0
+960,1308,2023-05-03,speeding,8552.0
+961,762,2023-04-28,distracted driving,5012.0
+962,1151,2023-09-04,speeding,14999.0
+963,16,2023-07-20,aggressive driving,12512.0
+964,1928,2023-06-30,sideswipe collision,7951.0
+965,1303,2023-11-19,driving under the influence,7726.0
+966,1010,2023-03-01,driving under the influence,11299.0
+967,150,2023-05-08,drowsy driving,13186.0
+968,1643,2023-12-23,pedestrian accident,7205.0
+969,1138,2023-03-06,rear-end collision,8499.0
+970,1036,2023-09-07,aggressive driving,13346.0
+971,293,2023-10-09,drowsy driving,13366.0
+972,909,2023-06-23,side-impact collision,11842.0
+973,101,2023-07-07,improper turns,11966.0
+974,1871,2023-10-29,sideswipe collision,11038.0
+975,477,2023-07-08,speeding,8520.0
+976,1729,2023-10-19,head-on collision,6375.0
+977,1697,2023-12-21,head-on collision,11055.0
+978,1675,2023-05-19,distracted driving,14630.0
+979,924,2023-10-24,distracted driving,5670.0
+980,1045,2023-11-30,speeding,11845.0
+981,1740,2023-05-02,distracted driving,7312.0
+982,580,2023-11-25,pedestrian accident,5014.0
+983,1439,2023-09-07,rollover,6368.0
+984,1378,2024-01-05,side-impact collision,8204.0
+985,1799,2024-02-04,improper turns,6486.0
+986,1161,2023-04-05,head-on collision,13727.0
+987,1800,2023-11-04,driving under the influence,14313.0
+988,397,2023-05-23,head-on collision,8130.0
+989,1736,2023-04-04,driving under the influence,14909.0
+990,1828,2023-12-20,drowsy driving,9394.0
+991,129,2023-09-26,rollover,12393.0
+992,108,2023-07-04,driving under the influence,9629.0
+993,1583,2023-12-29,aggressive driving,12164.0
+994,135,2023-02-20,pedestrian accident,13203.0
+995,537,2023-07-09,pedestrian accident,13230.0
+996,1981,2024-01-13,rollover,6108.0
+997,365,2023-06-05,drowsy driving,9497.0
+998,1240,2023-04-20,distracted driving,8267.0
+999,927,2023-02-11,distracted driving,11701.0
+1000,470,2023-05-23,aggressive driving,14986.0
+1001,1100,2023-09-09,pedestrian accident,11729.0
+1002,1732,2023-03-29,pedestrian accident,10509.0
+1003,720,2024-01-27,improper turns,5413.0
+1004,560,2023-09-22,speeding,9306.0
+1005,68,2023-05-08,head-on collision,6619.0
+1006,85,2023-04-03,aggressive driving,11935.0
+1007,1567,2023-06-30,head-on collision,5652.0
+1008,835,2023-02-12,driving under the influence,10502.0
+1009,785,2023-06-20,side-impact collision,7302.0
+1010,120,2023-06-25,aggressive driving,7148.0
+1011,307,2023-12-14,distracted driving,14521.0
+1012,33,2023-04-12,aggressive driving,6786.0
+1013,618,2024-02-04,sideswipe collision,9067.0
+1014,1094,2023-11-12,side-impact collision,13139.0
+1015,143,2023-08-01,sideswipe collision,7980.0
+1016,891,2023-12-14,distracted driving,6883.0
+1017,170,2023-04-09,side-impact collision,10150.0
+1018,660,2023-08-20,rollover,7862.0
+1019,587,2023-11-04,speeding,12378.0
+1020,884,2023-06-09,rear-end collision,7618.0
+1021,983,2023-07-04,driving under the influence,5688.0
+1022,197,2023-05-29,distracted driving,12239.0
+1023,1385,2023-02-12,side-impact collision,9566.0
+1024,1453,2023-11-18,head-on collision,9191.0
+1025,2,2023-07-28,speeding,8777.0
+1026,1135,2023-11-17,driving under the influence,7352.0
+1027,23,2023-04-08,rear-end collision,7902.0
+1028,845,2024-01-01,side-impact collision,6401.0
+1029,312,2023-08-26,improper turns,5983.0
+1030,1970,2023-04-01,side-impact collision,11354.0
+1031,523,2023-11-02,side-impact collision,8143.0
+1032,1264,2023-07-21,side-impact collision,13850.0
+1033,1019,2023-05-19,head-on collision,7105.0
+1034,354,2023-03-09,driving under the influence,13301.0
+1035,1778,2023-08-18,speeding,13220.0
+1036,1000,2023-04-10,driving under the influence,5705.0
+1037,985,2023-06-29,sideswipe collision,5464.0
+1038,381,2023-02-19,drowsy driving,5720.0
+1039,1233,2023-02-21,improper turns,8877.0
+1040,7,2023-02-19,drowsy driving,8300.0
+1041,812,2023-05-12,sideswipe collision,10115.0
+1042,731,2023-07-19,side-impact collision,7560.0
+1043,1045,2023-05-12,improper turns,9116.0
+1044,734,2023-11-01,improper turns,13000.0
+1045,17,2023-07-26,head-on collision,6221.0
+1046,1843,2023-05-19,rollover,7076.0
+1047,1066,2023-11-14,driving under the influence,5690.0
+1048,1095,2023-10-21,driving under the influence,6223.0
+1049,826,2023-10-09,speeding,6604.0
+1050,1490,2023-07-08,side-impact collision,14283.0
+1051,1369,2023-12-26,distracted driving,9449.0
+1052,1101,2023-04-04,side-impact collision,10166.0
+1053,1913,2023-09-13,side-impact collision,10086.0
+1054,1311,2023-08-23,side-impact collision,6996.0
+1055,165,2023-09-10,distracted driving,5465.0
+1056,1048,2023-08-09,drowsy driving,7169.0
+1057,1226,2023-09-22,rear-end collision,12338.0
+1058,26,2023-04-16,rollover,12730.0
+1059,679,2023-04-12,speeding,7037.0
+1060,809,2023-08-22,head-on collision,8379.0
+1061,673,2023-08-09,side-impact collision,8582.0
+1062,1317,2023-03-20,improper turns,13801.0
+1063,374,2023-09-18,rear-end collision,8256.0
+1064,824,2023-02-17,sideswipe collision,14759.0
+1065,1792,2023-03-27,distracted driving,9658.0
+1066,1610,2023-05-02,rear-end collision,5408.0
+1067,1248,2023-07-09,speeding,13403.0
+1068,801,2024-01-12,distracted driving,11617.0
+1069,423,2023-02-17,head-on collision,13041.0
+1070,313,2023-02-17,distracted driving,7201.0
+1071,1512,2023-07-04,drowsy driving,5838.0
+1072,1868,2023-08-20,aggressive driving,13355.0
+1073,1171,2023-11-30,distracted driving,7545.0
+1074,1594,2023-07-06,drowsy driving,10169.0
+1075,249,2023-08-19,distracted driving,10252.0
+1076,644,2023-11-16,sideswipe collision,9575.0
+1077,1823,2024-01-05,sideswipe collision,10716.0
+1078,1983,2023-07-20,sideswipe collision,7598.0
+1079,1597,2023-03-17,pedestrian accident,12321.0
+1080,1102,2023-08-31,pedestrian accident,7844.0
+1081,320,2023-03-06,driving under the influence,12959.0
+1082,1438,2024-02-10,driving under the influence,6910.0
+1083,1958,2023-08-07,rear-end collision,13207.0
+1084,342,2023-05-04,rollover,12188.0
+1085,568,2023-03-25,sideswipe collision,7203.0
+1086,433,2023-11-17,sideswipe collision,13746.0
+1087,357,2023-07-18,drowsy driving,6827.0
+1088,78,2023-11-19,side-impact collision,7503.0
+1089,1343,2023-04-08,side-impact collision,8668.0
+1090,1859,2024-01-05,head-on collision,6678.0
+1091,557,2023-12-31,speeding,6746.0
+1092,594,2023-10-15,side-impact collision,14889.0
+1093,778,2024-01-06,side-impact collision,6657.0
+1094,1047,2023-12-09,drowsy driving,10281.0
+1095,359,2023-07-23,driving under the influence,9538.0
+1096,1444,2023-05-24,improper turns,10947.0
+1097,1883,2023-07-15,distracted driving,6730.0
+1098,1518,2023-11-25,distracted driving,11860.0
+1099,920,2023-05-23,pedestrian accident,7847.0
+1100,720,2023-11-17,rear-end collision,9678.0
+1101,876,2023-03-20,sideswipe collision,12690.0
+1102,1651,2023-06-11,driving under the influence,13125.0
+1103,887,2023-04-01,improper turns,7836.0
+1104,48,2023-04-25,head-on collision,8452.0
+1105,82,2023-08-01,drowsy driving,6153.0
+1106,694,2023-06-05,pedestrian accident,14428.0
+1107,609,2023-04-16,rear-end collision,6262.0
+1108,1159,2023-11-30,drowsy driving,6653.0
+1109,785,2023-05-02,head-on collision,11477.0
+1110,1163,2023-12-23,side-impact collision,12758.0
+1111,1964,2023-11-04,pedestrian accident,8614.0
+1112,339,2023-04-09,driving under the influence,14242.0
+1113,1658,2023-12-09,sideswipe collision,7674.0
+1114,1101,2023-03-30,pedestrian accident,10588.0
+1115,67,2023-07-15,rear-end collision,6230.0
+1116,919,2023-04-04,head-on collision,9816.0
+1117,372,2024-02-08,improper turns,8102.0
+1118,640,2023-10-27,distracted driving,11829.0
+1119,1194,2023-08-03,rollover,11751.0
+1120,1658,2023-07-11,driving under the influence,6852.0
+1121,732,2023-06-01,speeding,5945.0
+1122,595,2023-11-24,speeding,11791.0
+1123,128,2023-12-11,drowsy driving,8041.0
+1124,1720,2023-04-15,drowsy driving,9318.0
+1125,1229,2023-03-28,aggressive driving,5438.0
+1126,1405,2023-09-17,pedestrian accident,10412.0
+1127,1849,2023-03-20,pedestrian accident,12783.0
+1128,366,2024-01-02,speeding,8438.0
+1129,690,2023-03-24,head-on collision,11640.0
+1130,787,2023-08-26,head-on collision,6568.0
+1131,173,2023-09-01,rear-end collision,5461.0
+1132,1975,2023-07-13,speeding,9630.0
+1133,509,2024-01-19,rear-end collision,11190.0
+1134,324,2023-06-16,driving under the influence,11472.0
+1135,1118,2023-12-13,distracted driving,6507.0
+1136,1044,2023-05-31,driving under the influence,7216.0
+1137,1181,2023-12-16,rear-end collision,7251.0
+1138,1182,2023-03-16,sideswipe collision,14906.0
+1139,1648,2023-07-14,sideswipe collision,6511.0
+1140,827,2023-11-06,drowsy driving,12276.0
+1141,34,2023-08-02,distracted driving,9246.0
+1142,528,2023-06-25,distracted driving,13553.0
+1143,1531,2023-10-30,speeding,10947.0
+1144,291,2024-01-26,speeding,5041.0
+1145,751,2023-09-03,sideswipe collision,8957.0
+1146,863,2023-11-24,improper turns,8961.0
+1147,1476,2024-02-06,aggressive driving,6871.0
+1148,826,2024-01-09,side-impact collision,14440.0
+1149,359,2023-03-18,pedestrian accident,9362.0
+1150,1692,2023-03-12,drowsy driving,12299.0
+1151,820,2023-11-23,sideswipe collision,9836.0
+1152,1145,2023-09-25,improper turns,10333.0
+1153,1998,2024-01-30,rollover,9853.0
+1154,1379,2023-02-22,pedestrian accident,5268.0
+1155,1956,2024-02-01,rollover,6555.0
+1156,633,2023-07-10,drowsy driving,6569.0
+1157,406,2023-11-29,rollover,13541.0
+1158,1059,2024-01-28,drowsy driving,13659.0
+1159,298,2023-07-02,distracted driving,9626.0
+1160,111,2023-08-30,rollover,13972.0
+1161,1877,2023-11-25,sideswipe collision,11683.0
+1162,716,2024-01-09,distracted driving,11096.0
+1163,1926,2023-12-13,drowsy driving,6114.0
+1164,1363,2023-06-03,rear-end collision,7801.0
+1165,1810,2023-05-18,side-impact collision,6276.0
+1166,1883,2023-08-30,drowsy driving,6014.0
+1167,829,2024-02-07,distracted driving,9498.0
+1168,1259,2023-06-02,aggressive driving,5547.0
+1169,209,2023-11-07,driving under the influence,14067.0
+1170,375,2023-03-02,distracted driving,11563.0
+1171,1861,2024-01-20,side-impact collision,11581.0
+1172,957,2023-10-05,head-on collision,8983.0
+1173,643,2023-10-03,aggressive driving,6667.0
+1174,125,2023-02-22,driving under the influence,10034.0
+1175,1996,2023-03-06,side-impact collision,6095.0
+1176,742,2023-07-06,aggressive driving,10259.0
+1177,1973,2023-08-21,pedestrian accident,11139.0
+1178,1818,2023-04-17,improper turns,11384.0
+1179,1235,2023-12-10,side-impact collision,7205.0
+1180,801,2023-02-17,pedestrian accident,11429.0
+1181,1837,2023-12-24,pedestrian accident,12818.0
+1182,1317,2023-03-10,driving under the influence,5927.0
+1183,1822,2023-06-11,head-on collision,5561.0
+1184,503,2024-02-07,rear-end collision,6089.0
+1185,721,2024-01-09,pedestrian accident,10251.0
+1186,1942,2024-02-04,side-impact collision,10497.0
+1187,1204,2023-05-31,rollover,5062.0
+1188,1311,2023-12-06,head-on collision,14363.0
+1189,275,2023-07-18,distracted driving,11913.0
+1190,986,2023-06-26,head-on collision,6702.0
+1191,13,2023-06-08,distracted driving,6660.0
+1192,306,2024-01-14,head-on collision,5675.0
+1193,1453,2023-09-01,head-on collision,8816.0
+1194,1843,2023-06-06,improper turns,12585.0
+1195,1743,2023-06-29,sideswipe collision,10756.0
+1196,1014,2023-07-11,pedestrian accident,7839.0
+1197,1051,2024-02-05,speeding,8770.0
+1198,397,2023-09-07,rear-end collision,8517.0
+1199,282,2023-02-16,rollover,14496.0
+1200,1523,2023-04-26,speeding,13116.0
+1201,403,2024-01-30,improper turns,5142.0
+1202,535,2023-10-07,driving under the influence,9491.0
+1203,1830,2023-04-30,pedestrian accident,6717.0
+1204,1517,2023-05-22,sideswipe collision,9330.0
+1205,104,2023-06-18,speeding,5828.0
+1206,1217,2024-01-03,head-on collision,6964.0
+1207,1057,2023-11-06,speeding,9628.0
+1208,1379,2024-01-23,improper turns,13245.0
+1209,1586,2023-12-25,head-on collision,9751.0
+1210,725,2023-10-08,distracted driving,13313.0
+1211,1903,2023-12-30,speeding,14247.0
+1212,168,2023-09-13,rear-end collision,7234.0
+1213,965,2024-01-23,aggressive driving,14194.0
+1214,1085,2023-11-11,sideswipe collision,11561.0
+1215,1164,2023-02-24,rear-end collision,9325.0
+1216,1241,2024-01-20,improper turns,10802.0
+1217,1471,2023-05-28,pedestrian accident,8390.0
+1218,482,2023-02-14,pedestrian accident,5744.0
+1219,1766,2023-04-25,driving under the influence,13684.0
+1220,1345,2023-09-10,side-impact collision,5326.0
+1221,1387,2023-08-17,distracted driving,14128.0
+1222,1978,2024-02-04,head-on collision,12264.0
+1223,914,2023-09-12,pedestrian accident,7370.0
+1224,881,2024-02-09,pedestrian accident,12577.0
+1225,735,2023-09-19,improper turns,14442.0
+1226,319,2023-12-05,sideswipe collision,10587.0
+1227,1528,2023-08-13,sideswipe collision,7902.0
+1228,1633,2023-03-08,aggressive driving,8873.0
+1229,618,2023-03-07,aggressive driving,7886.0
+1230,673,2023-02-28,head-on collision,5905.0
+1231,114,2023-12-10,pedestrian accident,9270.0
+1232,1799,2023-07-04,sideswipe collision,13627.0
+1233,1300,2023-11-29,improper turns,7653.0
+1234,235,2024-01-30,sideswipe collision,13255.0
+1235,275,2023-10-02,improper turns,14100.0
+1236,46,2023-09-25,aggressive driving,11485.0
+1237,685,2024-02-01,speeding,11069.0
+1238,238,2023-11-27,driving under the influence,8587.0
+1239,766,2023-05-13,driving under the influence,6738.0
+1240,416,2023-03-09,rollover,10112.0
+1241,203,2023-09-22,side-impact collision,7448.0
+1242,1822,2023-03-26,improper turns,8201.0
+1243,1259,2023-10-02,driving under the influence,8972.0
+1244,1548,2023-03-25,distracted driving,6540.0
+1245,588,2023-12-02,pedestrian accident,8149.0
+1246,60,2023-03-19,rear-end collision,14746.0
+1247,1575,2023-05-21,pedestrian accident,5632.0
+1248,1171,2023-10-15,improper turns,8510.0
+1249,785,2023-05-07,drowsy driving,5086.0
+1250,1722,2024-01-21,rollover,10791.0
+1251,510,2023-12-21,pedestrian accident,9475.0
+1252,196,2023-06-21,distracted driving,9590.0
+1253,804,2023-06-18,rollover,9320.0
+1254,1762,2023-04-23,speeding,12849.0
+1255,1813,2024-02-03,sideswipe collision,10211.0
+1256,1933,2023-08-31,distracted driving,7236.0
+1257,1173,2023-11-05,head-on collision,6772.0
+1258,1729,2023-08-15,rollover,13847.0
+1259,590,2023-05-08,improper turns,13364.0
+1260,641,2024-01-21,pedestrian accident,10743.0
+1261,1508,2023-12-01,pedestrian accident,5030.0
+1262,1777,2023-04-08,distracted driving,8665.0
+1263,1032,2023-06-18,pedestrian accident,8122.0
+1264,1483,2023-10-05,distracted driving,10585.0
+1265,1823,2024-01-28,drowsy driving,13335.0
+1266,1329,2024-01-17,sideswipe collision,5028.0
+1267,125,2024-01-18,rollover,12563.0
+1268,1992,2024-01-09,sideswipe collision,5056.0
+1269,536,2023-10-20,pedestrian accident,12977.0
+1270,439,2023-10-24,pedestrian accident,9511.0
+1271,343,2023-02-18,head-on collision,8829.0
+1272,1119,2023-05-23,head-on collision,9555.0
+1273,1794,2023-04-10,rear-end collision,6107.0
+1274,766,2023-06-05,head-on collision,5523.0
+1275,237,2023-02-23,drowsy driving,14107.0
+1276,1145,2023-10-10,distracted driving,5101.0
+1277,786,2023-09-13,driving under the influence,7248.0
+1278,542,2023-10-04,aggressive driving,13177.0
+1279,244,2023-10-17,driving under the influence,8525.0
+1280,292,2023-04-13,improper turns,7750.0
+1281,1450,2023-11-02,driving under the influence,13269.0
+1282,1904,2023-03-18,speeding,9514.0
+1283,1882,2023-11-22,rear-end collision,13434.0
+1284,1319,2023-07-09,sideswipe collision,10541.0
+1285,918,2023-03-14,aggressive driving,11444.0
+1286,783,2023-06-22,driving under the influence,8481.0
+1287,1770,2023-12-10,aggressive driving,14390.0
+1288,387,2023-09-08,head-on collision,10937.0
+1289,837,2023-04-06,rollover,10077.0
+1290,573,2023-03-10,rollover,12774.0
+1291,1982,2023-05-19,sideswipe collision,13479.0
+1292,760,2023-05-12,rear-end collision,13882.0
+1293,1129,2024-01-26,head-on collision,14205.0
+1294,759,2023-09-16,drowsy driving,6537.0
+1295,1562,2023-03-09,rollover,8955.0
+1296,1583,2023-06-16,improper turns,8721.0
+1297,1617,2023-07-02,pedestrian accident,8971.0
+1298,518,2023-08-15,improper turns,6397.0
+1299,1808,2023-02-16,speeding,8330.0
+1300,1114,2023-08-22,rear-end collision,12512.0
+1301,1002,2023-07-26,drowsy driving,12422.0
+1302,1103,2023-11-23,aggressive driving,9057.0
+1303,1235,2023-10-08,rollover,9037.0
+1304,106,2023-03-24,driving under the influence,12232.0
+1305,486,2023-07-08,pedestrian accident,9058.0
+1306,655,2023-07-04,improper turns,7929.0
+1307,1386,2023-04-25,speeding,7910.0
+1308,863,2023-02-27,speeding,8407.0
+1309,1365,2023-11-19,aggressive driving,13868.0
+1310,808,2023-02-12,side-impact collision,12346.0
+1311,599,2024-01-31,rear-end collision,13579.0
+1312,736,2024-01-11,distracted driving,10183.0
+1313,830,2023-04-12,rear-end collision,12529.0
+1314,629,2023-05-22,rear-end collision,13698.0
+1315,1230,2023-04-18,drowsy driving,6990.0
+1316,1013,2023-11-27,rear-end collision,10743.0
+1317,955,2023-05-25,drowsy driving,6378.0
+1318,1292,2024-02-03,distracted driving,6370.0
+1319,1077,2023-03-20,driving under the influence,7742.0
+1320,330,2023-10-17,sideswipe collision,8519.0
+1321,827,2023-10-02,rear-end collision,14136.0
+1322,1731,2023-12-31,drowsy driving,14041.0
+1323,687,2023-06-07,drowsy driving,6527.0
+1324,49,2024-02-09,rear-end collision,10088.0
+1325,1455,2023-07-19,speeding,10912.0
+1326,1239,2023-08-16,drowsy driving,5362.0
+1327,1655,2023-12-10,improper turns,12522.0
+1328,1710,2023-11-18,rear-end collision,13396.0
+1329,1702,2023-11-14,driving under the influence,14611.0
+1330,625,2023-04-16,aggressive driving,12635.0
+1331,1288,2023-09-03,distracted driving,7591.0
+1332,1020,2023-12-05,rollover,5171.0
+1333,73,2023-06-02,driving under the influence,10810.0
+1334,1385,2023-06-23,rear-end collision,7926.0
+1335,393,2023-11-30,rollover,13742.0
+1336,1776,2023-11-17,pedestrian accident,13249.0
+1337,937,2023-04-19,side-impact collision,14043.0
+1338,1715,2023-04-05,rear-end collision,8993.0
+1339,212,2023-04-26,aggressive driving,7505.0
+1340,829,2023-07-17,drowsy driving,10051.0
+1341,381,2023-10-16,rear-end collision,8801.0
+1342,474,2023-08-10,distracted driving,11369.0
+1343,1290,2024-01-02,pedestrian accident,10481.0
+1344,926,2023-08-05,drowsy driving,10573.0
+1345,1677,2023-06-09,head-on collision,13179.0
+1346,189,2023-03-03,aggressive driving,13824.0
+1347,673,2023-02-18,pedestrian accident,9284.0
+1348,425,2023-04-23,pedestrian accident,6999.0
+1349,1734,2024-01-26,rear-end collision,6883.0
+1350,545,2023-03-21,side-impact collision,14692.0
+1351,747,2023-03-16,driving under the influence,13524.0
+1352,1530,2023-04-11,driving under the influence,6981.0
+1353,1659,2023-07-20,distracted driving,12548.0
+1354,832,2023-09-20,aggressive driving,9829.0
+1355,443,2023-04-06,distracted driving,13900.0
+1356,1080,2023-03-21,sideswipe collision,14082.0
+1357,1889,2023-03-08,rollover,13856.0
+1358,865,2023-03-05,rear-end collision,14968.0
+1359,834,2023-05-13,speeding,10563.0
+1360,705,2023-10-14,improper turns,5360.0
+1361,858,2023-08-13,rear-end collision,8797.0
+1362,204,2023-02-19,aggressive driving,9489.0
+1363,572,2024-02-10,driving under the influence,12970.0
+1364,1420,2023-09-20,distracted driving,6589.0
+1365,389,2023-05-12,sideswipe collision,5787.0
+1366,1761,2024-01-14,distracted driving,10388.0
+1367,1683,2023-07-24,head-on collision,9866.0
+1368,1644,2023-05-24,driving under the influence,7259.0
+1369,1793,2023-03-24,rollover,9038.0
+1370,181,2023-08-04,speeding,14022.0
+1371,1587,2023-09-18,rear-end collision,6685.0
+1372,1091,2023-06-05,rear-end collision,5317.0
+1373,1881,2023-05-27,distracted driving,6562.0
+1374,1453,2023-11-07,distracted driving,10781.0
+1375,1130,2023-07-13,side-impact collision,13608.0
+1376,1001,2023-09-29,distracted driving,5990.0
+1377,1565,2023-09-11,side-impact collision,7861.0
+1378,1454,2023-05-05,head-on collision,9241.0
+1379,1016,2023-05-05,sideswipe collision,14152.0
+1380,657,2023-04-27,speeding,7276.0
+1381,940,2023-10-17,side-impact collision,8952.0
+1382,1242,2023-05-13,driving under the influence,11244.0
+1383,848,2024-02-02,aggressive driving,7579.0
+1384,1653,2023-05-09,rear-end collision,8658.0
+1385,212,2023-04-19,side-impact collision,6707.0
+1386,1000,2023-06-05,distracted driving,9270.0
+1387,1774,2023-09-24,aggressive driving,5736.0
+1388,1382,2023-09-17,rollover,5613.0
+1389,1835,2023-09-28,driving under the influence,8790.0
+1390,1940,2023-06-15,side-impact collision,7011.0
+1391,1284,2023-11-27,speeding,13016.0
+1392,1037,2023-10-27,speeding,5103.0
+1393,885,2023-09-08,driving under the influence,14217.0
+1394,1739,2024-01-04,driving under the influence,12108.0
+1395,546,2024-02-10,distracted driving,7848.0
+1396,1966,2023-07-02,speeding,6884.0
+1397,1808,2023-04-09,drowsy driving,8148.0
+1398,848,2023-09-10,speeding,10131.0
+1399,788,2023-03-16,improper turns,14737.0
+1400,158,2023-10-13,pedestrian accident,12585.0
+1401,1756,2023-09-20,rear-end collision,13805.0
+1402,876,2024-02-06,rollover,5713.0
+1403,1958,2023-05-22,improper turns,6202.0
+1404,1119,2023-05-18,pedestrian accident,11477.0
+1405,1341,2023-06-03,side-impact collision,14000.0
+1406,1188,2023-10-25,rollover,9208.0
+1407,1183,2023-03-15,pedestrian accident,6391.0
+1408,194,2023-05-16,rear-end collision,11270.0
+1409,475,2023-04-01,improper turns,12286.0
+1410,1559,2023-12-11,driving under the influence,8845.0
+1411,1034,2023-04-09,sideswipe collision,12805.0
+1412,911,2024-02-03,speeding,6319.0
+1413,1964,2023-04-26,drowsy driving,6350.0
+1414,702,2023-10-10,improper turns,13062.0
+1415,219,2023-12-22,side-impact collision,14797.0
+1416,99,2023-06-27,speeding,9319.0
+1417,256,2023-04-08,pedestrian accident,11844.0
+1418,1712,2023-12-10,improper turns,8016.0
+1419,1640,2023-04-07,side-impact collision,8024.0
+1420,1517,2023-11-05,distracted driving,7189.0
+1421,1649,2023-11-25,distracted driving,12967.0
+1422,907,2023-03-17,side-impact collision,12695.0
+1423,301,2023-02-23,drowsy driving,6356.0
+1424,1123,2023-11-18,distracted driving,10204.0
+1425,719,2023-08-29,aggressive driving,14562.0
+1426,1845,2023-03-04,speeding,11203.0
+1427,1959,2023-12-08,sideswipe collision,11024.0
+1428,561,2023-06-17,aggressive driving,10958.0
+1429,80,2023-11-26,speeding,14156.0
+1430,1344,2023-05-08,improper turns,6380.0
+1431,108,2023-04-24,head-on collision,5203.0
+1432,1610,2023-11-21,rollover,5063.0
+1433,1020,2023-04-28,head-on collision,9975.0
+1434,1001,2023-10-21,sideswipe collision,8935.0
+1435,1726,2023-11-04,drowsy driving,6370.0
+1436,1057,2023-09-07,rear-end collision,10736.0
+1437,1020,2024-02-08,distracted driving,14709.0
+1438,1841,2023-11-01,distracted driving,7999.0
+1439,563,2023-09-06,sideswipe collision,12610.0
+1440,1394,2023-06-09,speeding,10320.0
+1441,1058,2023-10-01,head-on collision,12932.0
+1442,1175,2023-03-12,driving under the influence,5772.0
+1443,1072,2023-08-27,head-on collision,6750.0
+1444,782,2023-12-04,pedestrian accident,9930.0
+1445,1059,2023-02-16,rear-end collision,12007.0
+1446,1712,2023-12-31,side-impact collision,12255.0
+1447,720,2023-11-21,pedestrian accident,8225.0
+1448,699,2023-09-26,distracted driving,11095.0
+1449,882,2023-05-26,head-on collision,12895.0
+1450,294,2023-10-25,rollover,8367.0
+1451,200,2023-09-13,aggressive driving,5773.0
+1452,82,2023-11-19,improper turns,11301.0
+1453,1954,2023-03-08,distracted driving,7869.0
+1454,1865,2023-05-16,speeding,9910.0
+1455,911,2023-06-02,rear-end collision,10751.0
+1456,1147,2023-03-19,driving under the influence,13921.0
+1457,1777,2023-12-03,side-impact collision,7769.0
+1458,1641,2023-12-05,sideswipe collision,14794.0
+1459,321,2023-04-12,drowsy driving,10318.0
+1460,343,2023-11-04,sideswipe collision,12260.0
+1461,578,2023-07-26,distracted driving,9359.0
+1462,1411,2023-03-20,drowsy driving,12846.0
+1463,1487,2023-06-12,distracted driving,5167.0
+1464,59,2023-03-06,side-impact collision,8426.0
+1465,778,2023-08-21,distracted driving,9543.0
+1466,740,2024-01-19,driving under the influence,11629.0
+1467,1140,2023-11-05,rear-end collision,6356.0
+1468,438,2023-11-01,side-impact collision,6724.0
+1469,253,2023-09-15,pedestrian accident,5493.0
+1470,1164,2023-03-19,improper turns,13200.0
+1471,824,2023-04-03,rollover,9600.0
+1472,1851,2023-06-12,side-impact collision,11888.0
+1473,1446,2024-01-01,pedestrian accident,13970.0
+1474,12,2023-12-21,rollover,13780.0
+1475,1181,2023-04-18,head-on collision,11917.0
+1476,804,2023-12-11,head-on collision,14530.0
+1477,1376,2023-11-09,sideswipe collision,7725.0
+1478,1326,2024-01-25,drowsy driving,10983.0
+1479,1470,2023-10-11,rollover,8506.0
+1480,960,2023-02-13,rear-end collision,14113.0
+1481,175,2023-05-22,pedestrian accident,9704.0
+1482,1580,2023-10-01,improper turns,11892.0
+1483,72,2023-02-25,distracted driving,10866.0
+1484,682,2024-01-03,improper turns,6607.0
+1485,1213,2023-06-18,drowsy driving,12875.0
+1486,1474,2023-05-14,head-on collision,10485.0
+1487,1376,2023-10-16,head-on collision,14157.0
+1488,1406,2023-06-10,head-on collision,5520.0
+1489,1148,2023-08-01,aggressive driving,12293.0
+1490,236,2024-01-29,head-on collision,7395.0
+1491,875,2023-04-12,aggressive driving,7129.0
+1492,911,2023-07-22,rollover,9320.0
+1493,1768,2023-07-31,sideswipe collision,5948.0
+1494,1645,2023-02-15,speeding,11474.0
+1495,1474,2023-05-28,side-impact collision,6219.0
+1496,196,2023-11-25,distracted driving,10756.0
+1497,1956,2024-01-15,rear-end collision,8755.0
+1498,836,2023-09-14,pedestrian accident,12416.0
+1499,1889,2023-06-14,improper turns,5100.0
+1500,1600,2023-12-24,driving under the influence,7976.0

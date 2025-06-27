@@ -1,0 +1,2001 @@
+ConditionID,CarID,OverallCondition,ExteriorCondition,InteriorCondition
+1,48,Poor,Needs Repairs,Clean
+2,63,Fair,Needs Repairs,Minor Wear
+3,885,Poor,Needs Repairs,Torn Upholstery
+4,796,Good,Dents,Clean
+5,1925,Poor,Dents,Needs Cleaning
+6,899,Excellent,Dents,Minor Wear
+7,895,Fair,Minor Scratches,Minor Wear
+8,805,Fair,Dents,Minor Wear
+9,1189,Poor,Minor Scratches,Clean
+10,1635,Fair,Dents,Needs Cleaning
+11,1939,Fair,Dents,Torn Upholstery
+12,668,Good,Minor Scratches,Needs Cleaning
+13,1441,Fair,Clean,Torn Upholstery
+14,562,Fair,Clean,Minor Wear
+15,1451,Good,Minor Scratches,Torn Upholstery
+16,324,Excellent,Needs Repairs,Needs Cleaning
+17,598,Fair,Needs Repairs,Clean
+18,565,Fair,Needs Repairs,Minor Wear
+19,1060,Poor,Minor Scratches,Minor Wear
+20,436,Fair,Needs Repairs,Torn Upholstery
+21,604,Excellent,Clean,Clean
+22,1121,Poor,Minor Scratches,Needs Cleaning
+23,1658,Poor,Clean,Torn Upholstery
+24,415,Good,Minor Scratches,Needs Cleaning
+25,1024,Good,Minor Scratches,Needs Cleaning
+26,1984,Good,Clean,Needs Cleaning
+27,545,Excellent,Dents,Minor Wear
+28,228,Excellent,Minor Scratches,Clean
+29,238,Poor,Clean,Minor Wear
+30,475,Excellent,Minor Scratches,Minor Wear
+31,1537,Excellent,Clean,Minor Wear
+32,1475,Excellent,Minor Scratches,Torn Upholstery
+33,459,Fair,Dents,Needs Cleaning
+34,1296,Fair,Minor Scratches,Clean
+35,69,Excellent,Clean,Minor Wear
+36,213,Excellent,Dents,Minor Wear
+37,1696,Fair,Needs Repairs,Minor Wear
+38,1434,Good,Minor Scratches,Torn Upholstery
+39,643,Fair,Needs Repairs,Clean
+40,113,Excellent,Minor Scratches,Minor Wear
+41,801,Fair,Clean,Minor Wear
+42,604,Poor,Clean,Needs Cleaning
+43,625,Poor,Needs Repairs,Clean
+44,1707,Fair,Minor Scratches,Torn Upholstery
+45,920,Poor,Clean,Minor Wear
+46,578,Good,Clean,Torn Upholstery
+47,485,Good,Minor Scratches,Needs Cleaning
+48,60,Excellent,Dents,Clean
+49,1178,Excellent,Dents,Minor Wear
+50,395,Excellent,Clean,Torn Upholstery
+51,350,Poor,Needs Repairs,Needs Cleaning
+52,1657,Good,Clean,Minor Wear
+53,1092,Poor,Clean,Needs Cleaning
+54,2,Good,Minor Scratches,Torn Upholstery
+55,1158,Fair,Clean,Clean
+56,872,Good,Clean,Torn Upholstery
+57,351,Good,Minor Scratches,Clean
+58,996,Good,Minor Scratches,Torn Upholstery
+59,1931,Fair,Clean,Clean
+60,1067,Good,Needs Repairs,Torn Upholstery
+61,659,Excellent,Needs Repairs,Needs Cleaning
+62,778,Excellent,Minor Scratches,Clean
+63,1381,Fair,Dents,Torn Upholstery
+64,777,Excellent,Clean,Torn Upholstery
+65,1752,Poor,Dents,Needs Cleaning
+66,43,Poor,Minor Scratches,Minor Wear
+67,1449,Excellent,Needs Repairs,Minor Wear
+68,1748,Poor,Clean,Needs Cleaning
+69,1469,Fair,Needs Repairs,Needs Cleaning
+70,1988,Good,Needs Repairs,Clean
+71,1889,Excellent,Needs Repairs,Clean
+72,1695,Fair,Needs Repairs,Needs Cleaning
+73,1054,Fair,Minor Scratches,Minor Wear
+74,94,Poor,Needs Repairs,Needs Cleaning
+75,570,Poor,Clean,Needs Cleaning
+76,1876,Good,Minor Scratches,Minor Wear
+77,1828,Fair,Minor Scratches,Torn Upholstery
+78,863,Poor,Needs Repairs,Clean
+79,14,Excellent,Dents,Needs Cleaning
+80,438,Fair,Clean,Needs Cleaning
+81,1605,Good,Dents,Torn Upholstery
+82,309,Fair,Needs Repairs,Torn Upholstery
+83,1429,Fair,Dents,Needs Cleaning
+84,81,Poor,Needs Repairs,Torn Upholstery
+85,732,Poor,Clean,Torn Upholstery
+86,602,Good,Needs Repairs,Torn Upholstery
+87,1155,Fair,Clean,Minor Wear
+88,1034,Poor,Minor Scratches,Torn Upholstery
+89,554,Fair,Minor Scratches,Torn Upholstery
+90,1644,Poor,Dents,Clean
+91,474,Poor,Needs Repairs,Needs Cleaning
+92,415,Good,Needs Repairs,Minor Wear
+93,356,Good,Needs Repairs,Minor Wear
+94,828,Excellent,Dents,Needs Cleaning
+95,628,Good,Minor Scratches,Needs Cleaning
+96,1523,Excellent,Minor Scratches,Torn Upholstery
+97,717,Fair,Clean,Torn Upholstery
+98,1567,Excellent,Minor Scratches,Needs Cleaning
+99,65,Poor,Needs Repairs,Clean
+100,1033,Fair,Minor Scratches,Torn Upholstery
+101,1041,Excellent,Clean,Minor Wear
+102,296,Fair,Dents,Needs Cleaning
+103,25,Good,Minor Scratches,Needs Cleaning
+104,1180,Excellent,Minor Scratches,Minor Wear
+105,942,Fair,Minor Scratches,Minor Wear
+106,348,Poor,Clean,Torn Upholstery
+107,270,Poor,Dents,Clean
+108,1986,Excellent,Needs Repairs,Clean
+109,260,Excellent,Minor Scratches,Needs Cleaning
+110,815,Good,Clean,Minor Wear
+111,1856,Good,Dents,Torn Upholstery
+112,1065,Good,Minor Scratches,Torn Upholstery
+113,850,Good,Clean,Clean
+114,1236,Good,Clean,Torn Upholstery
+115,1173,Good,Minor Scratches,Torn Upholstery
+116,1292,Fair,Clean,Minor Wear
+117,861,Excellent,Needs Repairs,Needs Cleaning
+118,357,Fair,Dents,Needs Cleaning
+119,1283,Good,Dents,Clean
+120,266,Poor,Dents,Torn Upholstery
+121,657,Good,Clean,Minor Wear
+122,861,Poor,Minor Scratches,Needs Cleaning
+123,1792,Good,Dents,Clean
+124,1933,Good,Needs Repairs,Needs Cleaning
+125,1917,Poor,Clean,Torn Upholstery
+126,1567,Excellent,Minor Scratches,Torn Upholstery
+127,135,Fair,Clean,Clean
+128,426,Good,Needs Repairs,Needs Cleaning
+129,1429,Poor,Clean,Needs Cleaning
+130,325,Excellent,Minor Scratches,Minor Wear
+131,1982,Fair,Minor Scratches,Clean
+132,245,Fair,Minor Scratches,Clean
+133,113,Fair,Minor Scratches,Clean
+134,339,Fair,Minor Scratches,Minor Wear
+135,861,Good,Clean,Clean
+136,858,Excellent,Needs Repairs,Needs Cleaning
+137,1090,Excellent,Minor Scratches,Minor Wear
+138,649,Good,Clean,Minor Wear
+139,1521,Excellent,Clean,Minor Wear
+140,1490,Excellent,Minor Scratches,Clean
+141,831,Good,Needs Repairs,Needs Cleaning
+142,1584,Poor,Minor Scratches,Needs Cleaning
+143,996,Excellent,Needs Repairs,Clean
+144,986,Good,Minor Scratches,Torn Upholstery
+145,1467,Good,Dents,Needs Cleaning
+146,458,Fair,Dents,Torn Upholstery
+147,213,Good,Minor Scratches,Torn Upholstery
+148,1575,Fair,Minor Scratches,Clean
+149,19,Fair,Minor Scratches,Minor Wear
+150,667,Poor,Clean,Needs Cleaning
+151,912,Fair,Dents,Minor Wear
+152,333,Fair,Dents,Torn Upholstery
+153,812,Excellent,Clean,Torn Upholstery
+154,789,Good,Needs Repairs,Minor Wear
+155,394,Fair,Needs Repairs,Clean
+156,1679,Fair,Minor Scratches,Clean
+157,955,Excellent,Dents,Needs Cleaning
+158,677,Fair,Needs Repairs,Minor Wear
+159,781,Excellent,Clean,Minor Wear
+160,1220,Fair,Dents,Minor Wear
+161,1429,Poor,Minor Scratches,Minor Wear
+162,438,Good,Clean,Minor Wear
+163,1739,Excellent,Minor Scratches,Torn Upholstery
+164,1858,Fair,Clean,Clean
+165,1929,Fair,Minor Scratches,Needs Cleaning
+166,1180,Excellent,Clean,Minor Wear
+167,1083,Excellent,Clean,Clean
+168,111,Excellent,Clean,Clean
+169,785,Good,Clean,Torn Upholstery
+170,1695,Fair,Clean,Clean
+171,1388,Excellent,Dents,Needs Cleaning
+172,791,Good,Needs Repairs,Minor Wear
+173,1179,Fair,Needs Repairs,Minor Wear
+174,1910,Poor,Minor Scratches,Minor Wear
+175,869,Fair,Needs Repairs,Needs Cleaning
+176,1558,Excellent,Clean,Torn Upholstery
+177,1983,Fair,Minor Scratches,Needs Cleaning
+178,1615,Excellent,Dents,Minor Wear
+179,1859,Good,Needs Repairs,Torn Upholstery
+180,670,Fair,Clean,Minor Wear
+181,1125,Fair,Needs Repairs,Torn Upholstery
+182,1328,Fair,Dents,Minor Wear
+183,221,Fair,Clean,Minor Wear
+184,779,Poor,Dents,Clean
+185,1768,Fair,Needs Repairs,Needs Cleaning
+186,1032,Fair,Needs Repairs,Clean
+187,1791,Excellent,Clean,Torn Upholstery
+188,1734,Good,Dents,Clean
+189,20,Fair,Dents,Needs Cleaning
+190,7,Fair,Dents,Clean
+191,806,Good,Minor Scratches,Clean
+192,298,Fair,Needs Repairs,Needs Cleaning
+193,187,Excellent,Needs Repairs,Needs Cleaning
+194,156,Poor,Clean,Minor Wear
+195,888,Poor,Needs Repairs,Torn Upholstery
+196,74,Fair,Dents,Needs Cleaning
+197,1360,Excellent,Minor Scratches,Torn Upholstery
+198,1131,Fair,Dents,Minor Wear
+199,1563,Excellent,Minor Scratches,Clean
+200,444,Poor,Needs Repairs,Clean
+201,1091,Fair,Minor Scratches,Torn Upholstery
+202,1645,Poor,Needs Repairs,Torn Upholstery
+203,261,Poor,Needs Repairs,Needs Cleaning
+204,1414,Poor,Needs Repairs,Needs Cleaning
+205,404,Fair,Needs Repairs,Torn Upholstery
+206,724,Fair,Clean,Needs Cleaning
+207,1450,Poor,Clean,Clean
+208,929,Excellent,Dents,Needs Cleaning
+209,1729,Good,Dents,Needs Cleaning
+210,931,Good,Needs Repairs,Torn Upholstery
+211,799,Poor,Minor Scratches,Torn Upholstery
+212,993,Good,Minor Scratches,Clean
+213,686,Fair,Dents,Minor Wear
+214,553,Good,Clean,Torn Upholstery
+215,1276,Fair,Needs Repairs,Minor Wear
+216,1785,Poor,Needs Repairs,Minor Wear
+217,1515,Poor,Clean,Minor Wear
+218,685,Poor,Needs Repairs,Torn Upholstery
+219,119,Good,Minor Scratches,Torn Upholstery
+220,1287,Excellent,Dents,Torn Upholstery
+221,509,Excellent,Dents,Minor Wear
+222,184,Fair,Dents,Torn Upholstery
+223,1549,Fair,Needs Repairs,Torn Upholstery
+224,1781,Good,Needs Repairs,Torn Upholstery
+225,1481,Excellent,Dents,Needs Cleaning
+226,353,Good,Dents,Needs Cleaning
+227,780,Excellent,Clean,Minor Wear
+228,786,Poor,Dents,Minor Wear
+229,963,Poor,Minor Scratches,Needs Cleaning
+230,375,Fair,Clean,Torn Upholstery
+231,71,Excellent,Needs Repairs,Minor Wear
+232,1859,Good,Clean,Minor Wear
+233,215,Poor,Needs Repairs,Needs Cleaning
+234,329,Poor,Minor Scratches,Clean
+235,1811,Fair,Needs Repairs,Needs Cleaning
+236,545,Excellent,Dents,Clean
+237,1026,Excellent,Dents,Torn Upholstery
+238,753,Excellent,Dents,Torn Upholstery
+239,62,Poor,Needs Repairs,Torn Upholstery
+240,1447,Excellent,Minor Scratches,Minor Wear
+241,1421,Poor,Dents,Clean
+242,1591,Fair,Clean,Torn Upholstery
+243,1551,Excellent,Clean,Clean
+244,1783,Excellent,Needs Repairs,Clean
+245,275,Excellent,Needs Repairs,Clean
+246,444,Excellent,Minor Scratches,Needs Cleaning
+247,581,Poor,Needs Repairs,Clean
+248,124,Fair,Dents,Minor Wear
+249,542,Poor,Dents,Needs Cleaning
+250,723,Excellent,Dents,Torn Upholstery
+251,710,Excellent,Clean,Needs Cleaning
+252,583,Excellent,Dents,Torn Upholstery
+253,1588,Fair,Clean,Minor Wear
+254,1458,Excellent,Needs Repairs,Clean
+255,329,Good,Minor Scratches,Clean
+256,202,Excellent,Dents,Torn Upholstery
+257,915,Excellent,Minor Scratches,Minor Wear
+258,1170,Excellent,Clean,Torn Upholstery
+259,226,Excellent,Minor Scratches,Clean
+260,440,Poor,Clean,Needs Cleaning
+261,377,Good,Dents,Minor Wear
+262,566,Excellent,Dents,Torn Upholstery
+263,195,Good,Clean,Clean
+264,962,Excellent,Clean,Minor Wear
+265,756,Fair,Dents,Clean
+266,1846,Good,Clean,Torn Upholstery
+267,781,Good,Needs Repairs,Needs Cleaning
+268,1058,Good,Dents,Torn Upholstery
+269,1232,Good,Needs Repairs,Clean
+270,85,Good,Minor Scratches,Needs Cleaning
+271,1838,Excellent,Dents,Minor Wear
+272,514,Fair,Needs Repairs,Clean
+273,286,Fair,Dents,Torn Upholstery
+274,217,Poor,Clean,Torn Upholstery
+275,1405,Poor,Clean,Minor Wear
+276,1971,Poor,Needs Repairs,Clean
+277,216,Excellent,Dents,Torn Upholstery
+278,706,Good,Needs Repairs,Clean
+279,592,Poor,Clean,Clean
+280,1742,Poor,Needs Repairs,Needs Cleaning
+281,976,Poor,Needs Repairs,Minor Wear
+282,1324,Fair,Needs Repairs,Needs Cleaning
+283,788,Fair,Minor Scratches,Needs Cleaning
+284,1851,Good,Clean,Torn Upholstery
+285,523,Good,Minor Scratches,Needs Cleaning
+286,798,Excellent,Minor Scratches,Torn Upholstery
+287,1652,Good,Dents,Torn Upholstery
+288,1792,Good,Clean,Torn Upholstery
+289,1941,Good,Minor Scratches,Clean
+290,461,Excellent,Clean,Torn Upholstery
+291,775,Excellent,Needs Repairs,Clean
+292,1277,Poor,Minor Scratches,Needs Cleaning
+293,413,Good,Clean,Minor Wear
+294,1597,Excellent,Minor Scratches,Minor Wear
+295,50,Good,Needs Repairs,Clean
+296,490,Good,Needs Repairs,Torn Upholstery
+297,197,Poor,Clean,Minor Wear
+298,217,Good,Clean,Torn Upholstery
+299,753,Poor,Needs Repairs,Clean
+300,1180,Excellent,Needs Repairs,Needs Cleaning
+301,464,Poor,Minor Scratches,Needs Cleaning
+302,415,Poor,Clean,Torn Upholstery
+303,1896,Fair,Needs Repairs,Needs Cleaning
+304,1406,Good,Clean,Minor Wear
+305,1145,Good,Needs Repairs,Clean
+306,1335,Good,Dents,Minor Wear
+307,412,Fair,Needs Repairs,Needs Cleaning
+308,699,Fair,Needs Repairs,Needs Cleaning
+309,290,Poor,Dents,Minor Wear
+310,524,Excellent,Clean,Needs Cleaning
+311,158,Fair,Clean,Torn Upholstery
+312,1300,Excellent,Dents,Minor Wear
+313,1330,Good,Clean,Torn Upholstery
+314,1127,Good,Clean,Torn Upholstery
+315,1764,Excellent,Dents,Torn Upholstery
+316,441,Excellent,Dents,Needs Cleaning
+317,84,Good,Dents,Needs Cleaning
+318,834,Excellent,Clean,Clean
+319,1594,Fair,Clean,Clean
+320,1457,Fair,Needs Repairs,Torn Upholstery
+321,856,Poor,Clean,Minor Wear
+322,75,Fair,Dents,Minor Wear
+323,68,Poor,Needs Repairs,Clean
+324,827,Good,Minor Scratches,Clean
+325,377,Good,Needs Repairs,Clean
+326,1628,Poor,Dents,Minor Wear
+327,223,Fair,Dents,Clean
+328,1492,Fair,Dents,Torn Upholstery
+329,1946,Good,Clean,Torn Upholstery
+330,823,Fair,Dents,Minor Wear
+331,505,Poor,Needs Repairs,Minor Wear
+332,1411,Excellent,Minor Scratches,Minor Wear
+333,1320,Excellent,Needs Repairs,Minor Wear
+334,1535,Excellent,Dents,Clean
+335,1373,Fair,Needs Repairs,Clean
+336,664,Good,Dents,Needs Cleaning
+337,815,Good,Dents,Torn Upholstery
+338,1023,Fair,Dents,Torn Upholstery
+339,1796,Fair,Needs Repairs,Torn Upholstery
+340,1945,Poor,Dents,Torn Upholstery
+341,581,Excellent,Dents,Clean
+342,1744,Excellent,Dents,Torn Upholstery
+343,1594,Good,Clean,Needs Cleaning
+344,1482,Excellent,Minor Scratches,Clean
+345,1121,Poor,Dents,Clean
+346,1230,Poor,Minor Scratches,Torn Upholstery
+347,1071,Poor,Minor Scratches,Torn Upholstery
+348,963,Excellent,Needs Repairs,Minor Wear
+349,1832,Fair,Clean,Needs Cleaning
+350,1575,Good,Needs Repairs,Minor Wear
+351,1294,Fair,Clean,Minor Wear
+352,396,Excellent,Dents,Torn Upholstery
+353,878,Excellent,Minor Scratches,Minor Wear
+354,599,Excellent,Clean,Minor Wear
+355,1461,Fair,Minor Scratches,Needs Cleaning
+356,1421,Excellent,Minor Scratches,Clean
+357,467,Excellent,Dents,Torn Upholstery
+358,50,Poor,Clean,Minor Wear
+359,561,Fair,Clean,Needs Cleaning
+360,121,Good,Clean,Clean
+361,1843,Poor,Dents,Clean
+362,1609,Good,Minor Scratches,Needs Cleaning
+363,1464,Good,Clean,Needs Cleaning
+364,483,Fair,Dents,Clean
+365,1919,Excellent,Needs Repairs,Minor Wear
+366,1463,Excellent,Minor Scratches,Torn Upholstery
+367,69,Excellent,Clean,Needs Cleaning
+368,1375,Fair,Needs Repairs,Minor Wear
+369,1112,Good,Minor Scratches,Clean
+370,10,Fair,Needs Repairs,Torn Upholstery
+371,1534,Good,Minor Scratches,Minor Wear
+372,1762,Good,Dents,Clean
+373,719,Excellent,Minor Scratches,Clean
+374,1562,Good,Minor Scratches,Torn Upholstery
+375,1855,Poor,Needs Repairs,Needs Cleaning
+376,11,Poor,Clean,Minor Wear
+377,45,Poor,Needs Repairs,Needs Cleaning
+378,199,Excellent,Minor Scratches,Clean
+379,1765,Poor,Clean,Minor Wear
+380,1231,Excellent,Minor Scratches,Torn Upholstery
+381,1839,Excellent,Dents,Minor Wear
+382,1651,Good,Dents,Minor Wear
+383,928,Fair,Clean,Needs Cleaning
+384,1775,Excellent,Minor Scratches,Needs Cleaning
+385,315,Good,Dents,Needs Cleaning
+386,559,Fair,Clean,Needs Cleaning
+387,353,Fair,Minor Scratches,Minor Wear
+388,427,Poor,Minor Scratches,Torn Upholstery
+389,890,Excellent,Needs Repairs,Torn Upholstery
+390,1032,Excellent,Minor Scratches,Minor Wear
+391,1409,Poor,Needs Repairs,Torn Upholstery
+392,1619,Excellent,Dents,Torn Upholstery
+393,1143,Good,Dents,Minor Wear
+394,1670,Good,Minor Scratches,Torn Upholstery
+395,1538,Good,Needs Repairs,Needs Cleaning
+396,1730,Good,Needs Repairs,Minor Wear
+397,132,Excellent,Needs Repairs,Clean
+398,589,Fair,Dents,Minor Wear
+399,1567,Poor,Needs Repairs,Minor Wear
+400,1855,Good,Needs Repairs,Minor Wear
+401,560,Fair,Clean,Torn Upholstery
+402,1514,Fair,Minor Scratches,Needs Cleaning
+403,1656,Excellent,Needs Repairs,Needs Cleaning
+404,1553,Good,Needs Repairs,Clean
+405,1683,Poor,Clean,Torn Upholstery
+406,1278,Good,Dents,Clean
+407,572,Good,Minor Scratches,Minor Wear
+408,1205,Poor,Needs Repairs,Torn Upholstery
+409,1692,Poor,Needs Repairs,Torn Upholstery
+410,394,Good,Clean,Needs Cleaning
+411,16,Excellent,Clean,Clean
+412,1194,Fair,Dents,Torn Upholstery
+413,1961,Good,Clean,Clean
+414,1221,Fair,Needs Repairs,Clean
+415,1610,Poor,Minor Scratches,Clean
+416,1334,Excellent,Dents,Clean
+417,1054,Fair,Dents,Minor Wear
+418,146,Excellent,Dents,Needs Cleaning
+419,1700,Good,Clean,Clean
+420,1778,Poor,Needs Repairs,Needs Cleaning
+421,1589,Fair,Dents,Torn Upholstery
+422,808,Poor,Needs Repairs,Needs Cleaning
+423,811,Excellent,Clean,Needs Cleaning
+424,1370,Fair,Needs Repairs,Minor Wear
+425,1096,Fair,Minor Scratches,Needs Cleaning
+426,1866,Good,Minor Scratches,Clean
+427,1287,Poor,Needs Repairs,Minor Wear
+428,993,Poor,Needs Repairs,Needs Cleaning
+429,273,Excellent,Clean,Torn Upholstery
+430,1198,Fair,Needs Repairs,Minor Wear
+431,1744,Fair,Needs Repairs,Clean
+432,1806,Fair,Dents,Clean
+433,119,Excellent,Minor Scratches,Minor Wear
+434,52,Excellent,Minor Scratches,Torn Upholstery
+435,110,Poor,Clean,Clean
+436,865,Poor,Clean,Clean
+437,1899,Excellent,Needs Repairs,Needs Cleaning
+438,374,Excellent,Minor Scratches,Minor Wear
+439,819,Poor,Minor Scratches,Needs Cleaning
+440,1273,Good,Clean,Needs Cleaning
+441,907,Excellent,Minor Scratches,Needs Cleaning
+442,572,Poor,Dents,Torn Upholstery
+443,1087,Excellent,Clean,Minor Wear
+444,11,Poor,Clean,Torn Upholstery
+445,1629,Poor,Needs Repairs,Minor Wear
+446,796,Excellent,Minor Scratches,Torn Upholstery
+447,369,Fair,Needs Repairs,Minor Wear
+448,1569,Good,Needs Repairs,Torn Upholstery
+449,1309,Poor,Clean,Torn Upholstery
+450,28,Excellent,Clean,Minor Wear
+451,1060,Good,Minor Scratches,Clean
+452,1527,Excellent,Minor Scratches,Clean
+453,279,Fair,Dents,Minor Wear
+454,922,Excellent,Clean,Minor Wear
+455,1958,Poor,Dents,Clean
+456,1575,Poor,Minor Scratches,Clean
+457,594,Poor,Clean,Clean
+458,1966,Excellent,Needs Repairs,Minor Wear
+459,1070,Fair,Dents,Needs Cleaning
+460,575,Good,Minor Scratches,Torn Upholstery
+461,1530,Good,Clean,Needs Cleaning
+462,652,Good,Minor Scratches,Torn Upholstery
+463,1922,Fair,Needs Repairs,Minor Wear
+464,1314,Poor,Clean,Minor Wear
+465,1620,Poor,Clean,Clean
+466,251,Good,Dents,Needs Cleaning
+467,982,Poor,Needs Repairs,Torn Upholstery
+468,1609,Excellent,Minor Scratches,Torn Upholstery
+469,1117,Good,Needs Repairs,Clean
+470,1766,Fair,Minor Scratches,Minor Wear
+471,936,Excellent,Dents,Clean
+472,1834,Poor,Minor Scratches,Minor Wear
+473,981,Fair,Minor Scratches,Minor Wear
+474,548,Fair,Dents,Needs Cleaning
+475,542,Excellent,Minor Scratches,Needs Cleaning
+476,1852,Excellent,Clean,Torn Upholstery
+477,715,Poor,Needs Repairs,Minor Wear
+478,1807,Excellent,Minor Scratches,Minor Wear
+479,531,Fair,Needs Repairs,Torn Upholstery
+480,124,Excellent,Clean,Minor Wear
+481,731,Good,Clean,Clean
+482,730,Good,Needs Repairs,Minor Wear
+483,1673,Excellent,Clean,Needs Cleaning
+484,1010,Fair,Needs Repairs,Clean
+485,639,Good,Dents,Needs Cleaning
+486,1045,Excellent,Clean,Clean
+487,569,Fair,Minor Scratches,Clean
+488,1349,Excellent,Minor Scratches,Needs Cleaning
+489,485,Fair,Needs Repairs,Needs Cleaning
+490,983,Excellent,Needs Repairs,Clean
+491,1980,Excellent,Needs Repairs,Needs Cleaning
+492,304,Excellent,Clean,Torn Upholstery
+493,145,Fair,Minor Scratches,Torn Upholstery
+494,520,Fair,Needs Repairs,Minor Wear
+495,1052,Good,Dents,Clean
+496,1228,Excellent,Dents,Clean
+497,252,Fair,Minor Scratches,Needs Cleaning
+498,376,Excellent,Needs Repairs,Needs Cleaning
+499,979,Poor,Clean,Needs Cleaning
+500,67,Poor,Clean,Minor Wear
+501,441,Fair,Minor Scratches,Clean
+502,886,Good,Minor Scratches,Minor Wear
+503,562,Good,Clean,Torn Upholstery
+504,564,Excellent,Clean,Torn Upholstery
+505,1234,Fair,Minor Scratches,Needs Cleaning
+506,700,Poor,Dents,Needs Cleaning
+507,793,Poor,Dents,Minor Wear
+508,1978,Excellent,Clean,Torn Upholstery
+509,178,Fair,Needs Repairs,Needs Cleaning
+510,154,Good,Dents,Needs Cleaning
+511,713,Excellent,Dents,Minor Wear
+512,1914,Good,Clean,Needs Cleaning
+513,1931,Fair,Minor Scratches,Minor Wear
+514,1009,Fair,Minor Scratches,Minor Wear
+515,974,Excellent,Dents,Torn Upholstery
+516,616,Fair,Dents,Needs Cleaning
+517,1712,Poor,Needs Repairs,Torn Upholstery
+518,929,Fair,Clean,Needs Cleaning
+519,561,Fair,Dents,Minor Wear
+520,1111,Excellent,Minor Scratches,Torn Upholstery
+521,405,Fair,Minor Scratches,Needs Cleaning
+522,1990,Excellent,Dents,Minor Wear
+523,1578,Fair,Dents,Minor Wear
+524,1835,Good,Needs Repairs,Torn Upholstery
+525,1983,Fair,Minor Scratches,Minor Wear
+526,1899,Good,Clean,Torn Upholstery
+527,1051,Fair,Clean,Minor Wear
+528,1030,Fair,Needs Repairs,Needs Cleaning
+529,375,Poor,Clean,Torn Upholstery
+530,433,Excellent,Dents,Needs Cleaning
+531,674,Fair,Clean,Torn Upholstery
+532,120,Good,Clean,Needs Cleaning
+533,447,Excellent,Needs Repairs,Clean
+534,1689,Excellent,Needs Repairs,Needs Cleaning
+535,1287,Good,Needs Repairs,Torn Upholstery
+536,1557,Fair,Needs Repairs,Clean
+537,1962,Fair,Minor Scratches,Torn Upholstery
+538,122,Good,Clean,Minor Wear
+539,1840,Poor,Dents,Clean
+540,1650,Excellent,Clean,Torn Upholstery
+541,1979,Fair,Dents,Needs Cleaning
+542,204,Poor,Dents,Needs Cleaning
+543,1997,Fair,Dents,Needs Cleaning
+544,1121,Excellent,Needs Repairs,Clean
+545,1476,Excellent,Clean,Torn Upholstery
+546,44,Excellent,Clean,Torn Upholstery
+547,955,Fair,Clean,Minor Wear
+548,543,Poor,Needs Repairs,Minor Wear
+549,1327,Good,Dents,Torn Upholstery
+550,988,Fair,Needs Repairs,Torn Upholstery
+551,903,Good,Dents,Minor Wear
+552,1957,Good,Dents,Minor Wear
+553,1199,Poor,Dents,Minor Wear
+554,1933,Poor,Clean,Torn Upholstery
+555,2000,Fair,Needs Repairs,Minor Wear
+556,1427,Fair,Minor Scratches,Minor Wear
+557,888,Poor,Minor Scratches,Needs Cleaning
+558,1413,Poor,Dents,Torn Upholstery
+559,1659,Good,Dents,Torn Upholstery
+560,378,Poor,Clean,Minor Wear
+561,509,Poor,Minor Scratches,Minor Wear
+562,1600,Good,Dents,Clean
+563,492,Poor,Dents,Torn Upholstery
+564,579,Fair,Needs Repairs,Needs Cleaning
+565,564,Fair,Needs Repairs,Torn Upholstery
+566,253,Poor,Clean,Clean
+567,929,Fair,Needs Repairs,Torn Upholstery
+568,285,Good,Needs Repairs,Torn Upholstery
+569,598,Good,Clean,Torn Upholstery
+570,622,Fair,Needs Repairs,Minor Wear
+571,1526,Good,Clean,Clean
+572,1731,Excellent,Dents,Torn Upholstery
+573,801,Good,Minor Scratches,Minor Wear
+574,179,Poor,Minor Scratches,Torn Upholstery
+575,293,Poor,Minor Scratches,Torn Upholstery
+576,806,Good,Needs Repairs,Needs Cleaning
+577,914,Fair,Clean,Minor Wear
+578,181,Excellent,Needs Repairs,Minor Wear
+579,939,Poor,Clean,Clean
+580,354,Fair,Clean,Torn Upholstery
+581,1042,Poor,Dents,Torn Upholstery
+582,1011,Fair,Clean,Clean
+583,165,Good,Needs Repairs,Minor Wear
+584,1207,Fair,Clean,Clean
+585,1746,Poor,Minor Scratches,Needs Cleaning
+586,107,Good,Needs Repairs,Torn Upholstery
+587,1165,Excellent,Minor Scratches,Clean
+588,733,Excellent,Minor Scratches,Clean
+589,645,Good,Minor Scratches,Minor Wear
+590,1590,Good,Needs Repairs,Minor Wear
+591,999,Good,Needs Repairs,Needs Cleaning
+592,1080,Fair,Clean,Torn Upholstery
+593,739,Fair,Dents,Needs Cleaning
+594,1687,Fair,Dents,Clean
+595,1094,Excellent,Dents,Clean
+596,1104,Poor,Minor Scratches,Minor Wear
+597,1351,Fair,Minor Scratches,Clean
+598,530,Poor,Minor Scratches,Minor Wear
+599,1881,Fair,Needs Repairs,Torn Upholstery
+600,1055,Fair,Clean,Clean
+601,263,Fair,Clean,Needs Cleaning
+602,642,Poor,Needs Repairs,Minor Wear
+603,1143,Poor,Needs Repairs,Minor Wear
+604,966,Good,Minor Scratches,Needs Cleaning
+605,1281,Poor,Needs Repairs,Needs Cleaning
+606,479,Good,Needs Repairs,Torn Upholstery
+607,1420,Good,Needs Repairs,Torn Upholstery
+608,1168,Good,Minor Scratches,Torn Upholstery
+609,1032,Excellent,Clean,Minor Wear
+610,1286,Good,Minor Scratches,Torn Upholstery
+611,527,Poor,Clean,Needs Cleaning
+612,1498,Good,Clean,Torn Upholstery
+613,346,Poor,Needs Repairs,Needs Cleaning
+614,463,Good,Clean,Clean
+615,1967,Good,Clean,Clean
+616,1917,Good,Clean,Torn Upholstery
+617,1473,Excellent,Minor Scratches,Clean
+618,1513,Good,Needs Repairs,Minor Wear
+619,540,Good,Minor Scratches,Torn Upholstery
+620,1752,Excellent,Dents,Minor Wear
+621,940,Good,Dents,Needs Cleaning
+622,1828,Good,Dents,Minor Wear
+623,980,Fair,Needs Repairs,Minor Wear
+624,981,Excellent,Minor Scratches,Needs Cleaning
+625,1119,Good,Clean,Minor Wear
+626,170,Fair,Needs Repairs,Minor Wear
+627,668,Poor,Clean,Clean
+628,1856,Fair,Dents,Minor Wear
+629,1115,Fair,Minor Scratches,Needs Cleaning
+630,430,Fair,Needs Repairs,Minor Wear
+631,1439,Good,Dents,Minor Wear
+632,1549,Excellent,Needs Repairs,Needs Cleaning
+633,3,Poor,Clean,Clean
+634,1444,Good,Minor Scratches,Needs Cleaning
+635,402,Poor,Minor Scratches,Needs Cleaning
+636,1543,Good,Dents,Clean
+637,1128,Good,Dents,Clean
+638,231,Poor,Clean,Torn Upholstery
+639,1561,Poor,Minor Scratches,Torn Upholstery
+640,34,Fair,Minor Scratches,Clean
+641,1144,Excellent,Dents,Clean
+642,1685,Fair,Dents,Needs Cleaning
+643,1365,Fair,Dents,Clean
+644,1435,Poor,Minor Scratches,Torn Upholstery
+645,576,Good,Needs Repairs,Minor Wear
+646,1194,Good,Minor Scratches,Needs Cleaning
+647,1603,Fair,Minor Scratches,Torn Upholstery
+648,1660,Fair,Clean,Needs Cleaning
+649,1453,Excellent,Clean,Torn Upholstery
+650,1930,Fair,Clean,Needs Cleaning
+651,1796,Fair,Clean,Clean
+652,1126,Poor,Needs Repairs,Needs Cleaning
+653,1978,Excellent,Needs Repairs,Needs Cleaning
+654,962,Poor,Clean,Torn Upholstery
+655,1944,Excellent,Clean,Clean
+656,1763,Good,Clean,Minor Wear
+657,1993,Fair,Clean,Minor Wear
+658,138,Good,Needs Repairs,Needs Cleaning
+659,1185,Excellent,Needs Repairs,Torn Upholstery
+660,1593,Poor,Dents,Needs Cleaning
+661,105,Poor,Dents,Torn Upholstery
+662,1264,Excellent,Clean,Minor Wear
+663,305,Poor,Needs Repairs,Needs Cleaning
+664,970,Excellent,Dents,Minor Wear
+665,1291,Good,Dents,Needs Cleaning
+666,1197,Poor,Needs Repairs,Needs Cleaning
+667,361,Excellent,Minor Scratches,Needs Cleaning
+668,1642,Fair,Clean,Clean
+669,835,Good,Clean,Needs Cleaning
+670,684,Poor,Clean,Clean
+671,1925,Poor,Needs Repairs,Needs Cleaning
+672,1953,Good,Dents,Needs Cleaning
+673,1757,Excellent,Minor Scratches,Clean
+674,1198,Good,Clean,Needs Cleaning
+675,230,Excellent,Clean,Torn Upholstery
+676,698,Excellent,Needs Repairs,Clean
+677,1577,Good,Minor Scratches,Needs Cleaning
+678,1298,Good,Dents,Torn Upholstery
+679,1854,Fair,Dents,Needs Cleaning
+680,554,Poor,Dents,Minor Wear
+681,1671,Excellent,Clean,Clean
+682,754,Fair,Dents,Needs Cleaning
+683,1940,Excellent,Minor Scratches,Minor Wear
+684,1455,Excellent,Minor Scratches,Minor Wear
+685,1937,Excellent,Needs Repairs,Minor Wear
+686,1835,Fair,Minor Scratches,Clean
+687,1498,Excellent,Dents,Needs Cleaning
+688,14,Excellent,Minor Scratches,Needs Cleaning
+689,615,Fair,Minor Scratches,Minor Wear
+690,992,Fair,Clean,Clean
+691,819,Poor,Clean,Clean
+692,513,Poor,Dents,Minor Wear
+693,896,Poor,Dents,Needs Cleaning
+694,1642,Excellent,Clean,Needs Cleaning
+695,1446,Excellent,Needs Repairs,Torn Upholstery
+696,1246,Good,Clean,Needs Cleaning
+697,174,Good,Minor Scratches,Clean
+698,1660,Excellent,Minor Scratches,Minor Wear
+699,536,Poor,Dents,Needs Cleaning
+700,1268,Excellent,Clean,Torn Upholstery
+701,1911,Poor,Clean,Clean
+702,762,Poor,Minor Scratches,Torn Upholstery
+703,1923,Fair,Dents,Clean
+704,105,Poor,Minor Scratches,Needs Cleaning
+705,605,Fair,Minor Scratches,Minor Wear
+706,162,Fair,Clean,Minor Wear
+707,398,Excellent,Dents,Torn Upholstery
+708,1101,Good,Needs Repairs,Torn Upholstery
+709,19,Excellent,Dents,Clean
+710,458,Excellent,Minor Scratches,Needs Cleaning
+711,469,Excellent,Dents,Clean
+712,469,Excellent,Needs Repairs,Minor Wear
+713,1853,Poor,Clean,Minor Wear
+714,722,Excellent,Clean,Clean
+715,625,Fair,Minor Scratches,Minor Wear
+716,1698,Fair,Dents,Needs Cleaning
+717,847,Fair,Clean,Needs Cleaning
+718,96,Good,Clean,Minor Wear
+719,820,Good,Dents,Needs Cleaning
+720,122,Good,Needs Repairs,Clean
+721,645,Good,Needs Repairs,Minor Wear
+722,1146,Fair,Dents,Clean
+723,843,Excellent,Dents,Needs Cleaning
+724,1342,Poor,Needs Repairs,Torn Upholstery
+725,1223,Good,Clean,Torn Upholstery
+726,1553,Good,Needs Repairs,Torn Upholstery
+727,286,Excellent,Clean,Torn Upholstery
+728,1952,Good,Needs Repairs,Minor Wear
+729,1951,Excellent,Minor Scratches,Clean
+730,1208,Fair,Needs Repairs,Torn Upholstery
+731,99,Good,Clean,Minor Wear
+732,1401,Poor,Minor Scratches,Torn Upholstery
+733,279,Poor,Dents,Clean
+734,693,Fair,Dents,Minor Wear
+735,1973,Poor,Needs Repairs,Torn Upholstery
+736,722,Fair,Dents,Minor Wear
+737,1705,Excellent,Dents,Needs Cleaning
+738,41,Excellent,Dents,Needs Cleaning
+739,201,Good,Dents,Clean
+740,1997,Excellent,Needs Repairs,Needs Cleaning
+741,1706,Poor,Dents,Needs Cleaning
+742,1043,Fair,Clean,Clean
+743,1027,Good,Clean,Clean
+744,197,Excellent,Clean,Needs Cleaning
+745,1026,Fair,Clean,Torn Upholstery
+746,218,Poor,Minor Scratches,Clean
+747,402,Poor,Minor Scratches,Needs Cleaning
+748,289,Good,Needs Repairs,Torn Upholstery
+749,253,Fair,Needs Repairs,Torn Upholstery
+750,1206,Fair,Needs Repairs,Minor Wear
+751,494,Good,Clean,Minor Wear
+752,1479,Excellent,Needs Repairs,Clean
+753,304,Excellent,Dents,Torn Upholstery
+754,1087,Fair,Dents,Clean
+755,769,Excellent,Minor Scratches,Needs Cleaning
+756,1908,Good,Dents,Clean
+757,1302,Good,Needs Repairs,Needs Cleaning
+758,857,Good,Minor Scratches,Minor Wear
+759,483,Good,Dents,Needs Cleaning
+760,282,Fair,Clean,Needs Cleaning
+761,1228,Poor,Clean,Needs Cleaning
+762,1832,Good,Minor Scratches,Clean
+763,683,Excellent,Clean,Needs Cleaning
+764,578,Fair,Minor Scratches,Minor Wear
+765,1313,Excellent,Needs Repairs,Needs Cleaning
+766,552,Poor,Minor Scratches,Clean
+767,1188,Excellent,Dents,Needs Cleaning
+768,999,Poor,Needs Repairs,Torn Upholstery
+769,1122,Good,Dents,Clean
+770,220,Good,Needs Repairs,Clean
+771,248,Good,Dents,Minor Wear
+772,721,Fair,Minor Scratches,Clean
+773,1766,Good,Clean,Clean
+774,1709,Poor,Needs Repairs,Torn Upholstery
+775,718,Poor,Clean,Torn Upholstery
+776,324,Good,Minor Scratches,Torn Upholstery
+777,328,Poor,Dents,Needs Cleaning
+778,872,Poor,Clean,Needs Cleaning
+779,1553,Fair,Dents,Needs Cleaning
+780,344,Fair,Minor Scratches,Needs Cleaning
+781,1733,Excellent,Needs Repairs,Minor Wear
+782,1502,Poor,Clean,Needs Cleaning
+783,448,Excellent,Dents,Needs Cleaning
+784,679,Fair,Clean,Minor Wear
+785,925,Fair,Dents,Torn Upholstery
+786,150,Poor,Minor Scratches,Torn Upholstery
+787,1195,Excellent,Dents,Minor Wear
+788,1696,Poor,Needs Repairs,Torn Upholstery
+789,701,Good,Minor Scratches,Torn Upholstery
+790,641,Fair,Minor Scratches,Needs Cleaning
+791,811,Good,Needs Repairs,Minor Wear
+792,631,Poor,Minor Scratches,Clean
+793,1340,Poor,Needs Repairs,Clean
+794,279,Fair,Needs Repairs,Minor Wear
+795,1915,Good,Minor Scratches,Minor Wear
+796,1792,Poor,Needs Repairs,Minor Wear
+797,1281,Poor,Needs Repairs,Clean
+798,526,Fair,Minor Scratches,Clean
+799,1800,Good,Needs Repairs,Minor Wear
+800,783,Excellent,Minor Scratches,Minor Wear
+801,46,Good,Needs Repairs,Torn Upholstery
+802,171,Good,Needs Repairs,Needs Cleaning
+803,1105,Poor,Dents,Clean
+804,52,Fair,Needs Repairs,Torn Upholstery
+805,1057,Excellent,Clean,Needs Cleaning
+806,997,Fair,Dents,Minor Wear
+807,1783,Excellent,Needs Repairs,Needs Cleaning
+808,253,Poor,Clean,Torn Upholstery
+809,914,Excellent,Dents,Clean
+810,33,Good,Needs Repairs,Torn Upholstery
+811,1541,Poor,Minor Scratches,Clean
+812,1951,Fair,Clean,Clean
+813,1515,Good,Minor Scratches,Minor Wear
+814,1262,Good,Minor Scratches,Clean
+815,980,Good,Minor Scratches,Torn Upholstery
+816,1183,Good,Clean,Needs Cleaning
+817,760,Good,Needs Repairs,Needs Cleaning
+818,143,Fair,Clean,Clean
+819,279,Fair,Needs Repairs,Torn Upholstery
+820,533,Poor,Needs Repairs,Needs Cleaning
+821,829,Good,Minor Scratches,Minor Wear
+822,262,Excellent,Needs Repairs,Torn Upholstery
+823,1038,Excellent,Clean,Minor Wear
+824,1723,Fair,Clean,Clean
+825,1793,Poor,Needs Repairs,Needs Cleaning
+826,1562,Good,Needs Repairs,Minor Wear
+827,1513,Good,Minor Scratches,Minor Wear
+828,1529,Fair,Clean,Torn Upholstery
+829,589,Fair,Minor Scratches,Minor Wear
+830,845,Excellent,Dents,Needs Cleaning
+831,133,Good,Needs Repairs,Clean
+832,1659,Fair,Clean,Needs Cleaning
+833,381,Fair,Needs Repairs,Torn Upholstery
+834,1784,Excellent,Dents,Needs Cleaning
+835,1551,Excellent,Minor Scratches,Needs Cleaning
+836,1891,Fair,Clean,Clean
+837,334,Excellent,Dents,Minor Wear
+838,1808,Excellent,Minor Scratches,Needs Cleaning
+839,1678,Good,Minor Scratches,Minor Wear
+840,1316,Fair,Clean,Clean
+841,1594,Fair,Clean,Needs Cleaning
+842,652,Fair,Dents,Clean
+843,365,Excellent,Minor Scratches,Minor Wear
+844,1483,Poor,Dents,Torn Upholstery
+845,677,Good,Minor Scratches,Clean
+846,984,Poor,Needs Repairs,Clean
+847,933,Poor,Dents,Torn Upholstery
+848,573,Good,Needs Repairs,Clean
+849,1047,Poor,Needs Repairs,Torn Upholstery
+850,171,Poor,Minor Scratches,Torn Upholstery
+851,1569,Good,Clean,Needs Cleaning
+852,1824,Excellent,Minor Scratches,Clean
+853,184,Poor,Needs Repairs,Minor Wear
+854,334,Good,Dents,Torn Upholstery
+855,243,Excellent,Dents,Minor Wear
+856,1414,Fair,Needs Repairs,Minor Wear
+857,217,Poor,Needs Repairs,Torn Upholstery
+858,96,Fair,Dents,Clean
+859,1445,Fair,Needs Repairs,Torn Upholstery
+860,1482,Poor,Minor Scratches,Clean
+861,827,Poor,Minor Scratches,Needs Cleaning
+862,1825,Excellent,Needs Repairs,Torn Upholstery
+863,224,Excellent,Minor Scratches,Clean
+864,1931,Good,Dents,Minor Wear
+865,1657,Good,Needs Repairs,Clean
+866,214,Poor,Minor Scratches,Needs Cleaning
+867,249,Good,Dents,Needs Cleaning
+868,1035,Poor,Minor Scratches,Torn Upholstery
+869,1688,Poor,Clean,Needs Cleaning
+870,1545,Fair,Minor Scratches,Clean
+871,1676,Fair,Clean,Torn Upholstery
+872,635,Poor,Minor Scratches,Needs Cleaning
+873,429,Fair,Dents,Torn Upholstery
+874,1762,Excellent,Minor Scratches,Torn Upholstery
+875,1243,Excellent,Minor Scratches,Minor Wear
+876,754,Excellent,Clean,Minor Wear
+877,745,Fair,Minor Scratches,Needs Cleaning
+878,683,Excellent,Minor Scratches,Minor Wear
+879,662,Poor,Clean,Needs Cleaning
+880,390,Good,Needs Repairs,Torn Upholstery
+881,1624,Good,Needs Repairs,Needs Cleaning
+882,487,Good,Minor Scratches,Clean
+883,609,Good,Clean,Clean
+884,1318,Poor,Dents,Needs Cleaning
+885,569,Poor,Clean,Torn Upholstery
+886,1363,Good,Needs Repairs,Torn Upholstery
+887,1168,Poor,Needs Repairs,Torn Upholstery
+888,1098,Fair,Dents,Clean
+889,758,Excellent,Minor Scratches,Needs Cleaning
+890,1299,Good,Needs Repairs,Needs Cleaning
+891,1172,Good,Dents,Clean
+892,1295,Excellent,Clean,Torn Upholstery
+893,1520,Excellent,Needs Repairs,Needs Cleaning
+894,1737,Fair,Dents,Clean
+895,1398,Excellent,Clean,Torn Upholstery
+896,1324,Fair,Needs Repairs,Torn Upholstery
+897,1904,Good,Dents,Needs Cleaning
+898,1947,Good,Dents,Minor Wear
+899,104,Good,Needs Repairs,Torn Upholstery
+900,1869,Poor,Minor Scratches,Torn Upholstery
+901,1036,Excellent,Minor Scratches,Torn Upholstery
+902,979,Excellent,Clean,Torn Upholstery
+903,1949,Good,Dents,Minor Wear
+904,1922,Good,Minor Scratches,Needs Cleaning
+905,1861,Good,Minor Scratches,Minor Wear
+906,1420,Fair,Minor Scratches,Torn Upholstery
+907,1056,Good,Clean,Minor Wear
+908,1383,Fair,Minor Scratches,Needs Cleaning
+909,381,Good,Needs Repairs,Clean
+910,1312,Fair,Minor Scratches,Clean
+911,677,Excellent,Clean,Needs Cleaning
+912,737,Fair,Clean,Clean
+913,1127,Fair,Clean,Clean
+914,1576,Good,Dents,Minor Wear
+915,1508,Fair,Minor Scratches,Clean
+916,603,Fair,Minor Scratches,Torn Upholstery
+917,650,Excellent,Needs Repairs,Minor Wear
+918,828,Poor,Minor Scratches,Minor Wear
+919,1688,Poor,Clean,Torn Upholstery
+920,1972,Excellent,Dents,Minor Wear
+921,1698,Good,Minor Scratches,Clean
+922,201,Excellent,Minor Scratches,Minor Wear
+923,1990,Excellent,Dents,Clean
+924,1,Fair,Minor Scratches,Minor Wear
+925,1294,Good,Needs Repairs,Clean
+926,685,Fair,Clean,Needs Cleaning
+927,1110,Excellent,Minor Scratches,Clean
+928,1517,Poor,Clean,Clean
+929,1963,Good,Clean,Needs Cleaning
+930,1809,Good,Clean,Needs Cleaning
+931,1820,Poor,Dents,Minor Wear
+932,1138,Fair,Dents,Torn Upholstery
+933,325,Poor,Dents,Clean
+934,1950,Fair,Clean,Minor Wear
+935,814,Excellent,Dents,Clean
+936,1788,Poor,Minor Scratches,Torn Upholstery
+937,1998,Fair,Clean,Minor Wear
+938,1003,Good,Dents,Torn Upholstery
+939,194,Fair,Minor Scratches,Torn Upholstery
+940,235,Poor,Needs Repairs,Torn Upholstery
+941,526,Poor,Minor Scratches,Clean
+942,588,Excellent,Minor Scratches,Minor Wear
+943,1093,Excellent,Dents,Torn Upholstery
+944,1206,Poor,Dents,Minor Wear
+945,1413,Good,Clean,Needs Cleaning
+946,584,Poor,Needs Repairs,Minor Wear
+947,1070,Good,Needs Repairs,Torn Upholstery
+948,1048,Fair,Minor Scratches,Minor Wear
+949,696,Fair,Minor Scratches,Torn Upholstery
+950,36,Good,Needs Repairs,Clean
+951,1837,Fair,Needs Repairs,Torn Upholstery
+952,391,Fair,Minor Scratches,Clean
+953,395,Excellent,Minor Scratches,Minor Wear
+954,325,Excellent,Dents,Minor Wear
+955,512,Good,Minor Scratches,Torn Upholstery
+956,1679,Good,Clean,Needs Cleaning
+957,103,Poor,Needs Repairs,Minor Wear
+958,1672,Good,Dents,Clean
+959,1889,Excellent,Needs Repairs,Needs Cleaning
+960,679,Excellent,Dents,Torn Upholstery
+961,1593,Fair,Clean,Needs Cleaning
+962,169,Excellent,Dents,Needs Cleaning
+963,529,Good,Needs Repairs,Minor Wear
+964,970,Excellent,Needs Repairs,Clean
+965,688,Poor,Clean,Torn Upholstery
+966,1501,Fair,Dents,Needs Cleaning
+967,1146,Excellent,Dents,Clean
+968,1437,Poor,Clean,Torn Upholstery
+969,507,Good,Minor Scratches,Needs Cleaning
+970,1810,Poor,Clean,Minor Wear
+971,1695,Fair,Minor Scratches,Minor Wear
+972,1784,Poor,Dents,Torn Upholstery
+973,1379,Excellent,Needs Repairs,Needs Cleaning
+974,1444,Excellent,Clean,Clean
+975,379,Good,Minor Scratches,Needs Cleaning
+976,1838,Poor,Minor Scratches,Minor Wear
+977,670,Good,Needs Repairs,Torn Upholstery
+978,361,Good,Minor Scratches,Clean
+979,338,Poor,Needs Repairs,Torn Upholstery
+980,1179,Poor,Dents,Minor Wear
+981,511,Good,Minor Scratches,Torn Upholstery
+982,418,Fair,Clean,Torn Upholstery
+983,170,Poor,Needs Repairs,Torn Upholstery
+984,493,Good,Minor Scratches,Minor Wear
+985,1864,Good,Clean,Torn Upholstery
+986,319,Excellent,Needs Repairs,Needs Cleaning
+987,889,Poor,Needs Repairs,Torn Upholstery
+988,1448,Fair,Minor Scratches,Clean
+989,1700,Excellent,Clean,Minor Wear
+990,1931,Fair,Minor Scratches,Torn Upholstery
+991,1666,Excellent,Needs Repairs,Clean
+992,1733,Poor,Minor Scratches,Minor Wear
+993,278,Good,Minor Scratches,Torn Upholstery
+994,1956,Fair,Minor Scratches,Clean
+995,1720,Good,Clean,Clean
+996,1732,Poor,Needs Repairs,Minor Wear
+997,120,Fair,Needs Repairs,Torn Upholstery
+998,1408,Excellent,Needs Repairs,Clean
+999,1920,Poor,Dents,Needs Cleaning
+1000,1794,Good,Needs Repairs,Minor Wear
+1001,1549,Excellent,Needs Repairs,Clean
+1002,959,Good,Dents,Minor Wear
+1003,1966,Poor,Clean,Clean
+1004,1546,Fair,Minor Scratches,Clean
+1005,1406,Fair,Clean,Needs Cleaning
+1006,1058,Fair,Needs Repairs,Clean
+1007,464,Good,Clean,Clean
+1008,1242,Good,Dents,Torn Upholstery
+1009,384,Excellent,Clean,Torn Upholstery
+1010,1495,Poor,Dents,Minor Wear
+1011,1637,Poor,Dents,Minor Wear
+1012,1446,Poor,Dents,Needs Cleaning
+1013,1579,Excellent,Dents,Torn Upholstery
+1014,1821,Excellent,Dents,Needs Cleaning
+1015,1134,Excellent,Dents,Minor Wear
+1016,772,Fair,Needs Repairs,Minor Wear
+1017,259,Poor,Needs Repairs,Torn Upholstery
+1018,1356,Poor,Needs Repairs,Torn Upholstery
+1019,444,Poor,Needs Repairs,Torn Upholstery
+1020,1143,Excellent,Needs Repairs,Torn Upholstery
+1021,946,Good,Dents,Torn Upholstery
+1022,1097,Fair,Clean,Minor Wear
+1023,434,Poor,Dents,Minor Wear
+1024,1095,Excellent,Needs Repairs,Minor Wear
+1025,1722,Fair,Clean,Clean
+1026,934,Poor,Minor Scratches,Needs Cleaning
+1027,1785,Excellent,Clean,Minor Wear
+1028,1473,Fair,Minor Scratches,Needs Cleaning
+1029,664,Good,Needs Repairs,Torn Upholstery
+1030,1867,Poor,Needs Repairs,Torn Upholstery
+1031,1384,Excellent,Needs Repairs,Needs Cleaning
+1032,1808,Poor,Clean,Minor Wear
+1033,431,Good,Clean,Needs Cleaning
+1034,1791,Fair,Dents,Torn Upholstery
+1035,1368,Good,Needs Repairs,Clean
+1036,1976,Poor,Minor Scratches,Clean
+1037,1543,Good,Minor Scratches,Needs Cleaning
+1038,283,Good,Clean,Needs Cleaning
+1039,338,Fair,Clean,Clean
+1040,1151,Fair,Dents,Needs Cleaning
+1041,500,Fair,Needs Repairs,Clean
+1042,1817,Fair,Needs Repairs,Clean
+1043,146,Excellent,Dents,Minor Wear
+1044,559,Excellent,Needs Repairs,Clean
+1045,1925,Good,Clean,Minor Wear
+1046,1579,Poor,Clean,Torn Upholstery
+1047,1980,Poor,Clean,Clean
+1048,657,Poor,Clean,Clean
+1049,919,Fair,Dents,Torn Upholstery
+1050,721,Poor,Dents,Torn Upholstery
+1051,1387,Fair,Needs Repairs,Torn Upholstery
+1052,522,Excellent,Clean,Torn Upholstery
+1053,1439,Fair,Dents,Needs Cleaning
+1054,1616,Excellent,Needs Repairs,Minor Wear
+1055,199,Good,Clean,Minor Wear
+1056,127,Fair,Clean,Clean
+1057,1948,Poor,Needs Repairs,Torn Upholstery
+1058,251,Poor,Clean,Needs Cleaning
+1059,487,Good,Needs Repairs,Clean
+1060,185,Good,Needs Repairs,Clean
+1061,135,Fair,Clean,Torn Upholstery
+1062,1809,Good,Needs Repairs,Clean
+1063,562,Fair,Minor Scratches,Needs Cleaning
+1064,1226,Fair,Minor Scratches,Minor Wear
+1065,1924,Fair,Minor Scratches,Torn Upholstery
+1066,1218,Excellent,Dents,Minor Wear
+1067,1722,Excellent,Needs Repairs,Torn Upholstery
+1068,965,Good,Needs Repairs,Needs Cleaning
+1069,758,Poor,Dents,Minor Wear
+1070,693,Good,Clean,Clean
+1071,1479,Excellent,Minor Scratches,Needs Cleaning
+1072,1427,Excellent,Minor Scratches,Clean
+1073,1950,Excellent,Clean,Minor Wear
+1074,1514,Good,Minor Scratches,Torn Upholstery
+1075,1610,Excellent,Clean,Minor Wear
+1076,497,Good,Clean,Needs Cleaning
+1077,1691,Poor,Dents,Clean
+1078,1885,Excellent,Needs Repairs,Minor Wear
+1079,162,Poor,Needs Repairs,Minor Wear
+1080,819,Good,Clean,Minor Wear
+1081,757,Excellent,Minor Scratches,Clean
+1082,353,Fair,Clean,Clean
+1083,1277,Good,Minor Scratches,Minor Wear
+1084,458,Excellent,Minor Scratches,Needs Cleaning
+1085,933,Good,Needs Repairs,Clean
+1086,1727,Fair,Needs Repairs,Minor Wear
+1087,1612,Good,Needs Repairs,Clean
+1088,1855,Excellent,Clean,Minor Wear
+1089,426,Good,Needs Repairs,Clean
+1090,1284,Poor,Clean,Torn Upholstery
+1091,18,Excellent,Dents,Torn Upholstery
+1092,347,Poor,Dents,Clean
+1093,1110,Poor,Needs Repairs,Torn Upholstery
+1094,414,Good,Dents,Clean
+1095,1194,Poor,Clean,Torn Upholstery
+1096,1699,Excellent,Dents,Needs Cleaning
+1097,64,Fair,Needs Repairs,Torn Upholstery
+1098,1506,Fair,Clean,Clean
+1099,1186,Excellent,Dents,Torn Upholstery
+1100,1930,Excellent,Minor Scratches,Torn Upholstery
+1101,394,Fair,Dents,Minor Wear
+1102,1029,Excellent,Minor Scratches,Needs Cleaning
+1103,609,Fair,Needs Repairs,Clean
+1104,362,Good,Dents,Needs Cleaning
+1105,608,Good,Clean,Minor Wear
+1106,303,Excellent,Dents,Torn Upholstery
+1107,1049,Good,Minor Scratches,Needs Cleaning
+1108,905,Fair,Minor Scratches,Needs Cleaning
+1109,415,Poor,Clean,Needs Cleaning
+1110,1123,Good,Clean,Torn Upholstery
+1111,1372,Poor,Clean,Minor Wear
+1112,1432,Good,Needs Repairs,Clean
+1113,1280,Good,Needs Repairs,Clean
+1114,1694,Good,Minor Scratches,Torn Upholstery
+1115,1989,Fair,Needs Repairs,Minor Wear
+1116,1602,Poor,Dents,Torn Upholstery
+1117,1937,Good,Clean,Needs Cleaning
+1118,452,Good,Needs Repairs,Minor Wear
+1119,749,Good,Needs Repairs,Minor Wear
+1120,96,Poor,Dents,Needs Cleaning
+1121,712,Poor,Dents,Torn Upholstery
+1122,1935,Excellent,Clean,Torn Upholstery
+1123,1061,Poor,Clean,Minor Wear
+1124,1571,Poor,Minor Scratches,Minor Wear
+1125,1313,Fair,Clean,Needs Cleaning
+1126,1105,Good,Dents,Minor Wear
+1127,532,Fair,Minor Scratches,Clean
+1128,365,Poor,Needs Repairs,Minor Wear
+1129,851,Fair,Minor Scratches,Needs Cleaning
+1130,441,Poor,Minor Scratches,Torn Upholstery
+1131,1769,Poor,Minor Scratches,Clean
+1132,688,Fair,Clean,Needs Cleaning
+1133,580,Excellent,Needs Repairs,Needs Cleaning
+1134,1687,Fair,Minor Scratches,Minor Wear
+1135,1592,Excellent,Dents,Clean
+1136,167,Poor,Needs Repairs,Torn Upholstery
+1137,130,Excellent,Dents,Minor Wear
+1138,589,Excellent,Clean,Clean
+1139,1241,Good,Clean,Clean
+1140,1703,Fair,Minor Scratches,Needs Cleaning
+1141,1195,Excellent,Clean,Minor Wear
+1142,1833,Excellent,Minor Scratches,Clean
+1143,212,Poor,Clean,Needs Cleaning
+1144,1530,Fair,Minor Scratches,Torn Upholstery
+1145,1836,Poor,Dents,Needs Cleaning
+1146,1610,Fair,Clean,Minor Wear
+1147,1260,Fair,Needs Repairs,Minor Wear
+1148,1902,Excellent,Minor Scratches,Minor Wear
+1149,675,Good,Dents,Minor Wear
+1150,1904,Fair,Needs Repairs,Minor Wear
+1151,1386,Excellent,Clean,Needs Cleaning
+1152,1400,Poor,Needs Repairs,Torn Upholstery
+1153,13,Good,Dents,Minor Wear
+1154,1928,Good,Dents,Torn Upholstery
+1155,1984,Fair,Needs Repairs,Torn Upholstery
+1156,61,Poor,Needs Repairs,Clean
+1157,950,Fair,Minor Scratches,Torn Upholstery
+1158,107,Excellent,Dents,Torn Upholstery
+1159,963,Excellent,Clean,Torn Upholstery
+1160,112,Excellent,Needs Repairs,Clean
+1161,588,Poor,Needs Repairs,Torn Upholstery
+1162,1817,Fair,Minor Scratches,Torn Upholstery
+1163,1407,Excellent,Dents,Minor Wear
+1164,1130,Poor,Dents,Minor Wear
+1165,542,Fair,Needs Repairs,Torn Upholstery
+1166,270,Excellent,Dents,Torn Upholstery
+1167,662,Excellent,Dents,Minor Wear
+1168,428,Fair,Needs Repairs,Minor Wear
+1169,1654,Good,Minor Scratches,Torn Upholstery
+1170,115,Good,Minor Scratches,Clean
+1171,882,Good,Clean,Minor Wear
+1172,861,Good,Needs Repairs,Minor Wear
+1173,137,Fair,Clean,Needs Cleaning
+1174,420,Excellent,Dents,Torn Upholstery
+1175,525,Poor,Needs Repairs,Torn Upholstery
+1176,1128,Good,Needs Repairs,Minor Wear
+1177,1675,Fair,Clean,Minor Wear
+1178,612,Fair,Minor Scratches,Torn Upholstery
+1179,468,Excellent,Clean,Minor Wear
+1180,1597,Good,Clean,Clean
+1181,170,Good,Dents,Needs Cleaning
+1182,1175,Good,Clean,Torn Upholstery
+1183,1464,Poor,Clean,Minor Wear
+1184,1107,Excellent,Dents,Needs Cleaning
+1185,306,Fair,Dents,Minor Wear
+1186,1108,Fair,Needs Repairs,Clean
+1187,325,Poor,Dents,Minor Wear
+1188,960,Poor,Clean,Torn Upholstery
+1189,1308,Poor,Needs Repairs,Torn Upholstery
+1190,453,Poor,Clean,Needs Cleaning
+1191,1160,Fair,Minor Scratches,Torn Upholstery
+1192,104,Excellent,Dents,Minor Wear
+1193,1377,Good,Minor Scratches,Minor Wear
+1194,856,Poor,Needs Repairs,Torn Upholstery
+1195,246,Good,Minor Scratches,Torn Upholstery
+1196,1290,Poor,Dents,Clean
+1197,22,Fair,Needs Repairs,Minor Wear
+1198,102,Excellent,Clean,Torn Upholstery
+1199,391,Good,Clean,Clean
+1200,1999,Fair,Minor Scratches,Clean
+1201,1983,Good,Clean,Torn Upholstery
+1202,714,Poor,Needs Repairs,Torn Upholstery
+1203,329,Fair,Clean,Clean
+1204,676,Good,Clean,Needs Cleaning
+1205,1030,Good,Minor Scratches,Clean
+1206,1271,Fair,Minor Scratches,Needs Cleaning
+1207,1371,Fair,Clean,Clean
+1208,1319,Good,Needs Repairs,Needs Cleaning
+1209,443,Fair,Minor Scratches,Needs Cleaning
+1210,874,Excellent,Dents,Clean
+1211,457,Poor,Needs Repairs,Needs Cleaning
+1212,327,Fair,Needs Repairs,Clean
+1213,1496,Good,Clean,Minor Wear
+1214,412,Excellent,Minor Scratches,Torn Upholstery
+1215,639,Poor,Needs Repairs,Torn Upholstery
+1216,964,Good,Needs Repairs,Needs Cleaning
+1217,1729,Excellent,Clean,Torn Upholstery
+1218,1240,Excellent,Minor Scratches,Minor Wear
+1219,1932,Poor,Minor Scratches,Needs Cleaning
+1220,74,Good,Clean,Minor Wear
+1221,985,Poor,Minor Scratches,Needs Cleaning
+1222,97,Excellent,Clean,Minor Wear
+1223,388,Good,Clean,Clean
+1224,1274,Fair,Dents,Minor Wear
+1225,817,Fair,Clean,Clean
+1226,861,Good,Minor Scratches,Minor Wear
+1227,1996,Poor,Needs Repairs,Needs Cleaning
+1228,189,Poor,Dents,Minor Wear
+1229,1846,Poor,Needs Repairs,Clean
+1230,186,Good,Minor Scratches,Torn Upholstery
+1231,1980,Excellent,Minor Scratches,Clean
+1232,1978,Poor,Dents,Needs Cleaning
+1233,1892,Fair,Minor Scratches,Minor Wear
+1234,1111,Fair,Clean,Torn Upholstery
+1235,1617,Fair,Minor Scratches,Needs Cleaning
+1236,1754,Fair,Minor Scratches,Torn Upholstery
+1237,528,Poor,Dents,Needs Cleaning
+1238,84,Good,Clean,Minor Wear
+1239,37,Poor,Dents,Torn Upholstery
+1240,1670,Good,Dents,Needs Cleaning
+1241,878,Good,Minor Scratches,Torn Upholstery
+1242,343,Good,Clean,Torn Upholstery
+1243,113,Poor,Dents,Torn Upholstery
+1244,1035,Excellent,Minor Scratches,Minor Wear
+1245,1236,Poor,Dents,Minor Wear
+1246,1825,Good,Dents,Minor Wear
+1247,969,Poor,Dents,Needs Cleaning
+1248,701,Excellent,Dents,Clean
+1249,1815,Fair,Needs Repairs,Clean
+1250,1014,Excellent,Dents,Needs Cleaning
+1251,658,Good,Dents,Minor Wear
+1252,260,Excellent,Minor Scratches,Minor Wear
+1253,968,Fair,Clean,Torn Upholstery
+1254,881,Poor,Dents,Torn Upholstery
+1255,29,Excellent,Needs Repairs,Clean
+1256,187,Excellent,Clean,Needs Cleaning
+1257,283,Fair,Needs Repairs,Minor Wear
+1258,1381,Poor,Clean,Needs Cleaning
+1259,1767,Fair,Minor Scratches,Clean
+1260,1128,Excellent,Clean,Torn Upholstery
+1261,1931,Good,Clean,Minor Wear
+1262,1989,Excellent,Clean,Torn Upholstery
+1263,686,Good,Minor Scratches,Minor Wear
+1264,310,Fair,Needs Repairs,Torn Upholstery
+1265,1266,Poor,Dents,Clean
+1266,1765,Excellent,Clean,Torn Upholstery
+1267,439,Good,Clean,Needs Cleaning
+1268,990,Good,Clean,Needs Cleaning
+1269,148,Fair,Dents,Clean
+1270,745,Excellent,Needs Repairs,Torn Upholstery
+1271,1825,Fair,Needs Repairs,Minor Wear
+1272,1590,Poor,Minor Scratches,Minor Wear
+1273,11,Poor,Clean,Clean
+1274,910,Fair,Needs Repairs,Clean
+1275,792,Good,Clean,Needs Cleaning
+1276,1244,Excellent,Clean,Torn Upholstery
+1277,1607,Fair,Dents,Clean
+1278,1973,Good,Minor Scratches,Needs Cleaning
+1279,910,Fair,Minor Scratches,Torn Upholstery
+1280,1980,Good,Minor Scratches,Needs Cleaning
+1281,1463,Good,Dents,Minor Wear
+1282,950,Poor,Clean,Minor Wear
+1283,1691,Poor,Clean,Torn Upholstery
+1284,402,Fair,Needs Repairs,Clean
+1285,1343,Fair,Dents,Torn Upholstery
+1286,795,Fair,Minor Scratches,Needs Cleaning
+1287,1758,Fair,Clean,Clean
+1288,1187,Good,Minor Scratches,Minor Wear
+1289,1395,Fair,Dents,Torn Upholstery
+1290,478,Fair,Dents,Minor Wear
+1291,363,Excellent,Dents,Minor Wear
+1292,81,Poor,Minor Scratches,Clean
+1293,698,Excellent,Minor Scratches,Clean
+1294,225,Good,Needs Repairs,Needs Cleaning
+1295,330,Poor,Dents,Torn Upholstery
+1296,563,Excellent,Clean,Needs Cleaning
+1297,92,Excellent,Clean,Minor Wear
+1298,1910,Excellent,Clean,Minor Wear
+1299,179,Poor,Minor Scratches,Clean
+1300,330,Excellent,Needs Repairs,Minor Wear
+1301,1796,Poor,Dents,Clean
+1302,1295,Fair,Dents,Needs Cleaning
+1303,60,Excellent,Clean,Torn Upholstery
+1304,985,Excellent,Dents,Clean
+1305,407,Good,Dents,Torn Upholstery
+1306,1656,Poor,Needs Repairs,Torn Upholstery
+1307,1555,Excellent,Dents,Minor Wear
+1308,1242,Good,Clean,Minor Wear
+1309,1659,Good,Clean,Torn Upholstery
+1310,1149,Excellent,Dents,Minor Wear
+1311,1615,Good,Dents,Clean
+1312,616,Poor,Clean,Minor Wear
+1313,1935,Poor,Needs Repairs,Torn Upholstery
+1314,1954,Good,Minor Scratches,Minor Wear
+1315,820,Fair,Dents,Clean
+1316,1908,Poor,Clean,Torn Upholstery
+1317,1843,Good,Needs Repairs,Minor Wear
+1318,1603,Fair,Minor Scratches,Clean
+1319,985,Excellent,Needs Repairs,Minor Wear
+1320,638,Poor,Dents,Needs Cleaning
+1321,1112,Excellent,Minor Scratches,Needs Cleaning
+1322,479,Fair,Minor Scratches,Torn Upholstery
+1323,820,Fair,Minor Scratches,Clean
+1324,185,Excellent,Needs Repairs,Minor Wear
+1325,1522,Good,Clean,Needs Cleaning
+1326,704,Fair,Clean,Needs Cleaning
+1327,82,Good,Dents,Minor Wear
+1328,1923,Poor,Clean,Needs Cleaning
+1329,838,Poor,Clean,Clean
+1330,1712,Good,Clean,Needs Cleaning
+1331,1498,Poor,Needs Repairs,Needs Cleaning
+1332,964,Poor,Needs Repairs,Minor Wear
+1333,1080,Excellent,Clean,Minor Wear
+1334,1551,Fair,Needs Repairs,Clean
+1335,62,Fair,Clean,Minor Wear
+1336,1075,Fair,Needs Repairs,Needs Cleaning
+1337,1036,Good,Needs Repairs,Clean
+1338,1538,Fair,Needs Repairs,Needs Cleaning
+1339,1792,Excellent,Minor Scratches,Needs Cleaning
+1340,670,Poor,Minor Scratches,Clean
+1341,252,Good,Dents,Clean
+1342,366,Poor,Clean,Needs Cleaning
+1343,466,Good,Clean,Needs Cleaning
+1344,1022,Good,Minor Scratches,Torn Upholstery
+1345,742,Excellent,Minor Scratches,Needs Cleaning
+1346,1420,Fair,Minor Scratches,Minor Wear
+1347,1230,Fair,Dents,Torn Upholstery
+1348,1481,Fair,Minor Scratches,Needs Cleaning
+1349,1582,Good,Dents,Minor Wear
+1350,1240,Excellent,Clean,Needs Cleaning
+1351,1223,Poor,Dents,Minor Wear
+1352,846,Good,Minor Scratches,Torn Upholstery
+1353,196,Excellent,Needs Repairs,Clean
+1354,1712,Good,Needs Repairs,Clean
+1355,10,Poor,Dents,Torn Upholstery
+1356,380,Fair,Clean,Clean
+1357,1456,Excellent,Clean,Clean
+1358,1339,Excellent,Minor Scratches,Minor Wear
+1359,331,Poor,Dents,Clean
+1360,1096,Excellent,Dents,Torn Upholstery
+1361,803,Good,Clean,Clean
+1362,447,Excellent,Minor Scratches,Clean
+1363,1059,Good,Needs Repairs,Clean
+1364,1215,Excellent,Minor Scratches,Torn Upholstery
+1365,349,Good,Needs Repairs,Needs Cleaning
+1366,1688,Good,Dents,Torn Upholstery
+1367,1433,Good,Minor Scratches,Minor Wear
+1368,1618,Fair,Needs Repairs,Torn Upholstery
+1369,1147,Fair,Needs Repairs,Minor Wear
+1370,1404,Good,Clean,Needs Cleaning
+1371,957,Good,Clean,Clean
+1372,1848,Fair,Dents,Clean
+1373,161,Excellent,Dents,Clean
+1374,1906,Poor,Dents,Torn Upholstery
+1375,984,Fair,Minor Scratches,Needs Cleaning
+1376,1714,Poor,Minor Scratches,Clean
+1377,1003,Good,Minor Scratches,Torn Upholstery
+1378,636,Good,Clean,Needs Cleaning
+1379,1794,Excellent,Dents,Minor Wear
+1380,450,Good,Clean,Needs Cleaning
+1381,3,Good,Dents,Torn Upholstery
+1382,1009,Good,Dents,Needs Cleaning
+1383,1512,Good,Dents,Torn Upholstery
+1384,1723,Fair,Dents,Needs Cleaning
+1385,519,Poor,Minor Scratches,Torn Upholstery
+1386,202,Poor,Clean,Needs Cleaning
+1387,264,Good,Minor Scratches,Clean
+1388,1283,Excellent,Minor Scratches,Minor Wear
+1389,283,Excellent,Clean,Torn Upholstery
+1390,1881,Good,Needs Repairs,Minor Wear
+1391,358,Excellent,Needs Repairs,Minor Wear
+1392,1465,Good,Needs Repairs,Torn Upholstery
+1393,156,Excellent,Minor Scratches,Needs Cleaning
+1394,979,Excellent,Minor Scratches,Minor Wear
+1395,960,Good,Dents,Torn Upholstery
+1396,1966,Poor,Dents,Clean
+1397,591,Excellent,Needs Repairs,Torn Upholstery
+1398,1586,Poor,Needs Repairs,Needs Cleaning
+1399,638,Good,Needs Repairs,Clean
+1400,18,Excellent,Clean,Minor Wear
+1401,1288,Excellent,Needs Repairs,Needs Cleaning
+1402,1878,Poor,Dents,Needs Cleaning
+1403,1489,Poor,Dents,Needs Cleaning
+1404,1257,Excellent,Needs Repairs,Minor Wear
+1405,1163,Poor,Needs Repairs,Clean
+1406,778,Good,Clean,Minor Wear
+1407,416,Fair,Clean,Clean
+1408,77,Fair,Clean,Clean
+1409,203,Good,Clean,Clean
+1410,1125,Excellent,Needs Repairs,Clean
+1411,1682,Fair,Minor Scratches,Minor Wear
+1412,279,Poor,Needs Repairs,Clean
+1413,772,Fair,Needs Repairs,Clean
+1414,487,Fair,Clean,Needs Cleaning
+1415,452,Fair,Minor Scratches,Torn Upholstery
+1416,1216,Fair,Needs Repairs,Clean
+1417,158,Excellent,Needs Repairs,Needs Cleaning
+1418,135,Excellent,Clean,Needs Cleaning
+1419,1570,Poor,Minor Scratches,Torn Upholstery
+1420,175,Excellent,Clean,Clean
+1421,703,Good,Clean,Torn Upholstery
+1422,215,Poor,Clean,Minor Wear
+1423,976,Fair,Needs Repairs,Minor Wear
+1424,1525,Poor,Clean,Minor Wear
+1425,1090,Good,Needs Repairs,Minor Wear
+1426,1510,Good,Clean,Minor Wear
+1427,1493,Poor,Needs Repairs,Minor Wear
+1428,785,Good,Needs Repairs,Torn Upholstery
+1429,1462,Poor,Needs Repairs,Minor Wear
+1430,546,Fair,Needs Repairs,Clean
+1431,332,Good,Clean,Needs Cleaning
+1432,162,Fair,Dents,Clean
+1433,1578,Good,Dents,Minor Wear
+1434,940,Fair,Dents,Minor Wear
+1435,809,Fair,Minor Scratches,Minor Wear
+1436,554,Fair,Dents,Minor Wear
+1437,1521,Good,Minor Scratches,Clean
+1438,1042,Poor,Clean,Torn Upholstery
+1439,33,Good,Dents,Torn Upholstery
+1440,8,Good,Minor Scratches,Clean
+1441,447,Poor,Clean,Torn Upholstery
+1442,389,Poor,Minor Scratches,Needs Cleaning
+1443,1130,Fair,Clean,Minor Wear
+1444,685,Good,Dents,Torn Upholstery
+1445,66,Good,Minor Scratches,Clean
+1446,1690,Good,Clean,Clean
+1447,656,Fair,Needs Repairs,Minor Wear
+1448,961,Excellent,Minor Scratches,Clean
+1449,429,Good,Clean,Clean
+1450,1936,Fair,Clean,Needs Cleaning
+1451,237,Excellent,Minor Scratches,Clean
+1452,340,Good,Dents,Clean
+1453,1668,Good,Clean,Clean
+1454,1545,Excellent,Needs Repairs,Minor Wear
+1455,404,Good,Needs Repairs,Needs Cleaning
+1456,967,Excellent,Clean,Clean
+1457,1955,Good,Minor Scratches,Minor Wear
+1458,399,Excellent,Needs Repairs,Torn Upholstery
+1459,1783,Fair,Minor Scratches,Minor Wear
+1460,528,Poor,Clean,Torn Upholstery
+1461,228,Good,Dents,Clean
+1462,1513,Excellent,Minor Scratches,Clean
+1463,1829,Good,Minor Scratches,Clean
+1464,173,Good,Dents,Torn Upholstery
+1465,154,Fair,Needs Repairs,Clean
+1466,98,Excellent,Dents,Minor Wear
+1467,362,Excellent,Minor Scratches,Needs Cleaning
+1468,1038,Good,Dents,Minor Wear
+1469,414,Poor,Dents,Needs Cleaning
+1470,785,Poor,Minor Scratches,Torn Upholstery
+1471,414,Fair,Minor Scratches,Clean
+1472,1171,Fair,Dents,Torn Upholstery
+1473,1831,Fair,Clean,Clean
+1474,1459,Excellent,Clean,Minor Wear
+1475,226,Excellent,Needs Repairs,Clean
+1476,254,Fair,Needs Repairs,Minor Wear
+1477,180,Excellent,Clean,Torn Upholstery
+1478,1096,Fair,Clean,Clean
+1479,617,Fair,Minor Scratches,Minor Wear
+1480,806,Fair,Dents,Torn Upholstery
+1481,1423,Fair,Minor Scratches,Needs Cleaning
+1482,292,Fair,Dents,Clean
+1483,1897,Good,Needs Repairs,Needs Cleaning
+1484,205,Excellent,Clean,Clean
+1485,1387,Good,Dents,Minor Wear
+1486,478,Excellent,Needs Repairs,Clean
+1487,1594,Good,Needs Repairs,Clean
+1488,1363,Poor,Clean,Needs Cleaning
+1489,724,Excellent,Needs Repairs,Torn Upholstery
+1490,1114,Good,Clean,Clean
+1491,1323,Good,Minor Scratches,Minor Wear
+1492,1557,Good,Needs Repairs,Minor Wear
+1493,715,Good,Minor Scratches,Torn Upholstery
+1494,778,Fair,Needs Repairs,Minor Wear
+1495,1456,Excellent,Minor Scratches,Clean
+1496,1098,Poor,Minor Scratches,Clean
+1497,798,Fair,Minor Scratches,Torn Upholstery
+1498,36,Poor,Needs Repairs,Minor Wear
+1499,134,Poor,Clean,Needs Cleaning
+1500,1691,Fair,Dents,Clean
+1501,1687,Poor,Clean,Clean
+1502,379,Poor,Clean,Minor Wear
+1503,788,Poor,Needs Repairs,Clean
+1504,104,Good,Needs Repairs,Torn Upholstery
+1505,358,Poor,Minor Scratches,Clean
+1506,903,Poor,Minor Scratches,Minor Wear
+1507,1004,Excellent,Needs Repairs,Minor Wear
+1508,202,Good,Clean,Clean
+1509,1566,Poor,Needs Repairs,Minor Wear
+1510,660,Poor,Minor Scratches,Clean
+1511,307,Excellent,Dents,Minor Wear
+1512,250,Fair,Clean,Needs Cleaning
+1513,747,Poor,Clean,Minor Wear
+1514,1349,Good,Minor Scratches,Minor Wear
+1515,1580,Poor,Needs Repairs,Minor Wear
+1516,405,Poor,Clean,Clean
+1517,1393,Excellent,Minor Scratches,Needs Cleaning
+1518,1363,Poor,Needs Repairs,Minor Wear
+1519,1298,Excellent,Minor Scratches,Minor Wear
+1520,585,Good,Needs Repairs,Minor Wear
+1521,1467,Poor,Minor Scratches,Minor Wear
+1522,609,Good,Clean,Clean
+1523,232,Poor,Needs Repairs,Clean
+1524,456,Excellent,Minor Scratches,Minor Wear
+1525,1788,Poor,Minor Scratches,Minor Wear
+1526,192,Good,Clean,Clean
+1527,614,Good,Needs Repairs,Torn Upholstery
+1528,1249,Fair,Needs Repairs,Minor Wear
+1529,1052,Excellent,Minor Scratches,Torn Upholstery
+1530,1437,Excellent,Clean,Clean
+1531,1676,Poor,Minor Scratches,Clean
+1532,35,Good,Clean,Needs Cleaning
+1533,1871,Good,Dents,Needs Cleaning
+1534,1299,Good,Dents,Needs Cleaning
+1535,996,Excellent,Dents,Needs Cleaning
+1536,720,Excellent,Dents,Minor Wear
+1537,489,Poor,Dents,Clean
+1538,1845,Poor,Minor Scratches,Torn Upholstery
+1539,1266,Excellent,Needs Repairs,Clean
+1540,13,Good,Needs Repairs,Minor Wear
+1541,333,Excellent,Clean,Torn Upholstery
+1542,864,Excellent,Needs Repairs,Clean
+1543,420,Fair,Minor Scratches,Torn Upholstery
+1544,1217,Good,Clean,Minor Wear
+1545,1776,Good,Minor Scratches,Torn Upholstery
+1546,1286,Fair,Needs Repairs,Clean
+1547,714,Poor,Minor Scratches,Torn Upholstery
+1548,380,Poor,Minor Scratches,Minor Wear
+1549,705,Fair,Needs Repairs,Clean
+1550,1297,Good,Dents,Torn Upholstery
+1551,960,Poor,Minor Scratches,Needs Cleaning
+1552,1192,Poor,Clean,Torn Upholstery
+1553,898,Excellent,Minor Scratches,Minor Wear
+1554,121,Fair,Dents,Needs Cleaning
+1555,1614,Poor,Dents,Minor Wear
+1556,1981,Poor,Clean,Needs Cleaning
+1557,502,Fair,Dents,Minor Wear
+1558,714,Good,Minor Scratches,Minor Wear
+1559,142,Fair,Minor Scratches,Torn Upholstery
+1560,376,Fair,Dents,Needs Cleaning
+1561,175,Good,Clean,Needs Cleaning
+1562,864,Excellent,Dents,Torn Upholstery
+1563,1474,Fair,Clean,Minor Wear
+1564,1857,Excellent,Dents,Clean
+1565,1847,Poor,Clean,Needs Cleaning
+1566,1998,Excellent,Needs Repairs,Needs Cleaning
+1567,1793,Fair,Needs Repairs,Torn Upholstery
+1568,37,Excellent,Clean,Torn Upholstery
+1569,1712,Good,Minor Scratches,Clean
+1570,1866,Good,Minor Scratches,Clean
+1571,666,Excellent,Dents,Clean
+1572,482,Good,Dents,Needs Cleaning
+1573,1330,Good,Needs Repairs,Needs Cleaning
+1574,1575,Excellent,Dents,Needs Cleaning
+1575,659,Good,Minor Scratches,Clean
+1576,1434,Poor,Needs Repairs,Torn Upholstery
+1577,497,Fair,Dents,Needs Cleaning
+1578,36,Fair,Minor Scratches,Clean
+1579,952,Good,Minor Scratches,Torn Upholstery
+1580,1037,Poor,Dents,Torn Upholstery
+1581,554,Good,Needs Repairs,Clean
+1582,986,Excellent,Minor Scratches,Needs Cleaning
+1583,1142,Fair,Dents,Minor Wear
+1584,604,Fair,Clean,Clean
+1585,643,Good,Needs Repairs,Clean
+1586,67,Poor,Clean,Needs Cleaning
+1587,1339,Excellent,Minor Scratches,Torn Upholstery
+1588,1238,Good,Minor Scratches,Needs Cleaning
+1589,93,Fair,Needs Repairs,Minor Wear
+1590,1131,Poor,Dents,Clean
+1591,394,Excellent,Dents,Torn Upholstery
+1592,559,Excellent,Dents,Minor Wear
+1593,1416,Fair,Needs Repairs,Needs Cleaning
+1594,1638,Excellent,Minor Scratches,Clean
+1595,554,Good,Needs Repairs,Needs Cleaning
+1596,642,Fair,Clean,Torn Upholstery
+1597,691,Good,Minor Scratches,Needs Cleaning
+1598,1268,Excellent,Dents,Minor Wear
+1599,1792,Poor,Minor Scratches,Minor Wear
+1600,1790,Poor,Dents,Torn Upholstery
+1601,140,Poor,Minor Scratches,Torn Upholstery
+1602,1737,Fair,Needs Repairs,Clean
+1603,1946,Excellent,Dents,Minor Wear
+1604,414,Good,Dents,Needs Cleaning
+1605,1373,Excellent,Minor Scratches,Needs Cleaning
+1606,11,Fair,Needs Repairs,Minor Wear
+1607,1748,Excellent,Minor Scratches,Torn Upholstery
+1608,673,Excellent,Minor Scratches,Needs Cleaning
+1609,412,Good,Minor Scratches,Torn Upholstery
+1610,1486,Fair,Clean,Needs Cleaning
+1611,1176,Good,Needs Repairs,Clean
+1612,106,Good,Dents,Minor Wear
+1613,726,Fair,Needs Repairs,Minor Wear
+1614,9,Poor,Dents,Needs Cleaning
+1615,889,Poor,Clean,Torn Upholstery
+1616,661,Good,Dents,Needs Cleaning
+1617,1315,Poor,Dents,Clean
+1618,1001,Poor,Needs Repairs,Torn Upholstery
+1619,421,Fair,Clean,Needs Cleaning
+1620,1317,Fair,Needs Repairs,Torn Upholstery
+1621,166,Poor,Minor Scratches,Clean
+1622,381,Excellent,Minor Scratches,Minor Wear
+1623,148,Poor,Minor Scratches,Minor Wear
+1624,1342,Excellent,Needs Repairs,Clean
+1625,1148,Fair,Clean,Clean
+1626,1462,Good,Minor Scratches,Clean
+1627,551,Excellent,Dents,Minor Wear
+1628,1359,Fair,Needs Repairs,Clean
+1629,283,Good,Clean,Clean
+1630,1115,Poor,Minor Scratches,Minor Wear
+1631,418,Good,Minor Scratches,Torn Upholstery
+1632,857,Good,Clean,Needs Cleaning
+1633,326,Good,Clean,Clean
+1634,172,Poor,Needs Repairs,Clean
+1635,1606,Fair,Clean,Needs Cleaning
+1636,1641,Poor,Minor Scratches,Torn Upholstery
+1637,1887,Good,Needs Repairs,Torn Upholstery
+1638,1020,Good,Dents,Minor Wear
+1639,546,Good,Dents,Torn Upholstery
+1640,961,Poor,Needs Repairs,Clean
+1641,260,Fair,Needs Repairs,Clean
+1642,889,Fair,Clean,Clean
+1643,839,Fair,Minor Scratches,Minor Wear
+1644,75,Fair,Clean,Needs Cleaning
+1645,186,Excellent,Minor Scratches,Torn Upholstery
+1646,951,Excellent,Clean,Needs Cleaning
+1647,78,Fair,Clean,Torn Upholstery
+1648,494,Excellent,Dents,Clean
+1649,1724,Excellent,Clean,Minor Wear
+1650,295,Fair,Needs Repairs,Minor Wear
+1651,1041,Good,Dents,Needs Cleaning
+1652,985,Excellent,Needs Repairs,Needs Cleaning
+1653,903,Poor,Clean,Torn Upholstery
+1654,491,Fair,Clean,Minor Wear
+1655,829,Fair,Dents,Needs Cleaning
+1656,1649,Excellent,Clean,Minor Wear
+1657,1416,Good,Dents,Minor Wear
+1658,1062,Good,Needs Repairs,Torn Upholstery
+1659,1172,Fair,Minor Scratches,Needs Cleaning
+1660,392,Good,Minor Scratches,Torn Upholstery
+1661,1038,Excellent,Minor Scratches,Torn Upholstery
+1662,815,Excellent,Needs Repairs,Needs Cleaning
+1663,452,Excellent,Clean,Needs Cleaning
+1664,630,Poor,Minor Scratches,Needs Cleaning
+1665,1034,Poor,Clean,Needs Cleaning
+1666,1711,Good,Dents,Needs Cleaning
+1667,1444,Poor,Clean,Clean
+1668,1548,Good,Minor Scratches,Clean
+1669,684,Excellent,Needs Repairs,Torn Upholstery
+1670,327,Fair,Clean,Torn Upholstery
+1671,30,Good,Minor Scratches,Needs Cleaning
+1672,780,Excellent,Dents,Needs Cleaning
+1673,1986,Good,Dents,Needs Cleaning
+1674,1863,Excellent,Dents,Clean
+1675,1375,Good,Dents,Needs Cleaning
+1676,1712,Fair,Dents,Minor Wear
+1677,1904,Fair,Dents,Torn Upholstery
+1678,338,Poor,Dents,Minor Wear
+1679,473,Fair,Minor Scratches,Torn Upholstery
+1680,1812,Excellent,Clean,Clean
+1681,1307,Poor,Clean,Needs Cleaning
+1682,552,Poor,Clean,Minor Wear
+1683,1095,Excellent,Minor Scratches,Torn Upholstery
+1684,1542,Poor,Dents,Minor Wear
+1685,1406,Excellent,Needs Repairs,Torn Upholstery
+1686,1831,Good,Dents,Clean
+1687,1770,Excellent,Needs Repairs,Needs Cleaning
+1688,1829,Good,Minor Scratches,Clean
+1689,1586,Good,Dents,Torn Upholstery
+1690,1675,Good,Needs Repairs,Needs Cleaning
+1691,1514,Fair,Minor Scratches,Needs Cleaning
+1692,168,Poor,Clean,Needs Cleaning
+1693,595,Fair,Clean,Minor Wear
+1694,1947,Good,Needs Repairs,Torn Upholstery
+1695,1177,Poor,Needs Repairs,Torn Upholstery
+1696,1152,Fair,Dents,Needs Cleaning
+1697,166,Poor,Needs Repairs,Torn Upholstery
+1698,560,Fair,Dents,Torn Upholstery
+1699,59,Fair,Needs Repairs,Needs Cleaning
+1700,981,Poor,Needs Repairs,Minor Wear
+1701,931,Fair,Dents,Clean
+1702,1784,Fair,Clean,Clean
+1703,1977,Fair,Clean,Minor Wear
+1704,1532,Good,Minor Scratches,Clean
+1705,519,Fair,Clean,Minor Wear
+1706,1157,Fair,Dents,Needs Cleaning
+1707,1240,Fair,Needs Repairs,Needs Cleaning
+1708,1605,Poor,Dents,Clean
+1709,800,Poor,Needs Repairs,Minor Wear
+1710,1896,Fair,Minor Scratches,Clean
+1711,1762,Good,Clean,Clean
+1712,879,Poor,Dents,Torn Upholstery
+1713,357,Good,Minor Scratches,Clean
+1714,123,Fair,Clean,Needs Cleaning
+1715,1836,Poor,Minor Scratches,Minor Wear
+1716,1625,Poor,Clean,Clean
+1717,1531,Excellent,Needs Repairs,Needs Cleaning
+1718,472,Fair,Minor Scratches,Clean
+1719,1189,Excellent,Needs Repairs,Needs Cleaning
+1720,1385,Fair,Clean,Torn Upholstery
+1721,875,Excellent,Dents,Torn Upholstery
+1722,1765,Fair,Clean,Minor Wear
+1723,427,Poor,Minor Scratches,Minor Wear
+1724,1845,Fair,Clean,Clean
+1725,595,Fair,Minor Scratches,Minor Wear
+1726,98,Fair,Clean,Minor Wear
+1727,1776,Poor,Minor Scratches,Minor Wear
+1728,1523,Fair,Dents,Minor Wear
+1729,92,Excellent,Dents,Minor Wear
+1730,1425,Poor,Dents,Minor Wear
+1731,698,Good,Minor Scratches,Needs Cleaning
+1732,752,Excellent,Clean,Minor Wear
+1733,270,Good,Dents,Needs Cleaning
+1734,1238,Poor,Clean,Needs Cleaning
+1735,544,Good,Needs Repairs,Minor Wear
+1736,347,Good,Needs Repairs,Torn Upholstery
+1737,1792,Excellent,Minor Scratches,Minor Wear
+1738,412,Poor,Dents,Minor Wear
+1739,1608,Good,Minor Scratches,Clean
+1740,1806,Poor,Clean,Clean
+1741,557,Excellent,Dents,Torn Upholstery
+1742,530,Fair,Minor Scratches,Needs Cleaning
+1743,936,Good,Clean,Clean
+1744,1508,Poor,Dents,Clean
+1745,680,Good,Dents,Minor Wear
+1746,1407,Good,Needs Repairs,Needs Cleaning
+1747,835,Fair,Minor Scratches,Torn Upholstery
+1748,1481,Poor,Clean,Clean
+1749,842,Poor,Needs Repairs,Minor Wear
+1750,574,Fair,Dents,Torn Upholstery
+1751,366,Fair,Needs Repairs,Clean
+1752,1107,Fair,Clean,Needs Cleaning
+1753,766,Good,Dents,Clean
+1754,119,Fair,Dents,Torn Upholstery
+1755,1549,Fair,Minor Scratches,Clean
+1756,1221,Good,Dents,Needs Cleaning
+1757,145,Good,Dents,Torn Upholstery
+1758,234,Good,Dents,Needs Cleaning
+1759,734,Fair,Minor Scratches,Torn Upholstery
+1760,1948,Excellent,Dents,Torn Upholstery
+1761,1879,Excellent,Minor Scratches,Torn Upholstery
+1762,1463,Good,Minor Scratches,Torn Upholstery
+1763,1572,Fair,Minor Scratches,Torn Upholstery
+1764,401,Excellent,Minor Scratches,Clean
+1765,1348,Excellent,Needs Repairs,Torn Upholstery
+1766,1024,Poor,Needs Repairs,Needs Cleaning
+1767,1099,Good,Clean,Torn Upholstery
+1768,933,Good,Minor Scratches,Needs Cleaning
+1769,138,Excellent,Minor Scratches,Torn Upholstery
+1770,136,Excellent,Clean,Needs Cleaning
+1771,1530,Excellent,Needs Repairs,Minor Wear
+1772,1236,Excellent,Needs Repairs,Minor Wear
+1773,1195,Fair,Needs Repairs,Clean
+1774,407,Poor,Minor Scratches,Clean
+1775,1423,Good,Clean,Minor Wear
+1776,704,Excellent,Needs Repairs,Torn Upholstery
+1777,1327,Good,Needs Repairs,Needs Cleaning
+1778,175,Excellent,Minor Scratches,Torn Upholstery
+1779,1121,Poor,Dents,Torn Upholstery
+1780,280,Excellent,Needs Repairs,Torn Upholstery
+1781,565,Good,Dents,Minor Wear
+1782,1344,Excellent,Clean,Torn Upholstery
+1783,164,Excellent,Minor Scratches,Torn Upholstery
+1784,937,Fair,Dents,Needs Cleaning
+1785,756,Excellent,Minor Scratches,Minor Wear
+1786,29,Excellent,Clean,Clean
+1787,1691,Good,Clean,Torn Upholstery
+1788,1406,Excellent,Minor Scratches,Needs Cleaning
+1789,68,Excellent,Minor Scratches,Needs Cleaning
+1790,1513,Excellent,Clean,Minor Wear
+1791,1773,Poor,Clean,Torn Upholstery
+1792,441,Good,Clean,Torn Upholstery
+1793,1005,Poor,Dents,Minor Wear
+1794,1543,Fair,Minor Scratches,Clean
+1795,310,Poor,Needs Repairs,Needs Cleaning
+1796,1029,Fair,Needs Repairs,Torn Upholstery
+1797,1873,Fair,Clean,Minor Wear
+1798,445,Fair,Dents,Needs Cleaning
+1799,1305,Poor,Minor Scratches,Clean
+1800,215,Fair,Clean,Needs Cleaning
+1801,919,Fair,Minor Scratches,Clean
+1802,1475,Excellent,Dents,Needs Cleaning
+1803,944,Excellent,Dents,Needs Cleaning
+1804,374,Fair,Dents,Clean
+1805,165,Fair,Dents,Torn Upholstery
+1806,1438,Fair,Clean,Torn Upholstery
+1807,459,Fair,Needs Repairs,Clean
+1808,1780,Poor,Dents,Needs Cleaning
+1809,902,Fair,Dents,Clean
+1810,1248,Excellent,Minor Scratches,Needs Cleaning
+1811,593,Fair,Dents,Minor Wear
+1812,1794,Poor,Needs Repairs,Minor Wear
+1813,1169,Good,Clean,Torn Upholstery
+1814,693,Fair,Dents,Needs Cleaning
+1815,1416,Excellent,Dents,Clean
+1816,1744,Excellent,Needs Repairs,Minor Wear
+1817,1515,Excellent,Dents,Minor Wear
+1818,1252,Fair,Dents,Needs Cleaning
+1819,1582,Good,Minor Scratches,Needs Cleaning
+1820,1256,Poor,Minor Scratches,Needs Cleaning
+1821,952,Excellent,Dents,Minor Wear
+1822,152,Fair,Needs Repairs,Minor Wear
+1823,1281,Excellent,Needs Repairs,Clean
+1824,1155,Excellent,Dents,Needs Cleaning
+1825,862,Poor,Minor Scratches,Needs Cleaning
+1826,1530,Good,Minor Scratches,Clean
+1827,1439,Excellent,Clean,Torn Upholstery
+1828,231,Good,Needs Repairs,Minor Wear
+1829,399,Poor,Needs Repairs,Torn Upholstery
+1830,203,Fair,Minor Scratches,Clean
+1831,224,Fair,Needs Repairs,Needs Cleaning
+1832,1249,Good,Dents,Needs Cleaning
+1833,1742,Poor,Needs Repairs,Minor Wear
+1834,1083,Poor,Minor Scratches,Needs Cleaning
+1835,46,Fair,Minor Scratches,Needs Cleaning
+1836,714,Excellent,Minor Scratches,Needs Cleaning
+1837,864,Excellent,Minor Scratches,Needs Cleaning
+1838,1882,Fair,Minor Scratches,Torn Upholstery
+1839,1975,Excellent,Needs Repairs,Torn Upholstery
+1840,1169,Fair,Dents,Torn Upholstery
+1841,1604,Good,Needs Repairs,Clean
+1842,338,Poor,Dents,Needs Cleaning
+1843,125,Good,Dents,Clean
+1844,915,Excellent,Dents,Minor Wear
+1845,54,Poor,Minor Scratches,Minor Wear
+1846,1812,Fair,Dents,Torn Upholstery
+1847,1348,Excellent,Dents,Clean
+1848,927,Fair,Minor Scratches,Clean
+1849,1904,Fair,Dents,Clean
+1850,1263,Excellent,Clean,Clean
+1851,719,Excellent,Minor Scratches,Torn Upholstery
+1852,838,Excellent,Minor Scratches,Torn Upholstery
+1853,667,Poor,Needs Repairs,Torn Upholstery
+1854,1668,Fair,Dents,Minor Wear
+1855,172,Excellent,Minor Scratches,Needs Cleaning
+1856,1418,Excellent,Minor Scratches,Needs Cleaning
+1857,831,Excellent,Needs Repairs,Needs Cleaning
+1858,570,Good,Dents,Torn Upholstery
+1859,1661,Excellent,Clean,Torn Upholstery
+1860,608,Excellent,Minor Scratches,Needs Cleaning
+1861,966,Good,Needs Repairs,Minor Wear
+1862,1180,Poor,Needs Repairs,Torn Upholstery
+1863,1512,Fair,Dents,Minor Wear
+1864,675,Excellent,Dents,Clean
+1865,1787,Good,Needs Repairs,Clean
+1866,1175,Good,Minor Scratches,Clean
+1867,1591,Good,Dents,Torn Upholstery
+1868,1562,Fair,Clean,Clean
+1869,1798,Poor,Needs Repairs,Needs Cleaning
+1870,2000,Excellent,Minor Scratches,Minor Wear
+1871,1787,Poor,Clean,Minor Wear
+1872,1009,Excellent,Dents,Needs Cleaning
+1873,1042,Poor,Needs Repairs,Needs Cleaning
+1874,1496,Fair,Minor Scratches,Torn Upholstery
+1875,710,Good,Needs Repairs,Minor Wear
+1876,1608,Good,Minor Scratches,Clean
+1877,390,Good,Minor Scratches,Minor Wear
+1878,1754,Good,Clean,Torn Upholstery
+1879,883,Poor,Minor Scratches,Clean
+1880,1770,Excellent,Dents,Clean
+1881,723,Fair,Clean,Clean
+1882,1702,Fair,Minor Scratches,Minor Wear
+1883,573,Fair,Needs Repairs,Minor Wear
+1884,1748,Good,Dents,Needs Cleaning
+1885,1417,Good,Clean,Needs Cleaning
+1886,167,Good,Minor Scratches,Torn Upholstery
+1887,1688,Excellent,Dents,Torn Upholstery
+1888,1799,Poor,Needs Repairs,Minor Wear
+1889,1793,Poor,Minor Scratches,Needs Cleaning
+1890,1410,Fair,Dents,Torn Upholstery
+1891,1998,Poor,Clean,Minor Wear
+1892,651,Good,Dents,Minor Wear
+1893,1840,Good,Minor Scratches,Clean
+1894,1926,Excellent,Minor Scratches,Torn Upholstery
+1895,420,Poor,Needs Repairs,Clean
+1896,298,Poor,Dents,Torn Upholstery
+1897,921,Fair,Minor Scratches,Needs Cleaning
+1898,1704,Poor,Needs Repairs,Needs Cleaning
+1899,1029,Good,Dents,Minor Wear
+1900,1086,Poor,Dents,Needs Cleaning
+1901,190,Excellent,Needs Repairs,Clean
+1902,1197,Poor,Clean,Minor Wear
+1903,554,Poor,Needs Repairs,Needs Cleaning
+1904,423,Fair,Needs Repairs,Needs Cleaning
+1905,1177,Excellent,Dents,Clean
+1906,178,Good,Minor Scratches,Minor Wear
+1907,648,Poor,Dents,Clean
+1908,1918,Poor,Dents,Minor Wear
+1909,118,Good,Needs Repairs,Needs Cleaning
+1910,907,Good,Dents,Torn Upholstery
+1911,633,Poor,Clean,Minor Wear
+1912,1334,Good,Dents,Clean
+1913,1958,Fair,Clean,Clean
+1914,405,Good,Minor Scratches,Needs Cleaning
+1915,1764,Excellent,Needs Repairs,Minor Wear
+1916,1841,Poor,Needs Repairs,Needs Cleaning
+1917,1366,Good,Dents,Needs Cleaning
+1918,453,Good,Clean,Clean
+1919,1025,Poor,Clean,Needs Cleaning
+1920,1121,Good,Needs Repairs,Clean
+1921,1568,Good,Minor Scratches,Clean
+1922,1947,Excellent,Needs Repairs,Torn Upholstery
+1923,736,Poor,Clean,Minor Wear
+1924,1566,Good,Needs Repairs,Torn Upholstery
+1925,526,Fair,Dents,Torn Upholstery
+1926,1720,Fair,Needs Repairs,Clean
+1927,957,Good,Clean,Needs Cleaning
+1928,399,Good,Minor Scratches,Clean
+1929,983,Poor,Dents,Torn Upholstery
+1930,220,Fair,Clean,Minor Wear
+1931,882,Poor,Clean,Needs Cleaning
+1932,1092,Good,Clean,Torn Upholstery
+1933,643,Excellent,Clean,Minor Wear
+1934,1777,Poor,Clean,Clean
+1935,1455,Poor,Needs Repairs,Clean
+1936,1825,Good,Dents,Clean
+1937,1649,Fair,Dents,Needs Cleaning
+1938,1495,Poor,Minor Scratches,Needs Cleaning
+1939,1907,Fair,Minor Scratches,Minor Wear
+1940,595,Poor,Dents,Clean
+1941,364,Poor,Clean,Needs Cleaning
+1942,1052,Excellent,Clean,Torn Upholstery
+1943,280,Poor,Minor Scratches,Clean
+1944,553,Fair,Needs Repairs,Minor Wear
+1945,534,Excellent,Dents,Minor Wear
+1946,1641,Excellent,Dents,Needs Cleaning
+1947,377,Excellent,Clean,Torn Upholstery
+1948,1951,Good,Needs Repairs,Needs Cleaning
+1949,162,Poor,Clean,Needs Cleaning
+1950,1109,Excellent,Minor Scratches,Torn Upholstery
+1951,539,Fair,Clean,Needs Cleaning
+1952,134,Good,Minor Scratches,Torn Upholstery
+1953,1970,Poor,Clean,Needs Cleaning
+1954,841,Excellent,Dents,Clean
+1955,1961,Fair,Clean,Minor Wear
+1956,1219,Fair,Needs Repairs,Minor Wear
+1957,766,Good,Minor Scratches,Minor Wear
+1958,1931,Good,Minor Scratches,Minor Wear
+1959,491,Poor,Needs Repairs,Clean
+1960,191,Poor,Minor Scratches,Torn Upholstery
+1961,474,Good,Dents,Torn Upholstery
+1962,114,Poor,Dents,Needs Cleaning
+1963,172,Good,Minor Scratches,Minor Wear
+1964,1578,Fair,Needs Repairs,Clean
+1965,1944,Poor,Dents,Minor Wear
+1966,1278,Excellent,Minor Scratches,Clean
+1967,86,Fair,Clean,Needs Cleaning
+1968,1589,Excellent,Clean,Minor Wear
+1969,1644,Excellent,Dents,Clean
+1970,1887,Poor,Clean,Torn Upholstery
+1971,713,Good,Clean,Torn Upholstery
+1972,929,Good,Minor Scratches,Clean
+1973,702,Poor,Needs Repairs,Torn Upholstery
+1974,397,Good,Dents,Needs Cleaning
+1975,1187,Excellent,Dents,Needs Cleaning
+1976,1486,Poor,Clean,Clean
+1977,223,Excellent,Clean,Torn Upholstery
+1978,763,Excellent,Minor Scratches,Torn Upholstery
+1979,1439,Good,Clean,Torn Upholstery
+1980,868,Fair,Dents,Clean
+1981,1509,Poor,Dents,Clean
+1982,1366,Good,Dents,Torn Upholstery
+1983,44,Fair,Dents,Minor Wear
+1984,1874,Good,Minor Scratches,Torn Upholstery
+1985,959,Poor,Needs Repairs,Minor Wear
+1986,338,Excellent,Minor Scratches,Clean
+1987,1786,Excellent,Dents,Minor Wear
+1988,1357,Poor,Clean,Needs Cleaning
+1989,1558,Fair,Minor Scratches,Torn Upholstery
+1990,1481,Good,Minor Scratches,Clean
+1991,1486,Good,Clean,Clean
+1992,953,Fair,Needs Repairs,Needs Cleaning
+1993,1227,Good,Dents,Minor Wear
+1994,1865,Poor,Clean,Clean
+1995,1574,Good,Minor Scratches,Minor Wear
+1996,921,Good,Needs Repairs,Minor Wear
+1997,871,Fair,Needs Repairs,Needs Cleaning
+1998,1548,Good,Needs Repairs,Torn Upholstery
+1999,720,Poor,Needs Repairs,Minor Wear
+2000,1891,Good,Dents,Clean

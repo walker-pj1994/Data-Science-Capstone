@@ -1,0 +1,69 @@
+Table Cars {
+  CarID Int [PK]
+  Make Varchar
+  Model Varchar
+  Year Int
+  Mileage Int
+  VIN Varchar
+  EngineType Varchar
+  TransmissionType Varchar
+  FuelType Varchar
+}
+
+Table Owners {
+  OwnerID Int [PK]
+  CarID Int [ref: > Cars.CarID]
+  FirstName Varchar
+  LastName Varchar
+  ContactInfo Varchar
+  State Varchar
+}
+
+Table OwnershipHistory {
+  OwnershipID Int [PK]
+  CarID Int [ref: > Cars.CarID]
+  OwnerID Int [ref: > Owners.OwnerID]
+  PurchaseDate Date
+  SaleDate Date
+  SalePrice Decimal
+}
+
+Table VehicleCondition {
+  ConditionID Int [PK]
+  CarID Int [ref: > Cars.CarID]
+  OverallCondition Varchar
+  ExteriorCondition Varchar
+  InteriorCondition Varchar
+}
+
+Table Features {
+  FeatureID Int [PK]
+  CarID Int [ref: > Cars.CarID]
+  FeatureName Varchar
+  FeatureValue Varchar
+}
+
+Table Incidents {
+  IncidentID Int [PK]
+  CarID Int [ref: > Cars.CarID]
+  IncidentDate Date
+  Description Text
+  SalePrice Decimal
+}
+
+
+Table ServiceHistory {
+  ServiceID Int [PK]
+  CarID Int [ref: > Cars.CarID]
+  ServiceDate Date
+  ServiceType Varchar
+  Cost Decimal
+}
+
+Table MarketTrends {
+  TrendID Int [PK]
+  CarID Int [ref: > Cars.CarID]
+  Date Date
+  AverageSalePrice Decimal
+  MarketDemand Int
+}

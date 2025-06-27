@@ -1,0 +1,1981 @@
+CarID,Make,Model,Year,Mileage,VIN,EngineType,TransmissionType,FuelType
+1,ford,lanos,2018,67873,RT3GZYSKXXNDZ9J97,6-Cylinder,Manual,Diesel
+2,land rover,s90,2002,79511,K75MX7NU0LDXVG416,8-Cylinder,Manual,Gasoline
+3,gmc,s40,1992,57263,YMFL5CEF90V66LZY7,4-Cylinder,CVT,Hybrid
+4,chevrolet,tacoma access cab,2008,36633,8MDJV6RL6FJBCB3GX,2-Cylinder,Automatic,Diesel
+5,audi,tt,1995,184856,036SHFDT6HVYN6L8Y,6-Cylinder,CVT,Hybrid
+6,dodge,b-series regular cab,2016,191321,CF2H8EPA3MU470E35,2-Cylinder,Automatic,Diesel
+7,ford,mazda5,1998,146751,8S6P832C4B8XD42U7,10-Cylinder+,Manual,Gasoline
+8,ferrari,aztek,2001,82889,E5KNUB4Z3W37SCGNX,10-Cylinder+,CVT,Diesel
+9,volkswagen,caprice classic,1998,116049,D4AAMG8V1B1XTZKNR,10-Cylinder+,CVT,Hybrid
+10,dodge,xk,2018,143838,01W6M3H90FXNJN9KR,8-Cylinder,Manual,Gasoline
+11,volvo,ilx,2002,186188,1CMAFEVR5T3ST3AV5,4-Cylinder,CVT,Diesel
+12,acura,savana 3500 passenger,2006,63939,VY13YLKW44TC691ST,4-Cylinder,Automatic,Diesel
+13,gmc,86,2012,148769,117C8CKH8B7XS62HV,10-Cylinder+,Automatic,Hybrid
+14,mercedes-benz,element,2014,142341,9N80H2336DGLP3YWU,4-Cylinder,CVT,Diesel
+15,mercedes-benz,sequoia,2017,83900,DRJ190HM2MP6M33HA,3-Cylinder,CVT,Hybrid
+16,ford,dakota club cab,2016,79022,PS9J8XF41KB5KSMKT,2-Cylinder,Automatic,Electric
+17,cadillac,cayenne,2015,143508,XMM8X8YU03KM0AR65,10-Cylinder+,Automatic,Diesel
+18,mitsubishi,mustang,2012,158121,E4R17SJV8YDU6PEGA,5-Cylinder,Automatic,Hybrid
+19,plymouth,g-class,2000,24020,852VC8YS1GD3D07CW,5-Cylinder,Manual,Diesel
+20,ford,s4,1992,63466,7Y0SUYLY3YCE1MLL3,6-Cylinder,Automatic,Hybrid
+21,subaru,prius c,2012,48950,0RJX56352E93K1VMA,10-Cylinder+,Automatic,Electric
+22,nissan,elantra,1998,18110,PZRZ365U5DJTXRE21,8-Cylinder,Automatic,Hybrid
+23,rolls-royce,sedona,2014,10129,ZGM5YGKT7RR4A9FJM,2-Cylinder,Automatic,Electric
+24,kia,rally wagon 2500,2003,184885,T0Y60NT35WRW47X02,2-Cylinder,CVT,Diesel
+25,geo,silverado 3500 hd regular cab,1995,61735,L7NCRY849WM8J9RJ8,6-Cylinder,Automatic,Gasoline
+26,gmc,express 2500 cargo,1992,72144,SVPCWN5383YG2DE6Z,8-Cylinder,CVT,Electric
+27,subaru,taurus,2005,21593,ZK80UU672T57T02VU,8-Cylinder,Manual,Gasoline
+28,ford,prius c,1997,153898,YLG6N58N12NNB1EP5,6-Cylinder,Automatic,Diesel
+29,subaru,silverado 3500 hd regular cab,2010,4249,1D81JP2E50BW8XNG9,2-Cylinder,Automatic,Hybrid
+30,volvo,db9,2011,97533,MXJJLB67XKAR09ELZ,3-Cylinder,Automatic,Diesel
+31,ferrari,frontier crew cab,2001,16303,JPT392S5459TKT0UK,8-Cylinder,Manual,Gasoline
+32,ferrari,sonic,2011,11857,FVP4RT1T7LVDPJX6B,10-Cylinder+,Automatic,Hybrid
+33,ford,gti,2017,6998,80VSBTUB8FWM0NW6X,10-Cylinder+,Automatic,Hybrid
+34,ferrari,srx,1992,31377,1VW1DK8K00UX6YESH,8-Cylinder,Automatic,Gasoline
+35,mazda,rav4 hybrid,2004,30420,H31GSSV71GNJC635G,4-Cylinder,CVT,Hybrid
+36,toyota,flex,2012,48489,8FA5TJJ92D7TSHJVP,6-Cylinder,CVT,Diesel
+37,dodge,lx,2011,190619,A88RSW9K5NXTDXYZL,5-Cylinder,CVT,Gasoline
+38,nissan,sierra 1500 limited double cab,1994,111573,VK0Y4D2N6XS156S1P,2-Cylinder,Automatic,Gasoline
+39,freightliner,tucson,2017,57889,HJE0JC7U4WMRAMTU0,5-Cylinder,CVT,Diesel
+40,chrysler,sprinter 2500 cargo,2005,114312,L9DBVNRU9YRECVD4R,2-Cylinder,Automatic,Gasoline
+41,nissan,titan king cab,1996,122455,BP4BEK6Z7JNTW4UWY,4-Cylinder,CVT,Electric
+42,aston martin,c-max energi,2003,52259,DMH334AN71J195UES,6-Cylinder,Automatic,Electric
+43,honda,rainier,1998,149361,CM76LLWL1G23CP6DN,3-Cylinder,Automatic,Hybrid
+44,chevrolet,sequoia,2018,177262,KKRGXNF39K51WYV4T,5-Cylinder,Manual,Electric
+45,nissan,avalon,2005,138798,866F70TDXV5US3BFY,3-Cylinder,Automatic,Hybrid
+46,bmw,xc90,2000,174484,NLU7JCJV9ZWGHE287,3-Cylinder,CVT,Electric
+47,hyundai,yaris hatchback,1998,178593,FDJ1ZU484RH8NEJEF,2-Cylinder,CVT,Hybrid
+48,lexus,riviera,1996,81643,LEPXJA919ZLP29S0B,6-Cylinder,Automatic,Diesel
+49,toyota,xg350,2009,40216,DYDF9ERN79Y72NYWK,2-Cylinder,Automatic,Diesel
+50,mazda,prius prime,1999,194399,YXL6G9SC7LJR4D3LF,4-Cylinder,Manual,Diesel
+51,infiniti,tundra double cab,2018,142690,GNAK2N405N2Y42F31,3-Cylinder,CVT,Hybrid
+53,mitsubishi,montego,2008,176528,38TRA1Z93Z06MFBF2,10-Cylinder+,Automatic,Diesel
+54,toyota,discovery sport,2007,101716,6U7W03GM1R23Y6NJ0,5-Cylinder,Automatic,Hybrid
+55,toyota,sorento,2020,155864,ASMHYS1K5JX3G3WS8,5-Cylinder,Manual,Electric
+56,ford,grand prix,2014,62761,42H3GJDM0RGD8MFNA,10-Cylinder+,Automatic,Hybrid
+57,porsche,grand marquis,2003,186213,140NPJJL6YSUA103V,3-Cylinder,Manual,Gasoline
+58,audi,4runner,2019,105451,XGC5UHBA35A8ZRUHK,4-Cylinder,Automatic,Electric
+59,volkswagen,cavalier,2018,43430,HGLMCU013Z0RPW3TE,2-Cylinder,Manual,Diesel
+60,isuzu,model x,2009,183898,CNY2FFHB3T5VFVZ7C,3-Cylinder,Manual,Gasoline
+61,nissan,spectra,1995,127733,USHGUNL68K2Y1GCSR,5-Cylinder,CVT,Electric
+62,mercedes-benz,malibu,2018,129651,3WN9HL2S2X936NP15,3-Cylinder,CVT,Gasoline
+63,gmc,xterra,1999,13069,X3L2LS9H1T00SKZ4A,3-Cylinder,Automatic,Electric
+64,toyota,m3,1994,165960,33RBN66B7GCGLGGW0,10-Cylinder+,Manual,Diesel
+65,maserati,k900,2019,105333,3BZ3L5CW1FWAM9X46,10-Cylinder+,CVT,Hybrid
+66,bmw,continental,2020,55974,167UNVMR0ZP89L2B9,2-Cylinder,Manual,Diesel
+67,audi,gladiator,1995,160448,3T4KR4AN35T4VNGKW,5-Cylinder,Automatic,Gasoline
+68,chevrolet,traverse,2015,159477,WGCR5N7812N2BS1LW,10-Cylinder+,CVT,Electric
+69,maserati,five hundred,2008,180496,X64SG2762MN7X30J3,2-Cylinder,Manual,Hybrid
+70,ram,grand caravan passenger,1998,103991,A0ABAFM2XXS3EFJMA,3-Cylinder,Manual,Diesel
+71,lexus,canyon crew cab,2008,118745,ATWP9R1A71RB022LZ,2-Cylinder,Automatic,Gasoline
+72,toyota,expedition el,2015,171328,800R2TUM2F9PZDS59,5-Cylinder,CVT,Hybrid
+73,dodge,yukon xl 2500,2016,40485,7UUFXRES7FXS5GHP2,6-Cylinder,CVT,Electric
+74,ferrari,silverado 2500 hd crew cab,2018,10659,FH3LS7400S2TSU7WW,3-Cylinder,Automatic,Hybrid
+75,toyota,accent,1993,82500,XTAJZ8PN60NX4CGBL,4-Cylinder,Manual,Gasoline
+76,gmc,eurovan,2018,196381,JU3THRDN3998NA2US,5-Cylinder,Automatic,Gasoline
+77,hyundai,ram wagon 3500,2000,97635,U9A0DAE249YNJM8TG,3-Cylinder,Manual,Hybrid
+78,chrysler,sl-class,2011,98455,0RKFRNRXXZKTT7001,6-Cylinder,CVT,Gasoline
+79,toyota,nautilus,2015,39589,DZ8HAR63818PXL7VP,6-Cylinder,CVT,Hybrid
+80,acura,montana sv6,2005,96259,YEA5ZA2A3TDVSG29R,3-Cylinder,Manual,Gasoline
+81,alfa romeo,century,2019,10801,R6SMEZW38X7HZYSXG,3-Cylinder,Automatic,Hybrid
+82,volkswagen,ilx,2014,152948,AK0W55XS6T6GXE8J0,4-Cylinder,Automatic,Diesel
+83,pontiac,malibu,2003,143781,49C13SY74XNM71FEY,10-Cylinder+,Manual,Hybrid
+84,hyundai,v70,2016,125321,E1YNZM651KUEPR0EJ,3-Cylinder,CVT,Electric
+85,infiniti,mustang,2007,47077,NJR98SNZ9XEPNUHNS,10-Cylinder+,CVT,Hybrid
+86,ford,silverado 1500 double cab,2007,105688,7XJ8V0NF8BMYE8RRW,6-Cylinder,Manual,Diesel
+87,land rover,caravan passenger,2002,28482,SZKYEL168XLSEU43T,2-Cylinder,Manual,Diesel
+88,chevrolet,mark viii,1998,124257,LB8BP2E391R198C6W,3-Cylinder,Automatic,Electric
+89,volvo,neon,2015,125589,5BEETRX12UDR3H2NP,10-Cylinder+,Manual,Electric
+90,toyota,3000gt,2001,9915,96G77H2019RDLCTZZ,2-Cylinder,CVT,Gasoline
+91,ford,xl-7,2014,43661,X8ZVXBWM19TGR6ZME,5-Cylinder,Automatic,Hybrid
+92,nissan,corolla,2017,17258,XT2V1SVE1UFGXX0EV,4-Cylinder,Manual,Electric
+93,mercedes-benz,gallardo,2011,16031,06CK840M83MAWRCTY,3-Cylinder,Automatic,Electric
+94,ford,ux,2016,103234,4MCLBU0Y4DV3FYLC1,2-Cylinder,Automatic,Diesel
+95,ford,caprice classic,2008,117583,FVE7UJMY5CAPNVSVL,10-Cylinder+,Manual,Gasoline
+96,chevrolet,compass,2001,21931,0E80SWDP832SD6TTD,8-Cylinder,Automatic,Diesel
+97,gmc,57,2009,153414,YKR56Y1D9TPK62F2Z,4-Cylinder,Automatic,Electric
+98,buick,maxima,2012,93983,G8VHERRZXMEG630LY,2-Cylinder,CVT,Electric
+99,scion,model x,2019,137839,ULR28U90428UF3HGR,2-Cylinder,Manual,Hybrid
+100,toyota,sentra,2015,130308,PC4MZ1AY82GM9N7T5,4-Cylinder,CVT,Gasoline
+101,bmw,expedition el,2012,168033,59Y3EN7D2BESCVNAH,8-Cylinder,Manual,Diesel
+102,bmw,accord crosstour,2014,27428,DWL9H16L7KL361J8A,8-Cylinder,Manual,Diesel
+103,lincoln,explorer,2004,94802,ZNV6TZT886WLBJFUJ,2-Cylinder,Automatic,Gasoline
+104,nissan,accord hybrid,2016,156300,H5LLJ4F97G4RTHEGL,10-Cylinder+,CVT,Electric
+105,chevrolet,f250 super duty super cab,1993,106406,V8UPA4EX4R2F6K7B9,5-Cylinder,Automatic,Hybrid
+106,ford,sportvan g20,1997,178079,T8FYJHSU2X4ANCF0E,10-Cylinder+,Manual,Diesel
+107,ford,king cab,1997,166478,BG2BETAF99AFK2WC4,5-Cylinder,Automatic,Electric
+108,nissan,passport,2011,2544,ZRDRY7960161FSVHT,4-Cylinder,CVT,Electric
+109,chevrolet,x3,2006,9297,G5AFD34Z95VFV9ZJ1,6-Cylinder,Automatic,Hybrid
+110,gmc,explorer,2009,157964,NPKZG92X8CSMXKV9X,10-Cylinder+,Manual,Hybrid
+111,mercedes-benz,a6,1992,77170,NRSSZKFC4UDGZAZ9Z,10-Cylinder+,CVT,Electric
+112,audi,rapide s,2017,135404,MGUKW4CG9W52C7G1D,3-Cylinder,CVT,Diesel
+113,aston martin,rapide s,2011,34208,PH122AKF9SYPN6U82,10-Cylinder+,Automatic,Gasoline
+115,mitsubishi,mazda3,2014,39012,Z6TKMC4M39LHYXMH5,5-Cylinder,Automatic,Gasoline
+116,gmc,is,1996,100199,ZGSVTAT9388BXJ7UG,4-Cylinder,Automatic,Hybrid
+117,nissan,cabrio,2019,150437,Z513198T8RX2L96SE,2-Cylinder,Automatic,Electric
+118,toyota,jetta,2017,195812,24S9KTS45V09DA6XJ,4-Cylinder,Manual,Diesel
+119,infiniti,corolla,2008,140356,S1451J007Z98M1L0M,6-Cylinder,Automatic,Gasoline
+120,bmw,sentra,2003,159234,PDGVMYX686LVRSXU5,3-Cylinder,Automatic,Electric
+121,dodge,expedition max,2020,194181,ZL05003R885HKNXSL,8-Cylinder,CVT,Electric
+122,ram,f350 super duty super cab,1996,149491,ZNEZ3RPM4Z1F5X8PU,10-Cylinder+,CVT,Diesel
+123,dodge,milan,2018,129370,2Z83N3PB3MHYXT1FX,8-Cylinder,CVT,Hybrid
+124,lamborghini,odyssey,2002,100705,A3XARJXDX2WBVLLU0,6-Cylinder,Manual,Electric
+125,dodge,dawn,2014,168030,FPRJFDGF0PWFM0LF0,10-Cylinder+,Manual,Diesel
+126,gmc,ridgeline,2008,191221,8VXDBNF6XYDJRHZCN,10-Cylinder+,Manual,Hybrid
+127,porsche,mercedes-amg g-class,2019,126177,23CCAW6G9ZJYTLR48,2-Cylinder,Manual,Diesel
+128,bmw,golf sportwagen,1997,157801,HVKTXPE6X66Z2ZM7F,2-Cylinder,Automatic,Gasoline
+129,mazda,sierra 2500 hd regular cab,2005,107777,K6S9CHJA1BE99EGYK,3-Cylinder,CVT,Hybrid
+130,ram,maxima,2003,120293,D69TBC2N9X9H6HE10,10-Cylinder+,Automatic,Gasoline
+131,fiat,sprinter 2500 cargo,1998,39680,T90Y3ZLE1BWLVEHC7,4-Cylinder,Manual,Hybrid
+132,chevrolet,titan xd crew cab,2015,165141,NJDJS5BR1879W0UGC,10-Cylinder+,Automatic,Gasoline
+133,ford,tucson fuel cell,1994,170129,GVLRZ4NR3R903KVTD,5-Cylinder,Automatic,Electric
+134,gmc,odyssey,2003,128534,67S8ZWA34CEF7RT5D,6-Cylinder,Automatic,Diesel
+135,mercedes-benz,titan xd single cab,1999,161043,Y6C7Z9CU4SGX2NND3,3-Cylinder,Manual,Diesel
+136,audi,grand caravan passenger,2007,33320,D10FWX6H8JSMK68YP,6-Cylinder,CVT,Gasoline
+137,gmc,c70,2015,136054,E9TF2YJ07P08ZLL5P,10-Cylinder+,Automatic,Diesel
+138,chevrolet,s60,2003,116543,JURS30V58J0CYN00U,4-Cylinder,CVT,Diesel
+139,mazda,traverse,1999,93468,8A9VUB3K7X6P77YF3,2-Cylinder,CVT,Gasoline
+140,ford,silverado 2500 hd double cab,2018,127445,WGGRAF8A8YF1E000B,2-Cylinder,Automatic,Hybrid
+141,dodge,forte,1995,174721,7HWGT350XV4NMGTR2,4-Cylinder,CVT,Diesel
+142,chevrolet,d150 regular cab,2011,60202,D60FDVL16GT9MRCK7,5-Cylinder,CVT,Hybrid
+143,acura,cabrio,1995,110129,FGK6P0V28RV4JZUWC,3-Cylinder,Automatic,Hybrid
+144,ford,h3,2016,38191,7RGCYXGZ0S9YHB1DM,4-Cylinder,CVT,Gasoline
+145,honda,loyale,2001,22028,2UKLCMT948FNXVBNU,10-Cylinder+,Manual,Electric
+146,hyundai,new beetle,2018,26007,P76V971R1XFS7T4JA,4-Cylinder,Manual,Gasoline
+147,toyota,mx-5 miata,2019,117104,M1016MMV4CFPWGAVS,2-Cylinder,Automatic,Gasoline
+148,pontiac,a4,2019,130187,7MDK8ZK687J4F8AVA,3-Cylinder,Manual,Hybrid
+149,gmc,colorado regular cab,2017,92406,AV2R287K16RDGREWZ,6-Cylinder,Manual,Diesel
+150,cadillac,captiva sport,2005,181344,U1TEJNZL3XWGNHABE,5-Cylinder,Manual,Gasoline
+151,lincoln,envoy xuv,2005,46637,PXJF27WB0CRM93YTW,10-Cylinder+,Manual,Hybrid
+152,nissan,equinox,2004,18485,1CD5Y96S6HD6U2XM1,3-Cylinder,CVT,Hybrid
+153,bentley,m3,2020,53684,TVZJ536N1RTREJYS1,8-Cylinder,Manual,Hybrid
+154,chevrolet,stinger,2008,96765,Y0SUSKXPXKTAN3UVV,4-Cylinder,Automatic,Diesel
+155,hyundai,dakota extended cab,2014,49018,MER2M0BY157B3EB1U,8-Cylinder,Manual,Diesel
+156,buick,i-miev,1998,90295,JSVK3AXA578XJKKS3,6-Cylinder,Manual,Hybrid
+157,gmc,qx60,2019,54557,W54JEWKD5R5U336P1,4-Cylinder,Manual,Gasoline
+158,chevrolet,avalon,1998,76711,1330AX695297558C7,5-Cylinder,Manual,Gasoline
+159,buick,caravan cargo,2006,48246,8XVZA79P3UZ96Z3F7,8-Cylinder,Manual,Hybrid
+160,land rover,transit 350 van,1995,152266,LSKF60SP8JNZP2110,4-Cylinder,CVT,Diesel
+161,lexus,cls-class,2004,38515,9B8YX9HG293BNLC7Z,10-Cylinder+,Manual,Diesel
+162,ford,cube,2007,133256,GLC8FNS72HRN3MES3,10-Cylinder+,Manual,Hybrid
+163,mini,mustang,2013,76299,AG3H6MT13HEBGP8AY,3-Cylinder,CVT,Gasoline
+164,mercury,silverado 3500 regular cab,2018,34664,TJ3G12AM3BSEC3CWV,6-Cylinder,CVT,Hybrid
+165,ford,montero sport,2017,184069,NP82TPBX5ER1CYTSA,3-Cylinder,CVT,Electric
+166,fiat,lr2,2001,78482,RVDG5A1K9B70GBSGT,4-Cylinder,CVT,Electric
+167,chevrolet,passat,2014,154947,YW8GLGGJ9RZ2YZZCU,4-Cylinder,CVT,Electric
+168,dodge,silverado 2500 hd crew cab,2005,22165,32T6H22Y5RNXVXB2N,3-Cylinder,Manual,Electric
+169,suzuki,s2000,2004,166997,5E7AW9YLXV0YGYME3,4-Cylinder,CVT,Hybrid
+170,mazda,mercedes-amg gls,2004,107118,S7K9Z9051MC32YX54,3-Cylinder,CVT,Electric
+171,mitsubishi,s4,2006,115683,9G6KN9WP83M778KKP,3-Cylinder,Automatic,Electric
+172,ram,es,2008,123440,SSD6THYU9YR0UDUCH,2-Cylinder,Automatic,Electric
+173,toyota,jetta sportwagen,2016,72606,LPJVMFAW59MEY07VL,3-Cylinder,Automatic,Hybrid
+174,mini,accord,2014,184181,AHN88RLL8KM1CKBAA,5-Cylinder,Automatic,Gasoline
+175,lexus,avalanche 2500,2013,110547,G74R6SWY6004808S7,4-Cylinder,Automatic,Gasoline
+176,oldsmobile,elantra,2010,118868,DKSBVHMBXSGBA6DNW,10-Cylinder+,CVT,Gasoline
+177,cadillac,vision,2014,93157,MUKW49NB3YEE59VU7,4-Cylinder,Automatic,Gasoline
+179,toyota,m5,2020,183236,KVB84WRT0LMEMY02X,10-Cylinder+,Automatic,Gasoline
+180,nissan,discovery series ii,2020,57339,62984LKC854EBPRPT,3-Cylinder,Manual,Gasoline
+181,chevrolet,tc,2007,142923,E1V1T0C599LHJVMTY,4-Cylinder,Manual,Hybrid
+182,mclaren,taurus,1998,24262,VMSMSH1DXWKSU9BXC,3-Cylinder,CVT,Diesel
+184,gmc,f350 super duty super cab,2019,31675,90DNP77R4Y9MDEVJ7,3-Cylinder,Manual,Gasoline
+185,volkswagen,s7,2020,67259,C9BHHLAV9M76S14CM,5-Cylinder,Automatic,Hybrid
+186,chevrolet,odyssey,1992,186112,U8M5XYKF6R4NMA6HW,2-Cylinder,CVT,Diesel
+187,toyota,sierra (classic) 2500 hd regular cab,2016,195703,0MW5RHWJ42S2W89KM,4-Cylinder,CVT,Diesel
+189,infiniti,metris worker cargo,2019,18469,PA66F8CX7C2RMGNGV,6-Cylinder,CVT,Gasoline
+190,lexus,veracruz,1994,89100,KVUEX1SM1DNJABHC8,4-Cylinder,CVT,Electric
+192,volkswagen,6 series,2002,75941,AA4VGD4Y6524CAYCJ,6-Cylinder,CVT,Gasoline
+193,infiniti,2500 extended cab,2015,150465,0P1MKEK14TN5MHN7K,6-Cylinder,Automatic,Hybrid
+194,ford,durango,1995,27605,31S1UEUW0J1BW5136,3-Cylinder,Manual,Electric
+195,lincoln,es,2002,194360,BE723SSJ4AR2LTCZN,6-Cylinder,Automatic,Gasoline
+196,ford,4runner,2000,97466,TYZ4CMWB6CD3C8JLM,8-Cylinder,Manual,Diesel
+197,bmw,2500 mega cab,2014,32321,BTH4R8YA6RETR9VP3,8-Cylinder,CVT,Diesel
+198,bmw,express 1500 passenger,2002,154943,DZSYE6805AK2L89BT,4-Cylinder,Automatic,Hybrid
+199,saab,legacy,1993,175179,93ZDVHT48FHCM7HYP,10-Cylinder+,Manual,Gasoline
+200,chevrolet,xterra,1998,194601,G7NJCMEF3CCR8GANS,2-Cylinder,CVT,Gasoline
+201,toyota,sorento,1998,128151,U8GCZK674ZUNB08JJ,3-Cylinder,Manual,Hybrid
+202,volkswagen,x3,1997,170932,FF5XCNUH0L79WNZ95,10-Cylinder+,Manual,Electric
+203,nissan,h1,2007,37437,XLKX0J3T25WB58SEJ,8-Cylinder,Automatic,Electric
+204,kia,xe,2011,6696,J24STPEF6A780JNYZ,3-Cylinder,Manual,Diesel
+205,porsche,camaro,2003,2650,BMB2M07Z1LF77XYJM,6-Cylinder,Automatic,Diesel
+206,isuzu,a8,2017,179908,3SGZMEMG35V937VHM,4-Cylinder,Manual,Gasoline
+207,subaru,sedona,2004,10794,MLFNPNRC12SKS28L2,5-Cylinder,Automatic,Gasoline
+208,toyota,yukon xl,2009,167870,94JCPF6E3ULJ25WHR,3-Cylinder,Automatic,Electric
+209,toyota,golf,2015,197031,1A1A46P48EEYGKPLY,6-Cylinder,CVT,Gasoline
+210,ford,galant,2012,27645,F9DE797386UWVS1LD,3-Cylinder,CVT,Hybrid
+211,volkswagen,accord,2006,100697,JS4WFSGKX8LGZHVV7,6-Cylinder,Manual,Hybrid
+212,chevrolet,b-series regular cab,2001,169870,5UM17M7C8122KW82Y,8-Cylinder,Automatic,Hybrid
+213,buick,e350 super duty cargo,2000,185814,ZKGCSVXK3M1J7M60R,5-Cylinder,Manual,Hybrid
+214,dodge,f350 super cab,2007,33875,HEBWWGX766B4GPMP4,5-Cylinder,CVT,Hybrid
+215,buick,q7,2000,91532,BJX3ZKLH9L5N2VBNJ,8-Cylinder,Manual,Electric
+216,hyundai,accent,1997,102114,1VAFNE843RVR3L21W,4-Cylinder,Automatic,Diesel
+217,mazda,tucson,2000,53547,W7S4G79491GUJ5MXM,4-Cylinder,Manual,Diesel
+218,honda,qx,2019,61349,4FV2RL3C48F2L0FYY,5-Cylinder,Automatic,Electric
+219,mercedes-benz,dbs,2004,14939,GB3PJMHE6S1479MA2,2-Cylinder,CVT,Diesel
+220,honda,charger,2007,160564,0690BTR28PJN2F1PP,4-Cylinder,Automatic,Hybrid
+221,nissan,town car,2008,92555,P5TCPG0D8B9Z8L7AN,4-Cylinder,Manual,Hybrid
+222,mercedes-benz,crown victoria,2018,165643,VBSTP7L05GBMV6PPH,10-Cylinder+,CVT,Hybrid
+223,plymouth,voyager,2001,152295,0TDCAWUF41P92VT74,5-Cylinder,Manual,Diesel
+224,chevrolet,ram 3500 club cab,2009,184579,U1ESYYUS1S4KBAL8Z,6-Cylinder,Manual,Diesel
+225,ford,sierra 3500 hd regular cab,2005,69696,RE9G2WLX8NZEK2Y9H,3-Cylinder,Manual,Gasoline
+226,bmw,cruze,2018,42692,JUE1ER9G9C9RXPX92,8-Cylinder,CVT,Electric
+227,lexus,expedition max,2008,171606,UNK0JYGS3FWCBYW3T,3-Cylinder,CVT,Hybrid
+228,land rover,yaris,2018,112130,U7KHA0DKX9ANDA479,4-Cylinder,CVT,Hybrid
+229,mini,tundra access cab,1993,57926,JB4HP7TGXMG742MUX,10-Cylinder+,Manual,Diesel
+230,audi,f150 supercrew cab,2005,159467,8UT6GN03219RP2PMS,6-Cylinder,CVT,Gasoline
+231,ford,convertible,2006,84653,7CDLS03613NDT8TDM,2-Cylinder,Automatic,Diesel
+232,chevrolet,express 2500 cargo,2006,66977,HFADRUCD61HTDZ7PM,4-Cylinder,CVT,Diesel
+233,lexus,caravan passenger,2018,49841,YD47GU7327LM8J7FK,10-Cylinder+,CVT,Gasoline
+234,honda,compass,2011,137498,7SX0LE9F7934WXFUF,3-Cylinder,CVT,Gasoline
+235,ford,3 series,2012,65870,MBJ7VVCX9GXCVADSN,5-Cylinder,Manual,Electric
+236,dodge,versa,1996,100839,A9Y8FNH11KVDSEJL2,4-Cylinder,Automatic,Electric
+237,dodge,montero sport,2005,186772,2244TKVM62R7TH3M3,2-Cylinder,Manual,Gasoline
+238,lamborghini,malibu,2007,144696,173DTH774B80FEXGS,3-Cylinder,Automatic,Electric
+239,chevrolet,c-class,1999,129840,5E9SW5FE680UYTGC3,6-Cylinder,CVT,Electric
+240,chevrolet,fiesta,2002,129389,0Y94KRXW6TME5KZFM,10-Cylinder+,CVT,Hybrid
+241,gmc,dakota quad cab,2015,22443,FZUHJRLL9D7KKC7FT,6-Cylinder,Automatic,Hybrid
+242,lexus,sportage,2016,40316,DTWFHPS56XV7A8HG1,5-Cylinder,Manual,Diesel
+243,toyota,f150 supercrew cab,2000,160630,2A4TUMUR33HX1630F,3-Cylinder,CVT,Hybrid
+244,gmc,insight,1993,197873,U9ZJYF5H70CF912VH,4-Cylinder,CVT,Gasoline
+245,pontiac,4c,2013,65464,RWA3A1SNX6L2WZEGR,2-Cylinder,Manual,Electric
+246,dodge,cx-9,2015,73137,YAD87DSL0HE4LH6B7,5-Cylinder,Automatic,Electric
+247,mercedes-benz,colorado regular cab,2001,28124,NGUB3BAU5CK44E2PG,5-Cylinder,CVT,Hybrid
+248,ford,range rover sport,1994,52739,HMP95V8790AMTDGNN,4-Cylinder,CVT,Gasoline
+249,chevrolet,f350 super duty crew cab,1996,158510,5T8TW57W80RBT3NUH,4-Cylinder,Automatic,Gasoline
+250,honda,2500 regular cab,2009,71446,VLC3EVZT293CJDG4Z,4-Cylinder,CVT,Hybrid
+251,cadillac,x6,2015,161184,R93CKDVJ713UU1A7P,5-Cylinder,Automatic,Hybrid
+252,chevrolet,acadia,2002,65214,SZN06LD37SRHMCZF3,10-Cylinder+,Manual,Diesel
+253,lexus,rio,2020,194490,DHABVE362ESSU20JK,8-Cylinder,Automatic,Diesel
+254,chevrolet,911,2001,13047,KYR8N6WP0E37NWCKJ,8-Cylinder,Automatic,Gasoline
+255,cadillac,e250 super duty cargo,2008,30997,5UCYDYSX1A01W5TLB,2-Cylinder,CVT,Hybrid
+256,oldsmobile,z4,2010,176916,WCYT4AGJ9JU1Y5XJW,8-Cylinder,CVT,Hybrid
+257,oldsmobile,tucson,2011,193952,X5KDTWNVX0XP5GD9J,8-Cylinder,Automatic,Diesel
+258,kia,s60,1996,80614,1WXHB1UN8KU433FU6,2-Cylinder,Manual,Electric
+259,infiniti,grand caravan passenger,2004,164760,D8H2BX4512G0VADFE,6-Cylinder,CVT,Gasoline
+260,mercury,cx-7,1992,44926,4VYM054464ESG1YG7,6-Cylinder,Automatic,Gasoline
+261,ram,sq5,1993,132343,PLCDZKFA9BN57JTUZ,4-Cylinder,CVT,Diesel
+262,hyundai,safari cargo,2019,34032,8PS8B4T22HLF2432E,10-Cylinder+,Manual,Gasoline
+263,toyota,ct,2013,133817,6JGW47UE3GH898PPH,4-Cylinder,Automatic,Gasoline
+264,gmc,altima,2012,130216,TJPH19YM3ED5UN5AB,8-Cylinder,CVT,Diesel
+265,buick,f150 supercrew cab,2010,192036,6JZR4NDW7CWZ7VCNL,4-Cylinder,CVT,Gasoline
+266,kia,nitro,2003,92658,U7LRUPF91PRRJCD5R,10-Cylinder+,Automatic,Diesel
+267,lexus,king cab,2016,161485,C4MR573P40ANWTMKJ,4-Cylinder,Manual,Diesel
+268,kia,vandura g1500,2005,128240,V9W9TNL8820NLD8JP,6-Cylinder,Automatic,Gasoline
+269,chevrolet,town car,2020,57690,VE2WX5F56DDCNP1KH,10-Cylinder+,CVT,Gasoline
+270,eagle,cc,1997,193297,M4NAT6U02WXL1P26W,5-Cylinder,CVT,Gasoline
+271,mercedes-benz,galant,2007,184608,F47R7T9X5KR13DABW,3-Cylinder,Manual,Diesel
+272,jaguar,sierra 3500 hd regular cab,2015,158415,1Z3ZXYRH3WM7A3VYX,4-Cylinder,Manual,Diesel
+273,chevrolet,grand caravan passenger,2007,76474,33LRYF2C0MC0JBU7G,5-Cylinder,Automatic,Gasoline
+274,dodge,mirage,2011,10036,PS0TY7GU6NPSNTG1D,5-Cylinder,Manual,Diesel
+275,toyota,mdx,2005,115656,6L1RTDUF8TL82DK5D,4-Cylinder,Automatic,Diesel
+276,toyota,h2,2005,176051,AFULJAFY319Y51KVH,3-Cylinder,CVT,Diesel
+277,subaru,sierra 1500 extended cab,2019,93417,MK9BLSJN2VXTBWDGT,8-Cylinder,Manual,Electric
+278,eagle,f250 regular cab,2018,191971,4MYM4LYPXV56JJUMW,2-Cylinder,Manual,Electric
+279,honda,armada,2019,128740,T3SN1N2X3ZUE4KZCD,8-Cylinder,Automatic,Electric
+280,rolls-royce,ioniq electric,2010,11786,84GLM4V02Z2TGXHEJ,3-Cylinder,Automatic,Diesel
+281,toyota,kizashi,2006,17444,YFFHNCL035RCDDRAY,8-Cylinder,Manual,Gasoline
+282,smart,f250 super duty super cab,2001,35612,7KD24N6V9JKYRHEP7,8-Cylinder,Manual,Electric
+283,hyundai,pathfinder,2000,37238,P80XRNH009506G3EZ,4-Cylinder,CVT,Electric
+284,volvo,titan crew cab,2013,170151,N7ZX2CT25TUF76MTK,8-Cylinder,Automatic,Electric
+285,jeep,sonata,2003,2525,WBJXP71M9NW0H45VB,10-Cylinder+,Manual,Hybrid
+286,kia,rx-8,1994,139286,Z0A5FZAW838NMUNE8,10-Cylinder+,Manual,Electric
+287,hyundai,x5 m,1993,32137,Z6WK2MX87K7P3BKBM,10-Cylinder+,Manual,Diesel
+288,isuzu,liberty,2013,815,RM1PMVDW0TLUUXCAX,2-Cylinder,Automatic,Gasoline
+289,toyota,sequoia,1996,192003,Y1A7AD889UC2ARA8T,10-Cylinder+,Manual,Diesel
+290,fiat,wrangler,2006,62227,W488C776961BGW0KJ,10-Cylinder+,CVT,Diesel
+291,kia,golf,2019,44261,LH9YAMCF89SXR4B2J,2-Cylinder,Automatic,Electric
+292,mercedes-benz,express 2500 passenger,2017,111981,30DK5C2V0RUXDH5NY,5-Cylinder,Manual,Gasoline
+293,gmc,ram 1500 club cab,2014,161202,38XVCVZ15GF3ELZH3,5-Cylinder,Manual,Diesel
+294,audi,colorado extended cab,2005,193466,FCL2746E3N7SHCBVV,5-Cylinder,Automatic,Gasoline
+295,scion,stinger,2019,130113,ZB8MB5GU1KD97FDKG,10-Cylinder+,Automatic,Gasoline
+296,subaru,5 series,2008,176067,0YG968CZ9FE9VCYY7,10-Cylinder+,Manual,Electric
+297,gmc,econoline e250 cargo,2010,133021,B1T99RPC1DNEY4TW3,6-Cylinder,Manual,Diesel
+298,toyota,land cruiser,2002,88511,LA2LY5SK8BE2X8DVJ,6-Cylinder,Manual,Hybrid
+299,toyota,3500 crew cab,2003,3875,1NH612W46064GK556,3-Cylinder,CVT,Gasoline
+300,mercedes-benz,regular cab,2008,144296,LMW2YSJ25FNNLATCS,2-Cylinder,Automatic,Hybrid
+301,volkswagen,3500 mega cab,1995,149552,DK01SGF2X3BV0EMKS,6-Cylinder,CVT,Gasoline
+302,chevrolet,sorento,2019,119516,ZXEHG3PKXGEKMJHRY,2-Cylinder,CVT,Gasoline
+303,toyota,encore,2002,90856,TCBDHPVVXTDVM7DXK,6-Cylinder,Automatic,Gasoline
+304,lexus,sonata hybrid,2019,71578,35EULZ768XJYW4KXP,6-Cylinder,Manual,Diesel
+305,ram,pt cruiser,1992,184210,E4VFFE3J88RMTN0RW,3-Cylinder,Manual,Diesel
+306,mitsubishi,tacoma regular cab,1995,135334,E3PWW8MG79K3CJGF6,5-Cylinder,Automatic,Electric
+307,cadillac,f250 super duty regular cab,2009,54780,LBKZ71DE0PBPMEKCZ,10-Cylinder+,Automatic,Electric
+308,toyota,loyale,2006,63608,GJRH64190E19JBAY3,8-Cylinder,Manual,Hybrid
+309,toyota,outlander,2014,40122,FN8DE00H3XKVJCMD9,5-Cylinder,Manual,Diesel
+310,mazda,murano,2018,148077,ZEURHDNK9W9URVTD4,4-Cylinder,CVT,Gasoline
+311,mazda,ranger super cab,2004,76333,X4TB21GB353HM2KS7,5-Cylinder,Manual,Hybrid
+312,volvo,e150 super duty cargo,1997,105816,DFAVRLV077JV89KFZ,4-Cylinder,CVT,Electric
+313,pontiac,200,2020,36899,M5PY18099GH9FANMZ,3-Cylinder,Automatic,Gasoline
+314,chevrolet,xts,2000,32990,ZCYPBSXYXDVRKE8WT,6-Cylinder,CVT,Hybrid
+315,chevrolet,gla,1998,174118,L670EYB48WBX92FBC,6-Cylinder,Automatic,Hybrid
+316,gmc,escalade,2017,143884,NXKMML6K3S5YLNU78,8-Cylinder,Automatic,Diesel
+317,ford,explorer sport trac,2013,138813,PF267KUR7JLX4FHMT,10-Cylinder+,Manual,Gasoline
+318,chrysler,corolla im,2014,151961,653L94KG0ELDD9VR0,2-Cylinder,Manual,Electric
+319,mercedes-benz,3500 crew cab,1994,158609,LMJUMC2U50L59E9XK,6-Cylinder,Automatic,Electric
+320,ford,a4,2009,81631,V0ZR6FWT7LE32HS0E,3-Cylinder,CVT,Electric
+321,lexus,q7,2001,188197,ZB04F71F7853CF0DM,5-Cylinder,CVT,Electric
+322,gmc,canyon regular cab,1994,138219,6P6LR8ZL9454JK3A7,4-Cylinder,Manual,Hybrid
+323,dodge,colorado crew cab,2005,49804,AWUCF68T5AYWB172X,3-Cylinder,Automatic,Hybrid
+324,nissan,s4,2020,196621,46ZG9GMU98S1JKTLY,8-Cylinder,Manual,Gasoline
+325,lexus,navigator,1993,100701,2Y983DGE48ECZJUJW,8-Cylinder,Manual,Electric
+326,chevrolet,e-class,2019,147219,DD1DPAKD63UTMD9J6,3-Cylinder,Automatic,Hybrid
+327,mercury,xc70,2019,94954,495884802RK2V7CZ1,10-Cylinder+,Automatic,Diesel
+328,mitsubishi,leaf,2012,165388,1VGJBZSL07A80X013,4-Cylinder,Automatic,Gasoline
+329,saab,s-class,2019,191606,GGVYEHUW6KVET7TSC,2-Cylinder,CVT,Hybrid
+330,volvo,suburban 2500,2010,71951,F2Z52TNC3DMU73YUK,4-Cylinder,Manual,Hybrid
+331,volkswagen,nubira,2017,150245,R0925B3L7PWUCS4NZ,5-Cylinder,CVT,Electric
+332,mercury,ranger super cab,2000,133404,SG8BJASG996KUKU1Y,3-Cylinder,CVT,Hybrid
+333,fiat,cts,2013,115473,C1ZK7TPR4PRDL147Z,8-Cylinder,CVT,Electric
+334,acura,odyssey,2003,71264,8TMEMMNP00LM6GMHJ,3-Cylinder,Manual,Electric
+335,chevrolet,lumina,2004,159826,E7EHV9J92H41FPM8V,8-Cylinder,Automatic,Hybrid
+336,jeep,prius prime,2007,7899,0YDEM67G1YWKTPB68,3-Cylinder,Manual,Hybrid
+337,ford,1500 crew cab,2009,53159,6JAXTFPH9HMBGD7JR,5-Cylinder,Manual,Electric
+338,volvo,f350 super duty super cab,2000,166559,75FAWCPHX391PVJKM,3-Cylinder,CVT,Gasoline
+339,hyundai,s90,1992,121979,JA2VV8UX963WUEH9X,5-Cylinder,Automatic,Hybrid
+340,pontiac,eldorado,2015,147958,TKYXVLK67875FUV5W,10-Cylinder+,CVT,Gasoline
+341,dodge,xj,2019,104357,B0TMAMAF1XSA7PAW7,8-Cylinder,Automatic,Hybrid
+342,dodge,concorde,2015,10901,38KKHBDS6X2HS8KPR,4-Cylinder,Manual,Gasoline
+343,land rover,s-series,2005,94639,VEJX2F2892MU0K377,10-Cylinder+,Manual,Electric
+344,hyundai,enclave,2012,188032,K9UGPGTT9KXUFBWJ9,2-Cylinder,CVT,Diesel
+345,mercedes-benz,rally wagon 2500,1998,11303,9GJH7L817C5L3HYU8,3-Cylinder,Manual,Diesel
+346,toyota,santa fe,2007,102930,ELB341C744Y6KCZNU,3-Cylinder,Automatic,Diesel
+347,ford,malibu,2002,175869,WRC4UY0T5ZZ5BALAT,10-Cylinder+,Manual,Electric
+348,aston martin,charger,2002,80241,TJDSTTZE9W61X3LML,5-Cylinder,CVT,Hybrid
+349,land rover,nv200,2014,32868,545JBHF647C3KUG6Z,6-Cylinder,Automatic,Gasoline
+350,mazda,mpv,2018,191315,9E6U9N5D4EX6EZWAW,6-Cylinder,Manual,Diesel
+351,chevrolet,escalade esv,1993,181190,98KYZ4SD3UW9R31ZF,6-Cylinder,CVT,Hybrid
+352,gmc,nv3500 hd passenger,2005,153585,2967EARP5D5TC0EXT,4-Cylinder,Manual,Diesel
+353,lexus,sorento,1993,45724,HKSPFFCT29SJDA3LM,8-Cylinder,CVT,Gasoline
+354,nissan,nv2500 hd cargo,2009,85967,JCY93ADP3WUE9BX02,6-Cylinder,Automatic,Electric
+355,chevrolet,sierra 1500 regular cab,1995,119663,94CRDX1S38GW4LX4Y,3-Cylinder,CVT,Diesel
+356,land rover,altima,1993,40060,NWL46C161THD8MFMX,6-Cylinder,Manual,Diesel
+357,volvo,rx,1996,8859,ES5YY2VC91CEKA6YS,5-Cylinder,Automatic,Gasoline
+358,volvo,gtc4lusso,2012,169974,457Y75DS7LH4ZXL7M,10-Cylinder+,Manual,Gasoline
+359,daewoo,h3,1999,136908,H43SN1XN9BFBZAHVW,3-Cylinder,Automatic,Hybrid
+360,porsche,vue,2015,124907,B8E96HVX1N10CNF32,4-Cylinder,Automatic,Gasoline
+361,ford,mercedes-amg e-class,1994,21605,VGN7RHLS3MRNLCKYC,2-Cylinder,Automatic,Hybrid
+362,volkswagen,town & country,2020,20968,NAXKRF202HBSKG2N7,6-Cylinder,Manual,Hybrid
+363,gmc,cherokee,2005,149493,LEZFG2ZA7LDGNFSNR,10-Cylinder+,Manual,Hybrid
+364,toyota,matrix,2004,134322,USJE7H6M1W0Y6GDA8,4-Cylinder,Manual,Gasoline
+365,dodge,s3,2015,83071,MZ10PX7F0REG41NHL,2-Cylinder,CVT,Gasoline
+366,gmc,legacy,2015,5033,RFWXJ9R29DEU56K5M,10-Cylinder+,CVT,Diesel
+367,audi,sierra 1500 extended cab,2018,108484,U88D7BCC8P6FHCZCH,10-Cylinder+,Automatic,Diesel
+368,porsche,mountaineer,2003,13692,XF5N1KBD52WNES9PZ,6-Cylinder,Automatic,Electric
+369,chevrolet,xc90,2017,107014,5DYPXTGBX1YG353NX,10-Cylinder+,Manual,Electric
+370,kia,ram van 2500,2005,158372,8C4PRGNM09M08N6HN,5-Cylinder,Automatic,Hybrid
+371,dodge,cls-class,1993,118918,0RZJGNA438CX6LEGV,3-Cylinder,Manual,Diesel
+372,nissan,convertible,2019,118942,WBY9XXPZX3DA5LRYS,6-Cylinder,CVT,Electric
+373,mazda,tahoe,2003,16801,3L0AGAAWX7NESL9V7,5-Cylinder,Manual,Hybrid
+374,toyota,elr,2015,6864,MVLRW79Y5XVBDB8N9,10-Cylinder+,CVT,Diesel
+375,lexus,f350 super duty crew cab,2013,105844,VEETXB3HXJZ72YHU3,8-Cylinder,Manual,Electric
+376,audi,escape,1999,145241,3XXMXUH3356ECDHLB,6-Cylinder,Manual,Diesel
+377,lexus,3500 crew cab,2017,13559,FZ62P1BK2SX40P8K0,5-Cylinder,CVT,Electric
+378,chevrolet,pt cruiser,2009,7286,YXLAFNLA4TRMLT0V6,8-Cylinder,CVT,Hybrid
+379,subaru,z4,2017,87454,RC2VEK110J14FZMPN,10-Cylinder+,Automatic,Hybrid
+380,buick,sonic,1998,8668,2945M5H07NF1UMUSR,5-Cylinder,CVT,Gasoline
+381,kia,sidekick,2008,9647,1VG8N5YM3SR71BTSN,2-Cylinder,Automatic,Diesel
+382,chevrolet,tundra regular cab,2005,41120,NBWJXLK73PBY3WUHP,3-Cylinder,Automatic,Hybrid
+383,saturn,traverse,2014,45774,F8DRKA2T5PWBTJCHN,8-Cylinder,CVT,Hybrid
+384,nissan,mazda5,2006,6251,RT8RD3DY8MZEFYXF8,3-Cylinder,Automatic,Hybrid
+385,suzuki,s4,2018,59356,L93ZRARW73GWPKRU5,5-Cylinder,Manual,Hybrid
+386,lamborghini,yukon xl 2500,2006,44568,F2TJVXRM9N9NKW0DK,2-Cylinder,Manual,Diesel
+387,hyundai,s-class,2011,42892,G8APZX3BXTCH1N1LM,2-Cylinder,CVT,Diesel
+388,chrysler,q,2004,148211,6R3RJF973NDCTAU2H,4-Cylinder,Automatic,Gasoline
+389,toyota,f250 super duty super cab,1993,3530,VJHP3T332C106CZST,8-Cylinder,Manual,Gasoline
+390,toyota,mr2,2020,180077,7FL6BBFY66UZEZMHZ,5-Cylinder,Manual,Gasoline
+391,jeep,focus st,2014,5114,1T6NJ44P4B7FN3MFE,4-Cylinder,Automatic,Gasoline
+392,infiniti,e350 super duty cargo,1996,969,47LYRSYM5N39V6M9T,4-Cylinder,Automatic,Electric
+393,volvo,f250 super duty crew cab,2016,150208,TBNWWFN19E5F6BTVF,10-Cylinder+,CVT,Hybrid
+394,dodge,qx80,2003,6931,71Y4204X39CU03DA2,3-Cylinder,Automatic,Diesel
+395,chevrolet,2500 hd regular cab,1992,179943,1CSX1WSH62VBYC5CW,2-Cylinder,Manual,Electric
+396,nissan,sequoia,2015,95427,8SBRUKBT7H8T6N1XJ,8-Cylinder,Manual,Electric
+397,gmc,genesis coupe,1995,104959,YNXZZF2P8EFKGUUHJ,3-Cylinder,Automatic,Diesel
+398,ferrari,veloster,2002,148402,9YDYY4X3327E5F0UK,10-Cylinder+,Automatic,Diesel
+399,mazda,envision,2001,114304,GWJH0GETXDF3Z9HPE,4-Cylinder,Automatic,Gasoline
+400,saturn,skylark,2003,58991,5YHD2NRT2VPUGHJMJ,2-Cylinder,CVT,Gasoline
+401,porsche,optima,1998,104086,P8RNYXP0XA2SF79CK,4-Cylinder,Manual,Hybrid
+402,oldsmobile,envision,2009,72319,EK40ENMC7X8YGCST3,5-Cylinder,Automatic,Electric
+403,hyundai,town car,1994,5695,5WDL20VZ2WTZ390EY,10-Cylinder+,Automatic,Gasoline
+404,dodge,canyon extended cab,2008,10565,521L5P3D6X5CKK2EY,8-Cylinder,Automatic,Diesel
+405,chrysler,gx,2016,140108,N44VLR3332B5FYZF4,3-Cylinder,Manual,Gasoline
+406,ford,continental,2003,7024,93AVFX7L3UVFF5HRX,5-Cylinder,CVT,Diesel
+407,chrysler,350z,2001,27477,JJG1DEEW716SL5Y1P,5-Cylinder,CVT,Electric
+408,gmc,discovery series ii,2014,44461,4HHCBGGZX67TR5NGG,5-Cylinder,Manual,Electric
+409,chevrolet,ram 3500 regular cab,2002,41683,TTTG70T22LBSK3L12,2-Cylinder,Automatic,Hybrid
+410,jeep,astro cargo,2016,96543,C5D3DBNH7T7Y0U1NB,6-Cylinder,Manual,Hybrid
+411,gmc,rs 7,2005,123909,11HDBSXY4CEPXPUJU,4-Cylinder,Manual,Electric
+412,buick,niro,2012,67536,741HRSC40R2LYFPM4,8-Cylinder,Automatic,Diesel
+413,lexus,tercel,2006,77605,VTYHJ62G167FLEAYT,10-Cylinder+,Automatic,Hybrid
+414,bmw,flying spur,2008,144555,46087RYR3BLY2CKMF,3-Cylinder,Manual,Hybrid
+415,porsche,3500 crew cab,2002,70534,H7RN6GPD2UN61X2F5,10-Cylinder+,CVT,Hybrid
+416,subaru,s6,2005,35169,8GU4G7RD3PD0W5R8Z,3-Cylinder,CVT,Gasoline
+417,lamborghini,370z,2004,43452,VDBLA1KU4T3C5YBEW,10-Cylinder+,CVT,Electric
+418,mitsubishi,frontier king cab,1992,104437,1S8GDRC6278SDK18P,10-Cylinder+,CVT,Diesel
+419,isuzu,transit 350 van,2017,111523,2R39795V9PDAH6TLJ,8-Cylinder,Manual,Gasoline
+420,mercedes-benz,s10 regular cab,2015,44363,FCST05FEXJUJT44SS,4-Cylinder,Automatic,Electric
+421,jaguar,tsx,2013,59834,7182J32R40Y764TDF,3-Cylinder,Automatic,Gasoline
+422,lexus,2500 club coupe,2015,129248,7DDVPMN16URRXTL01,3-Cylinder,Automatic,Electric
+423,bmw,sl-class,2006,179356,S9YH3TLC22TLB8FLS,8-Cylinder,Manual,Hybrid
+424,audi,q,2009,41502,BCFR7RFK31BKPLZMT,8-Cylinder,Manual,Diesel
+425,chevrolet,jetta,2006,139757,N6FPPC3L2Z7PG26H9,5-Cylinder,Manual,Hybrid
+426,chevrolet,highlander,1993,80017,55985F497M759BN9G,6-Cylinder,Manual,Hybrid
+427,ford,xc90,2005,102305,F1JDNCRY0LG10GEKK,3-Cylinder,Automatic,Hybrid
+428,chevrolet,continental,2007,107505,067YM6EJ8A3H126KG,8-Cylinder,Manual,Electric
+429,honda,city express,2014,38704,T98TVNKX77VU8U7KV,4-Cylinder,Automatic,Electric
+430,jeep,swift,1995,28000,9TC9A6EC4PKJWYZ3M,4-Cylinder,Manual,Electric
+431,scion,e-class,2016,69908,Y2JU2C6F2JZE2T6E6,4-Cylinder,CVT,Gasoline
+432,dodge,land cruiser,2017,9442,RR8V61HA8NYFDJNC0,3-Cylinder,CVT,Electric
+433,nissan,outback,2004,189389,DYB0LH108G5VZFUFV,8-Cylinder,CVT,Gasoline
+434,mercedes-benz,m5,2016,177202,P7UH5YNC06B52U8ML,2-Cylinder,CVT,Diesel
+435,volvo,m,1992,182630,MK89MTB023MKCFJV1,6-Cylinder,Manual,Gasoline
+436,chevrolet,regal,2010,41693,1DBT29VS7VZWLVX6H,2-Cylinder,Manual,Diesel
+437,mercedes-benz,sixty special,2017,133167,66N6RSTC5MY3LZ9KJ,6-Cylinder,CVT,Gasoline
+438,chevrolet,i-pace,2013,135565,94AHLSGS8ECMXLB2H,3-Cylinder,Manual,Diesel
+439,isuzu,x6,2000,185632,ZS8TWVTT861DK1E9B,5-Cylinder,Automatic,Diesel
+440,ford,mazda5,2019,153993,U3B239HH2HTC562KD,6-Cylinder,CVT,Gasoline
+441,mercedes-benz,i,2013,115595,L5LE5VXXXVWF7434U,6-Cylinder,Manual,Electric
+442,porsche,compass,2004,22752,D2L1UDY667HT9JC2B,5-Cylinder,CVT,Diesel
+443,ford,phantom,2010,132853,P40SWS7R5K4HE0RBL,10-Cylinder+,Automatic,Gasoline
+444,chevrolet,q3,1998,162530,PST2F5PA0Y77XPX2A,10-Cylinder+,CVT,Diesel
+445,ford,grand vitara,1996,128523,VDY9UKZ41WACY59R7,3-Cylinder,Manual,Electric
+446,audi,echo,1998,69548,KK85VURC99N52GEL6,10-Cylinder+,Automatic,Diesel
+447,nissan,azure t,1994,95504,ZT4J15U58R358C5T3,5-Cylinder,Manual,Electric
+448,porsche,f350 super duty super cab,2014,119779,1YKPX4G16JJFBKE7C,8-Cylinder,Automatic,Electric
+449,cadillac,3 series,1998,103086,T81Z9A7B0RCVXCE5K,3-Cylinder,CVT,Gasoline
+450,volkswagen,rx,1993,24180,UHJHXSGM4R57X59MP,2-Cylinder,Manual,Hybrid
+451,mercury,achieva,2010,29064,SBKZK4K05XCU3DJH5,8-Cylinder,CVT,Electric
+452,cadillac,v60,2004,24680,AH6L4ABU4MM150PNU,2-Cylinder,Manual,Gasoline
+453,smart,c-class,2015,153746,NM0W7V9V6RXKYDUL2,5-Cylinder,Manual,Diesel
+454,infiniti,granturismo,2020,8667,JLD8C9T34YMHMX712,4-Cylinder,CVT,Hybrid
+455,dodge,jimmy,1997,187201,TERE57H29SJPSBPR8,10-Cylinder+,CVT,Electric
+456,land rover,venture cargo,1993,91037,MGM7BVFC47VA1BN4K,3-Cylinder,Automatic,Gasoline
+457,dodge,srx,2020,63357,LX6L23L807TXRNH3F,8-Cylinder,Manual,Diesel
+458,toyota,3000gt,2007,71947,1Y1Z215B5PWY7SAWB,10-Cylinder+,Manual,Electric
+459,suzuki,rx,1997,93025,A5W2WR648W680VA38,2-Cylinder,Manual,Hybrid
+460,geo,colorado regular cab,2017,20316,M8PTY74C48BW1YT92,8-Cylinder,Automatic,Electric
+461,honda,premier,2001,59311,88ZEF28693LCP8L9L,3-Cylinder,CVT,Gasoline
+462,gmc,express 1500 cargo,2014,60720,Y79LX0ZB6YN93AHNM,3-Cylinder,Manual,Electric
+463,mitsubishi,cx-9,1998,173016,JL2XJ0GC92YKX17PF,10-Cylinder+,CVT,Diesel
+464,toyota,veracruz,2003,160541,RCR7BG7J9A9WTRTE6,8-Cylinder,Automatic,Electric
+465,infiniti,q7,2002,93076,LKYTTNSX9SF38JL4L,4-Cylinder,Manual,Electric
+466,suzuki,park avenue,2010,172014,5937SF1J4EK7RTH51,3-Cylinder,Manual,Gasoline
+467,nissan,tundra access cab,2001,72721,5ZH0EDFJ456EW52Y9,10-Cylinder+,Manual,Electric
+468,toyota,silverado 2500 regular cab,2008,27600,RMW91CUD65H8KWRCR,3-Cylinder,Automatic,Electric
+469,lexus,rav4,2015,116912,45LMKA922F6J3EBUT,10-Cylinder+,CVT,Hybrid
+470,kia,stratus,2010,194857,8X5RX47AXXTGDTKA6,2-Cylinder,Manual,Gasoline
+471,audi,a8,1997,59951,JA9R0E8R50CAYP72R,2-Cylinder,Manual,Hybrid
+472,mercedes-benz,ram 3500 regular cab,2003,121849,GLZ6DN5N53FZS65Z5,6-Cylinder,Manual,Gasoline
+473,mitsubishi,sierra 1500 extended cab,1993,162028,R2ZST7ND6YB35C9HV,3-Cylinder,Automatic,Electric
+474,nissan,corvette,1996,81580,X8HHT5ZRXP770JEVC,3-Cylinder,Manual,Diesel
+475,bmw,town & country,2007,135769,CCHUGFGX19YF2M5XS,3-Cylinder,Manual,Gasoline
+476,buick,touareg,1998,83137,3VEEES1F9XDZZRNY6,2-Cylinder,Manual,Diesel
+477,porsche,jetta,2001,12747,8CZW9K848M3H95ZLR,6-Cylinder,Manual,Hybrid
+478,geo,sq5,2002,24504,57XND27Z7RCMUWMHS,8-Cylinder,Manual,Gasoline
+479,maserati,i-miev,2006,46811,UGCC90PY6NWGK4VLN,6-Cylinder,Automatic,Hybrid
+480,porsche,nv3500 hd cargo,2004,7408,29D5NUAC36RLGNBR1,6-Cylinder,CVT,Diesel
+481,dodge,escalade,2020,100315,73X2EZEW6MNUNLE5H,4-Cylinder,CVT,Diesel
+482,acura,elantra,2015,30537,1DMJW9A80ZZ60RTS3,5-Cylinder,CVT,Hybrid
+483,mini,lx,1999,51827,R7BDNS9J0PTUGM2T3,4-Cylinder,CVT,Electric
+484,cadillac,impala,2002,17505,TF98FS9G8XCHKDEZP,8-Cylinder,Automatic,Gasoline
+485,chevrolet,navigator l,2010,59493,KKYJSTN8819N76DHU,6-Cylinder,Manual,Gasoline
+486,volkswagen,s10 crew cab,1998,96,T1P6WJCM2WSY1GP8X,4-Cylinder,CVT,Hybrid
+487,bmw,express 2500 cargo,2003,10799,CE5CMG1E6XTUM9Y95,8-Cylinder,CVT,Hybrid
+488,toyota,mx-5 miata rf,1992,90981,CNLJ6T6ZXTEGA9FB7,3-Cylinder,Manual,Hybrid
+489,gmc,rsx,1999,167968,37TJL75S25A2XEBUU,4-Cylinder,CVT,Electric
+490,mercedes-benz,cabrio,2017,65986,UY69J58V2VJWLFGAX,10-Cylinder+,Automatic,Electric
+491,gmc,sierra 1500 regular cab,2008,6325,7AE2YXPN6ZWLHE3M6,10-Cylinder+,Automatic,Electric
+492,acura,armada,2003,54287,L9UW69X045UHW4MZT,2-Cylinder,CVT,Hybrid
+493,eagle,hhr,2012,110407,H19G0JVV2YK1Y89B8,2-Cylinder,Automatic,Electric
+494,ford,svx,2015,146695,3CRC5ZDJ7ZDS068UF,10-Cylinder+,Manual,Gasoline
+495,hyundai,ram 2500 quad cab,2015,133430,7WYNT43CXZ830PMC2,8-Cylinder,Automatic,Hybrid
+496,mazda,v70,2013,119249,070N82161HHUXL0P7,6-Cylinder,CVT,Diesel
+497,subaru,avalanche 2500,2015,109108,DB9J00J48CDBRGKE3,3-Cylinder,Automatic,Diesel
+498,dodge,celica,2017,148106,R2W6U83P9TF87W90U,5-Cylinder,CVT,Hybrid
+499,dodge,4runner,2010,118961,4MSMCNNT2XDWPSSC0,5-Cylinder,Automatic,Diesel
+500,volvo,57,1998,107552,CK14UW7M23JDCE6H2,10-Cylinder+,Automatic,Gasoline
+501,honda,range rover,2020,144825,9KS7UEW32BKBGF2PV,2-Cylinder,Automatic,Gasoline
+502,ford,sephia,2011,112587,M7ZPYRRG3HRC1Y9SH,10-Cylinder+,CVT,Hybrid
+503,lincoln,trailblazer,1998,124543,H9RZ54PX4JE7VA0AN,8-Cylinder,Manual,Gasoline
+504,volkswagen,continental,2000,74323,YXC5BET06Y2SAD5S4,6-Cylinder,CVT,Gasoline
+505,bmw,8 series,2014,136938,AZXKJX8262CN4BV5L,4-Cylinder,CVT,Hybrid
+506,nissan,m6,2007,135739,MHPVDU3M2PT7C9XVK,10-Cylinder+,CVT,Hybrid
+507,chevrolet,clubman,2014,89865,B3EJM6W92UZ6C5ZB5,4-Cylinder,Manual,Diesel
+508,toyota,b9 tribeca,2014,122840,Z6L81A01X90BJBD3B,4-Cylinder,Manual,Electric
+509,jeep,escalade,2002,130049,ZBLJ0SW82BGAPVKF3,5-Cylinder,Manual,Gasoline
+510,ford,equinox,2003,12355,KCZ6FNEB0G6MA6755,6-Cylinder,Automatic,Electric
+511,bmw,ram 2500 club cab,2012,189773,FP76ZMMU1REW3552V,10-Cylinder+,CVT,Hybrid
+512,kia,corolla,1995,142285,8J850CE31Y8CCWF0D,8-Cylinder,Automatic,Diesel
+513,saab,v40,2014,166079,BD6FAW8K0WN0BAGGJ,6-Cylinder,Manual,Diesel
+514,honda,imperial,2011,156778,0B24VAY938MPUC6HC,3-Cylinder,CVT,Electric
+515,ford,versa,2010,127862,5WWJ3SN20HEC6F0RV,2-Cylinder,Automatic,Electric
+516,buick,f150 regular cab,2012,134,KGYUYBEX447LA8U5X,3-Cylinder,Manual,Diesel
+517,cadillac,dawn,2015,63661,4EZB6TBA6MHNUEJBU,2-Cylinder,CVT,Diesel
+519,toyota,yukon,2008,179050,32XSSETP60TKPP5PA,8-Cylinder,Automatic,Hybrid
+520,acura,civic,2012,42784,ER37D0RA5D8YFCSB1,5-Cylinder,CVT,Gasoline
+521,mitsubishi,g,2004,188089,27XBW2BG4XZHDNTZ5,2-Cylinder,CVT,Gasoline
+522,chrysler,aviator,2000,173862,UPE45VRX7ZKKB930A,4-Cylinder,Automatic,Hybrid
+523,bmw,montana,2017,38426,SUA3AU5M2XMA01YBF,10-Cylinder+,Automatic,Hybrid
+524,lincoln,dawn,2014,103299,CYZJC5DG9D91G7XUL,6-Cylinder,CVT,Diesel
+525,land rover,rally wagon 2500,2011,96436,2ZGH7KS17S6AFE0LR,3-Cylinder,Manual,Electric
+526,ford,f450 super duty crew cab,2002,54348,LNFJJPA225SVEFM80,4-Cylinder,Automatic,Hybrid
+527,nissan,galant,1992,107845,ESFFY3U48MZ4P7H11,4-Cylinder,Manual,Electric
+528,ford,express 2500 passenger,2020,175312,D4PSR78U66E0RD2H5,6-Cylinder,Automatic,Hybrid
+529,nissan,98,1997,80905,HA35RF5D9RV22RGD5,6-Cylinder,Automatic,Hybrid
+530,buick,ls,1994,17313,7WULDRM30U1UZZ141,3-Cylinder,Manual,Diesel
+531,hyundai,2500 club coupe,2019,53465,2K8EUFKP3YSP125HJ,5-Cylinder,CVT,Diesel
+532,chevrolet,lesabre,2007,21944,VTSKG2GP2BMMWNVUB,10-Cylinder+,CVT,Electric
+533,gmc,elantra,2019,154113,NJBCXBT291XAFFVXS,3-Cylinder,CVT,Electric
+534,jaguar,savana 2500 cargo,2014,122094,52PGZMAU2MF6V27P3,4-Cylinder,Manual,Gasoline
+535,gmc,mercedes-amg sl,2000,72995,A6TU8URB0S5ULT0LE,5-Cylinder,CVT,Electric
+536,land rover,monte carlo,2003,195553,C7CL1YRT2SZYU9VLH,3-Cylinder,CVT,Diesel
+537,dodge,lesabre,2011,154725,B5RBXBDKXR0A4AC85,4-Cylinder,Manual,Electric
+538,mazda,camry,2018,40576,BZ6VDUSR29R7BEYUR,2-Cylinder,Manual,Diesel
+539,volvo,paseo,1993,127150,TXB8ZGVU7K9JSR2J3,6-Cylinder,CVT,Hybrid
+540,toyota,sportage,1998,113953,E4W6P3AE9FULG3FK5,10-Cylinder+,Automatic,Hybrid
+541,cadillac,explorer sport trac,2019,30565,BSL5GKL65L2JWW7VX,2-Cylinder,Automatic,Diesel
+542,volkswagen,quattroporte,2014,8158,TB81FST12NZR0X4DR,6-Cylinder,Manual,Diesel
+543,audi,frontier crew cab,2010,8333,UX3WY62N3AMMWP9ST,3-Cylinder,Automatic,Electric
+544,audi,cl-class,2003,30259,L4ZXV0701S8NE1P27,6-Cylinder,CVT,Hybrid
+545,dodge,land cruiser,2004,161527,ZN3UHPU737ANNT8U8,6-Cylinder,CVT,Gasoline
+546,chevrolet,sonoma regular cab,1994,15625,KAR0TEJB38KZ3SU8E,3-Cylinder,Manual,Gasoline
+547,audi,cutlass supreme,1993,3657,0FYMVJVJXV216YHJU,6-Cylinder,Automatic,Hybrid
+548,smart,hombre spacecab,2019,167026,FESJUNM44VVBLFGLS,8-Cylinder,Manual,Hybrid
+549,gmc,mariner,2015,90188,GXXMT7226KED0B7YM,5-Cylinder,CVT,Hybrid
+551,audi,x3,1992,27312,K09C0CS147HXTJFA0,8-Cylinder,CVT,Gasoline
+552,chrysler,f150 super cab,2015,127211,PPKG51L8734D9ES6H,6-Cylinder,CVT,Diesel
+553,porsche,impala,2011,91048,T3ZDAX108MMUMWLMZ,2-Cylinder,CVT,Diesel
+554,cadillac,rodeo,2011,46449,FRA9S34S5GWF4TTV4,5-Cylinder,Automatic,Electric
+555,buick,rl,2012,159588,T2YE96553N536BK0X,3-Cylinder,Automatic,Diesel
+556,chevrolet,odyssey,2014,70562,LP5GZY8818SFKBHXU,3-Cylinder,CVT,Electric
+557,jaguar,sunbird,2012,56640,VR10PH7E12GBKBCNJ,2-Cylinder,Automatic,Electric
+558,mitsubishi,b9 tribeca,2015,72566,Z4161E927NA18P89M,8-Cylinder,Automatic,Gasoline
+559,mazda,pacifica,2017,173090,2KYX43UP8TB6CDYB8,2-Cylinder,Manual,Diesel
+560,jaguar,navigator l,2006,9203,20CGKEXL8J05R1YE4,2-Cylinder,CVT,Electric
+561,mercedes-benz,rdx,2008,30057,6YZMWPLD732DMLEWM,4-Cylinder,Automatic,Diesel
+562,bmw,silverado 1500 regular cab,2012,134403,0MDRNUPP1M113RZRZ,8-Cylinder,CVT,Diesel
+563,dodge,savana 2500 cargo,2000,23306,FFJD81XW5GSGTUUN6,10-Cylinder+,CVT,Gasoline
+564,toyota,regal,1995,107262,GG6UWNJU6F5X6KYAA,4-Cylinder,Manual,Hybrid
+565,chevrolet,forte5,1999,84968,KCES0E818566BYG39,5-Cylinder,Automatic,Gasoline
+566,hyundai,cobalt,2010,164711,KGXC68R78H0CTFD7W,6-Cylinder,Automatic,Diesel
+567,chevrolet,rx-8,2019,6004,5ST6P5S20A962RYTL,6-Cylinder,Automatic,Diesel
+568,lexus,corolla,2017,173332,6RXMR8KP02A82GL8F,2-Cylinder,CVT,Electric
+569,scion,a4,1994,171308,XYE1FJME0MS8CAT5T,5-Cylinder,Automatic,Diesel
+570,mercury,transit 250 van,2010,181486,1B8ZWLVG92ETMJGWF,5-Cylinder,Manual,Hybrid
+571,toyota,forester,2009,156539,RMC7EW037EFTDT51T,5-Cylinder,Manual,Diesel
+572,maserati,xg350,2001,73629,U0BB674Z8HC4J3H2J,8-Cylinder,Automatic,Hybrid
+573,subaru,fortwo,2009,81985,UG1JEWAW13RY8HM3X,4-Cylinder,CVT,Gasoline
+574,toyota,intrepid,2000,185667,B8DWC9KZ2T4BHY3YU,6-Cylinder,Manual,Gasoline
+575,chevrolet,f150 super cab,2004,44442,GFPZZBRBXVMPPPPL0,6-Cylinder,CVT,Gasoline
+576,chrysler,clarity electric,2010,185128,1S2VEZUR8JSFLW2WK,2-Cylinder,Automatic,Electric
+577,gmc,durango,2019,62518,SLH2S8SN51VM6Z1H6,8-Cylinder,CVT,Electric
+578,kia,exige s,2016,47872,2EEPV4146GRTSDK2E,3-Cylinder,Manual,Hybrid
+579,honda,tahoe,2019,197628,XDSM7D449VE7MA0YG,10-Cylinder+,CVT,Hybrid
+580,dodge,2500 regular cab,2002,32652,18FWUWV3XR8V5LT9B,3-Cylinder,CVT,Hybrid
+581,kia,avalon,1997,73843,UD7TKTD26F72NWCL1,4-Cylinder,Automatic,Diesel
+582,subaru,escort,2001,123396,J4DH4JG566RTYPH7A,6-Cylinder,Manual,Gasoline
+583,nissan,tl,1995,93664,ASFUAT081VNKA14ST,10-Cylinder+,Manual,Hybrid
+584,ram,q5,2014,58014,VN8MRCCPX1PNZCFN0,8-Cylinder,CVT,Electric
+585,dodge,express 3500 cargo,2012,144619,6SYCSYTH43BT8TEBS,4-Cylinder,Manual,Gasoline
+586,bentley,626,2019,47513,AYN5LE3JX3UGP5L63,6-Cylinder,Manual,Gasoline
+587,chrysler,allroad,2014,63792,SVDP2ZSZ6VZRC3F4J,4-Cylinder,CVT,Electric
+588,mazda,cr-v,1992,178574,WMTR8TWJ4XD1HSDU5,4-Cylinder,Manual,Electric
+589,chevrolet,sequoia,1995,78482,1SVE1AFDXYJZXF7CZ,8-Cylinder,CVT,Diesel
+590,fiat,accord,2012,16348,PDZWPK965KGJS8XWU,4-Cylinder,CVT,Gasoline
+591,mitsubishi,captiva sport,2003,132521,SG8G3H758EV9RCPWG,4-Cylinder,Automatic,Electric
+592,gmc,458 italia,2003,139779,AJ02HR935RS2CMNRR,10-Cylinder+,Manual,Hybrid
+593,honda,cr-v,2016,33232,EYLKLB113GA38RBAY,2-Cylinder,CVT,Hybrid
+594,mitsubishi,t100 xtracab,2020,21428,CH9ND9E49ER4GVXLP,10-Cylinder+,CVT,Electric
+595,porsche,endeavor,2003,118065,X7K7G384445WLXMXJ,5-Cylinder,CVT,Hybrid
+596,chevrolet,bravada,2005,173496,2TS49XDJ6GCXNNYTB,6-Cylinder,CVT,Gasoline
+598,mini,mx-5 miata,2011,11887,1EGSD5N189VL164HR,5-Cylinder,Manual,Electric
+599,jeep,range rover,2017,181697,081TMDHP4ZLVZB4WK,3-Cylinder,Manual,Diesel
+600,jeep,v50,2000,186158,XLX3MYNG3KVL769GX,4-Cylinder,Automatic,Gasoline
+601,mercedes-benz,savana 2500 passenger,2008,3536,BCMBDGRC96GW3LB0W,8-Cylinder,Automatic,Diesel
+602,ferrari,mazda6,2005,96213,T2BAG82H8R213BEC4,8-Cylinder,Manual,Electric
+603,chevrolet,previa,2009,35027,T2Z8NFAF855VP3PAU,8-Cylinder,CVT,Diesel
+604,ford,c-class,2012,159531,CCXKZY2Y0RJTCJ6RK,2-Cylinder,CVT,Gasoline
+605,acura,park avenue,1998,79015,72702JB41EZ0W4PKW,3-Cylinder,CVT,Hybrid
+606,dodge,tundra crewmax,1998,77568,RLX5F5W36CG7SNSJP,2-Cylinder,CVT,Gasoline
+607,mercedes-benz,tiburon,2003,103772,6EY1TDEHXN3L82NAZ,3-Cylinder,Manual,Hybrid
+608,lincoln,prowler,1997,78093,3FFY8WHL7GF3WMTWA,5-Cylinder,CVT,Gasoline
+609,plymouth,f250 super duty regular cab,2012,113068,FMMPTM5K59PFY9H60,10-Cylinder+,Manual,Gasoline
+610,honda,convertible,1996,43885,H31W54N32TH2XE61C,4-Cylinder,Manual,Diesel
+612,porsche,ram 2500 club cab,1998,89578,3APT88TPXWL7N3WPJ,8-Cylinder,CVT,Diesel
+613,gmc,sienna,2007,119592,J8T7Z6B77CBFTKK1W,2-Cylinder,Automatic,Electric
+614,gmc,q60,2012,67368,W269ZPTH9AZ4LLK0J,10-Cylinder+,Automatic,Hybrid
+615,ford,x6 m,2019,52758,AEY2VAGS52ZT5AS68,10-Cylinder+,Automatic,Electric
+616,gmc,f430,2020,56775,G0HYBSCJ1SZC25WPD,5-Cylinder,Manual,Gasoline
+617,volkswagen,insight,2004,159749,6PCZDPWE4Y5CPPRVF,6-Cylinder,Automatic,Gasoline
+618,rolls-royce,kicks,2019,5413,RUKNVZEH8PPD6N95G,3-Cylinder,Automatic,Gasoline
+619,chevrolet,quattroporte,2010,103035,TNTBAH2F4ZX1S6FER,8-Cylinder,CVT,Electric
+620,plymouth,concorde,2005,23019,FAN00MAR3NNLSAVR9,8-Cylinder,CVT,Electric
+621,oldsmobile,esteem,2016,183367,MB43VGF861XYEF9CJ,8-Cylinder,CVT,Gasoline
+622,hyundai,fusion energi,2020,155680,R4WTF6NL9FCW674AL,6-Cylinder,Manual,Electric
+623,porsche,1 series,2005,193558,W05KHV097MJRZXLVV,10-Cylinder+,Automatic,Electric
+624,bentley,ram van 2500,2012,83694,T7T92CD07FWZPBETR,4-Cylinder,Automatic,Electric
+625,toyota,sls-class,1997,172515,7CPGR1D48XMKN0UHT,6-Cylinder,Automatic,Diesel
+626,gmc,lhs,2002,153826,T4WEKK9DX8SC5UHEK,6-Cylinder,CVT,Electric
+627,volkswagen,civic,2018,114330,B2XZU6VAXZ0UT11JM,4-Cylinder,CVT,Hybrid
+628,mercedes-benz,outlander sport,1997,22339,6FGNGAAEX0JYTV04P,10-Cylinder+,Automatic,Hybrid
+629,chevrolet,cooper,2006,165921,7D20K4F1284A1YB9J,4-Cylinder,Automatic,Hybrid
+630,chevrolet,3500 regular cab,2005,36221,Z7N3M62M7JGXBBZGV,8-Cylinder,Automatic,Gasoline
+631,acura,escalade esv,1997,126156,WNJ9KM6K7NMR4AAR3,4-Cylinder,Automatic,Electric
+632,mazda,tacoma double cab,2017,120234,MDUGDAWF2LT41ETXF,4-Cylinder,CVT,Diesel
+633,porsche,nx,1996,67880,MGKRK08U52SKZ75FA,4-Cylinder,CVT,Hybrid
+634,isuzu,stratus,2000,110435,1UW8AW3E7FZAYP6HB,5-Cylinder,CVT,Gasoline
+635,nissan,express 3500 passenger,2015,179900,8V0PZLR859NXFTV33,3-Cylinder,CVT,Electric
+636,mitsubishi,passat,2016,48765,AZTAS5HE50DWBYE3D,8-Cylinder,Automatic,Hybrid
+637,oldsmobile,s4,2016,179457,34PCVD8NXJCFA7TNW,4-Cylinder,Manual,Diesel
+638,gmc,spectra,2008,29003,415UPW4T2JSACV379,8-Cylinder,CVT,Hybrid
+639,saturn,savana 2500 cargo,1994,19590,YNVK5ERR2MHS9TWSJ,3-Cylinder,CVT,Hybrid
+640,lincoln,s5,2019,36305,C3A2NR0DXSC177C84,5-Cylinder,Manual,Diesel
+641,chevrolet,insight,2003,126178,99ENXVNV9P9JFPZ1X,3-Cylinder,Automatic,Electric
+642,kia,5-sep,2015,22302,7357JMN68T7AYHDP8,10-Cylinder+,CVT,Electric
+643,lexus,300 sd,2011,12768,38VYAT6H8J2AMMHYC,6-Cylinder,Manual,Diesel
+644,cadillac,bravada,2019,12364,Y55HFXNF06LX9MCY9,4-Cylinder,Automatic,Gasoline
+645,cadillac,s-class,1993,191664,DRW0XG120D0FLECVJ,5-Cylinder,CVT,Electric
+646,chevrolet,sierra 2500 extended cab,2002,143221,FKFR6A5R1M6129RJT,10-Cylinder+,Automatic,Electric
+647,lexus,xj,1994,38117,76A8NFKN9C3RAJWAT,8-Cylinder,Manual,Gasoline
+648,mazda,sprinter 2500 cargo,2011,154285,J99AR3TK17SL2JB3Z,2-Cylinder,CVT,Hybrid
+649,chevrolet,2500 crew cab,1992,123103,JYX26ZJ41HYVAF1Y4,10-Cylinder+,Manual,Electric
+650,mercedes-benz,911,2009,55478,087BT94TXTFAPB649,6-Cylinder,Automatic,Hybrid
+651,dodge,kicks,2018,137224,EBGC11U78MDD42J8L,6-Cylinder,Manual,Gasoline
+652,cadillac,taycan,2008,40502,CLZFGHLWX1JPNF4T4,3-Cylinder,Manual,Electric
+653,volkswagen,vision,2015,30019,1K58FY442RCLTYR8V,3-Cylinder,CVT,Gasoline
+654,mercedes-benz,sedona,2006,38105,2H2Y7N7934D3B5XSW,10-Cylinder+,Automatic,Hybrid
+655,lotus,wrangler,2018,22580,ZDDVVD1132FR293BJ,8-Cylinder,Manual,Diesel
+656,mitsubishi,tacoma regular cab,2009,118243,4XMWFZML4HP072V4M,8-Cylinder,Automatic,Diesel
+657,mercedes-benz,new beetle,1998,140431,9B78NJ9H5G3NRWL0B,8-Cylinder,CVT,Diesel
+658,gmc,sprinter 2500 cargo,2017,82713,UCF69XZH46B20KYFB,10-Cylinder+,CVT,Hybrid
+659,chevrolet,durango,2002,142136,4FUY217E342PD4X4F,4-Cylinder,CVT,Diesel
+660,lexus,eldorado,2001,135961,MKEV11GV6MRTLG372,10-Cylinder+,Manual,Electric
+661,ford,elise,2014,168895,VBF759GU518ZYHKE8,8-Cylinder,Automatic,Diesel
+662,audi,grand cherokee,2007,38847,1A76JWS199EDXUUGF,6-Cylinder,CVT,Gasoline
+663,cadillac,allroad,2014,9029,SR0M8F5D0PU9B86X4,4-Cylinder,Automatic,Electric
+664,dodge,grand prix,2016,174131,6S7E7NJT9KG93TL8L,6-Cylinder,Manual,Electric
+665,bmw,econoline e350 cargo,2009,148187,C6BNA3L55T1S97YDP,4-Cylinder,Automatic,Electric
+666,ford,montego,1998,105414,R32R4FHG1WJ8DT8WM,3-Cylinder,Manual,Hybrid
+667,chevrolet,intrigue,1996,90497,5LXF6HC66X23KC8RJ,5-Cylinder,Automatic,Hybrid
+668,dodge,960,2019,190107,BL472YDM7TF2FFYXM,6-Cylinder,CVT,Diesel
+669,dodge,focus,2005,134302,LFX4M42M82YUZJ256,6-Cylinder,Manual,Gasoline
+670,kia,s4,1992,20171,H21E3M2G2YTG2YHUY,5-Cylinder,Manual,Electric
+671,dodge,sprinter 2500 passenger,2004,114087,ZDKXNNBN0E482N0PJ,5-Cylinder,CVT,Electric
+672,mercury,mirage,2019,135969,VY2Z8T2P0KMT44K0H,10-Cylinder+,Manual,Hybrid
+673,ford,panamera,2018,149397,DE31ZN0VXTD0SU1ET,2-Cylinder,CVT,Diesel
+674,volkswagen,nsx,2004,47138,FMY8ZAGX4YLJUN9WL,4-Cylinder,Automatic,Electric
+675,chevrolet,camry,1997,126652,90JKSACD3TM03121R,6-Cylinder,Manual,Diesel
+676,chevrolet,sierra 2500 hd crew cab,2010,171534,V62TAVPZ2ZJWGU16L,5-Cylinder,Automatic,Electric
+677,honda,excursion,2014,11453,Y88D82Z86073F8869,2-Cylinder,Automatic,Hybrid
+678,mercury,yukon,2013,100996,YBHBC2MC7WN5XWP3C,2-Cylinder,Automatic,Electric
+679,mercedes-benz,mighty max macro cab,1998,55844,A8VZ218D16S20PJF3,2-Cylinder,Manual,Diesel
+680,kia,seville,2013,160319,DGSNEE806JVNPVEPM,5-Cylinder,CVT,Gasoline
+681,ford,yaris,1992,85920,0RWPXJ670NB4NTN9F,8-Cylinder,Automatic,Electric
+682,mazda,164,2014,134322,9UFH04XXX4S0U8415,8-Cylinder,Automatic,Diesel
+683,mazda,b-series cab plus,2010,96635,ZMHV0JMM8DHN63SZX,5-Cylinder,CVT,Diesel
+684,chevrolet,lacrosse,2010,55409,5X8GWFUP7SH38M9B4,2-Cylinder,Automatic,Diesel
+685,dodge,ls,1994,153918,XYZ7N7MC4V668X0XJ,10-Cylinder+,Automatic,Electric
+686,lexus,monte carlo,2010,157109,9ZGZ9C5383KHXFWCP,8-Cylinder,Manual,Diesel
+687,volkswagen,silverado 1500 crew cab,2006,63851,UZ95EUKD7J0AHN70P,8-Cylinder,CVT,Electric
+688,bmw,explorer,1993,45344,8DPRBBSG803P2GXLA,8-Cylinder,CVT,Diesel
+689,chevrolet,impreza,2000,125782,54C2YNSX9567F7FTD,10-Cylinder+,Automatic,Electric
+690,volvo,3500 crew cab,2005,158658,C1EB1RA47NU5PU1TT,10-Cylinder+,Manual,Hybrid
+691,volkswagen,3500 mega cab,1994,130215,MUPNUM8Z68T6F8K5G,4-Cylinder,Automatic,Electric
+692,dodge,xc70,2003,71678,9H1XK77K06CGFLJD7,6-Cylinder,CVT,Electric
+693,lexus,boxster,2005,106617,XP9T7RT774FVLJSX2,2-Cylinder,CVT,Gasoline
+694,volkswagen,500 abarth,2018,50355,FPMF0WX13H42K96UT,4-Cylinder,Manual,Diesel
+695,jeep,gti,1993,120149,FG6HUA9B0AGHLSKB7,4-Cylinder,Manual,Diesel
+696,lamborghini,1 series,1997,75436,9WXFJ54L3LE2BXLVF,4-Cylinder,Automatic,Hybrid
+697,audi,silverado 3500 regular cab,2007,176610,7J701YAY8VFAFBS29,8-Cylinder,CVT,Diesel
+698,ford,range rover evoque,2016,15393,WRPY5ZZM37DW82W10,5-Cylinder,Automatic,Gasoline
+699,subaru,cayman,2009,161215,9UZ2BTNP3M4FH0KAJ,4-Cylinder,Manual,Gasoline
+700,honda,300m,2007,143643,2MT4CMEL2ZH560LAN,6-Cylinder,Automatic,Gasoline
+701,toyota,maxima,2004,57772,HML96L7K536Y2P7HS,4-Cylinder,CVT,Diesel
+702,ram,niro,2017,132679,70JH2PMY9MZBEWCP2,2-Cylinder,Automatic,Gasoline
+703,cadillac,grand am,1996,86751,REY6SYE13SBPMCK36,4-Cylinder,Manual,Gasoline
+704,bmw,mirage,2010,5294,AG5RX0HRX04BH9S1F,10-Cylinder+,Manual,Gasoline
+705,bmw,2 series,2007,23980,4DAPAC2XXWPNX5UYV,10-Cylinder+,CVT,Electric
+706,mercedes-benz,cr-z,1992,160200,S9SU3RH33JD4KKPMC,3-Cylinder,Automatic,Hybrid
+707,suzuki,gx,2008,77459,T55SBVG32L1W41NP4,4-Cylinder,Automatic,Hybrid
+708,nissan,land cruiser,2011,35888,7HGLRV0M6E0K4CHTG,10-Cylinder+,CVT,Gasoline
+709,kia,xc70,2009,130025,MEW6V8MD605M3H351,8-Cylinder,Automatic,Diesel
+710,gmc,express 3500 cargo,2008,53591,7964X17T8WV6SEV3Z,10-Cylinder+,Manual,Hybrid
+711,infiniti,1500 crew cab,2002,47709,KVZ4PXXE1D6KH3M6M,5-Cylinder,CVT,Diesel
+712,mazda,ct6-v,2005,140986,AE3SBGNZ0CE6CD090,3-Cylinder,CVT,Diesel
+713,lexus,transit connect passenger,2008,21381,RUKF4Y9N07T75LFE7,2-Cylinder,Automatic,Hybrid
+714,ford,slk-class,2020,37599,TN72284G5NPG75EKG,6-Cylinder,CVT,Gasoline
+715,toyota,trooper,2020,109627,S97K48E9X4V5M8NL4,5-Cylinder,Automatic,Hybrid
+716,ford,express 2500 cargo,1998,141177,RGU7PNLP4RD0UWYWY,10-Cylinder+,CVT,Hybrid
+717,bmw,fleetwood,2006,57668,4B904VPT2DFKLK0YZ,4-Cylinder,Manual,Diesel
+718,infiniti,cirrus,2006,174106,7G839G0462B373VP3,2-Cylinder,Manual,Hybrid
+719,gmc,avalanche,2008,177020,R4ARH6G56WAFXGYW8,10-Cylinder+,Manual,Diesel
+720,chevrolet,f150 regular cab,2005,128488,LRCNP3XC5H474G6JT,10-Cylinder+,Manual,Gasoline
+721,audi,slk-class,1994,154306,12Y2SAD306XESPHJZ,10-Cylinder+,Automatic,Electric
+722,infiniti,ct,2008,144800,BP6CZAP89YY7Z5NG8,3-Cylinder,Automatic,Hybrid
+723,mercedes-benz,yaris,2013,98452,FZ3S8P0B8NNTP1AWC,2-Cylinder,CVT,Hybrid
+724,ram,encore,1995,36301,BA01ED567WX76RUB0,3-Cylinder,CVT,Electric
+725,gmc,continental,2001,68576,D1WWRNR68C4L67LNG,3-Cylinder,Automatic,Hybrid
+726,chevrolet,pilot,2013,193741,3UFUBNGB9ZAF2EECV,3-Cylinder,Manual,Electric
+727,bmw,mariner,2000,85734,T285ZGH270WJV1795,6-Cylinder,Automatic,Gasoline
+728,toyota,mark viii,2018,90262,3473E3W55VG7HA9PR,2-Cylinder,Automatic,Hybrid
+729,kia,ram van 2500,1994,32995,DYWHC7062KKUWYCKR,6-Cylinder,CVT,Hybrid
+730,gmc,caprice,2014,171983,Z8EWUTZJ6HHE1KCLM,5-Cylinder,Manual,Diesel
+731,ram,sonata,2000,135331,EBTK362E6PTC5RB9Z,10-Cylinder+,Automatic,Hybrid
+732,gmc,jetta,2011,122869,TYUC64LL61XSJFXAE,6-Cylinder,CVT,Hybrid
+733,subaru,b-series cab plus,2017,25577,B6LMRTWP3265VHCXY,6-Cylinder,CVT,Hybrid
+734,volvo,s10 extended cab,2015,132833,DU5DW3E84PLHSLCW0,2-Cylinder,Automatic,Diesel
+735,nissan,express 3500 cargo,2019,52825,WEFAU6EB6W6FMH292,3-Cylinder,Automatic,Gasoline
+736,chevrolet,soul,2016,156895,FNWTYHBK3XVYCKADB,4-Cylinder,Automatic,Electric
+737,toyota,rodeo sport,2017,143646,NXU7THBS242GZMBKW,6-Cylinder,CVT,Hybrid
+738,dodge,safari cargo,2012,57276,MTS6B0F82KF5XY1JA,2-Cylinder,Manual,Gasoline
+739,gmc,tundra double cab,2012,26119,0SKEXPSK4Z331P8BH,10-Cylinder+,Automatic,Hybrid
+740,mercedes-benz,sedona,2012,144241,3TT15UHC4FK85PS4N,3-Cylinder,Manual,Electric
+741,hyundai,2500 extended cab,2001,157484,1WL972R94J1PKWB8H,6-Cylinder,CVT,Diesel
+742,suzuki,es,1998,167785,XK28FUT45RN5NDN0S,5-Cylinder,Automatic,Gasoline
+743,mercedes-benz,is,2005,53977,WGXFKJB45AAAMEK3V,6-Cylinder,Automatic,Hybrid
+744,porsche,sedona,2000,56424,4Z0UCWTC9PLJSFUL4,3-Cylinder,Automatic,Gasoline
+745,volkswagen,impala,2020,37577,SXF1T5YK5B6WNTNM7,8-Cylinder,Automatic,Electric
+746,gmc,5 series,1998,23962,V36195RHXJ0HYYVRN,6-Cylinder,Manual,Hybrid
+747,chevrolet,sx4,2003,86257,ZAS5ZXLXX55F5NHAC,8-Cylinder,CVT,Electric
+748,chevrolet,718 cayman,2015,130113,5R1CLA462S3P6A6JV,2-Cylinder,CVT,Gasoline
+749,kia,titan xd crew cab,2010,35676,A1DK7LAN7F3SR78R7,2-Cylinder,CVT,Electric
+750,jeep,optima,2019,127118,6NEUHZ3289RDV0LJK,8-Cylinder,Automatic,Gasoline
+751,hyundai,i3,1996,166029,5EZ7U4M77MHMW2GMZ,4-Cylinder,Manual,Gasoline
+752,jeep,escalade,2016,133136,90HL9TL73WR0PZCYS,10-Cylinder+,Automatic,Diesel
+753,chrysler,ssr,2017,94239,MYK6BFLE11F8Z71LX,6-Cylinder,Automatic,Diesel
+754,ferrari,sprinter 2500 crew,2007,136692,AY8M5HEZ843B5DYAA,8-Cylinder,Automatic,Diesel
+755,ford,tl,2003,9300,72JKDC899L68T5AAZ,6-Cylinder,CVT,Gasoline
+756,audi,ram wagon 1500,2017,75443,F0BJNC2L7UHJYWVR5,2-Cylinder,Automatic,Gasoline
+757,mazda,suburban 2500,2012,157905,F486TP7NXXRXD3SVD,4-Cylinder,Manual,Electric
+758,dodge,sorento,2014,153460,P3RE2HZA3RUNJ7JHE,5-Cylinder,Manual,Hybrid
+759,ford,ram wagon b250,2001,69435,WXFYBUJ55WM08H0HA,4-Cylinder,Automatic,Electric
+760,dodge,golf sportwagen,2014,36515,VG7JM2122XM4S1345,2-Cylinder,CVT,Hybrid
+761,ford,fleetwood,2001,47047,M4L4LFR03P4H5NV5W,3-Cylinder,Manual,Diesel
+762,volvo,tahoe,1998,150181,TSH8LWPV9F2UGWPSG,3-Cylinder,Manual,Gasoline
+763,mercedes-benz,canyon crew cab,2016,26476,HLEBL0TL9C5VYTX4H,10-Cylinder+,CVT,Diesel
+764,gmc,vue,1995,11200,13KAK90X5ZNDZ29X1,6-Cylinder,Automatic,Diesel
+765,mercedes-benz,quest,1999,68168,3U5MR5L0293TUZD20,6-Cylinder,Manual,Diesel
+766,ford,3000gt,2004,42591,H2MNKFMY0B63KZDWV,6-Cylinder,CVT,Diesel
+767,honda,express 2500 cargo,1992,190776,2KB8TVU528K95CJA3,6-Cylinder,CVT,Hybrid
+768,acura,versa,1997,170442,9VCF5U1M61HLCYKSR,8-Cylinder,Manual,Gasoline
+769,mercedes-benz,passat,2011,37628,4G1VFWFP1KYE643MD,2-Cylinder,Automatic,Electric
+770,bmw,navigator l,2013,17803,Y461K09P467MN55DF,10-Cylinder+,Manual,Diesel
+771,jeep,f350 super duty regular cab,2016,70656,3J1V6UZ22TBEL3P77,3-Cylinder,Manual,Electric
+772,volvo,sonata,2009,151602,M10DKPZG38P1WG5J8,4-Cylinder,Manual,Gasoline
+773,chevrolet,flying spur,2017,37056,5UA1MWXG9B39P5NCZ,4-Cylinder,Automatic,Gasoline
+774,toyota,sprinter 3500 xd cargo,2005,87256,LA0Y0GWJ1WTBTSC66,10-Cylinder+,CVT,Diesel
+775,chrysler,yukon xl 1500,2003,5812,2RGFLXA12LMD2T22D,3-Cylinder,CVT,Gasoline
+776,chevrolet,cls-class,2011,23369,RXJ48Y3A78WK3RNNR,4-Cylinder,Manual,Electric
+777,bmw,tacoma access cab,1995,55836,FXFJTRA85614ZDK8F,8-Cylinder,CVT,Diesel
+778,chevrolet,silverado 1500 regular cab,2020,65662,S5JD87TZ92BXHMMSL,3-Cylinder,CVT,Hybrid
+779,chrysler,sc,1995,143580,B4NXJ70S1EL91AZM4,4-Cylinder,CVT,Electric
+780,hyundai,slr mclaren,1992,171909,SKXAWLXE4DB8Z1PEH,6-Cylinder,CVT,Diesel
+781,toyota,i,2012,78181,H3RA0TPX15UCBJRXV,10-Cylinder+,Automatic,Hybrid
+782,audi,qx,2009,62102,RWP1VMNH3669N7HM9,5-Cylinder,CVT,Diesel
+783,land rover,fx,2017,96448,3WHFRCAKXAWF6NCCX,5-Cylinder,Automatic,Gasoline
+784,cadillac,s-series,2019,101270,5F3BWS162BE0HL95A,2-Cylinder,CVT,Gasoline
+785,mercury,xj,2008,133796,EHFHTAHJ7GGD3ZY72,6-Cylinder,CVT,Hybrid
+786,ford,esteem,1992,194928,Z8V3PEKAXY01CEDT9,4-Cylinder,CVT,Gasoline
+787,audi,crosstour,2014,1972,7C3LRJ1U9W58823VF,10-Cylinder+,Manual,Electric
+788,nissan,forte,2003,185586,F5B8UXRX38TJG4CEJ,10-Cylinder+,CVT,Hybrid
+789,ford,gx,1998,123425,VHV8TJ6H14ZFP1RVD,4-Cylinder,Manual,Hybrid
+790,mercedes-benz,cutlass supreme,2002,34789,25P4YR2597M14SNHE,2-Cylinder,Manual,Hybrid
+791,mitsubishi,g3,2013,181923,1P45T7BAXVVC5XNGU,6-Cylinder,CVT,Electric
+792,bmw,a8,2005,68606,LXLY3PPV380SZ7ESG,6-Cylinder,Manual,Hybrid
+793,mercedes-benz,outlander phev,2000,81300,7DY7GDJA9843M5F8M,5-Cylinder,CVT,Diesel
+794,ferrari,taurus,2006,107558,S411N1R39UAF2D883,4-Cylinder,Manual,Hybrid
+795,gmc,journey,2009,93713,6RB2FTMLXJDDR8KX5,5-Cylinder,Manual,Diesel
+796,chevrolet,explorer,2013,180150,PE2F62BL70ZBYAPFN,3-Cylinder,CVT,Gasoline
+797,nissan,cherokee,2000,107514,PM9GDMRC86TN1BTB4,8-Cylinder,Automatic,Gasoline
+798,ford,corrado,2016,23015,FVB4NP399ZH1XLFN2,6-Cylinder,CVT,Electric
+799,geo,rl,2015,25181,1NJDA2BK6GABTW6SB,4-Cylinder,Manual,Diesel
+800,bmw,taurus,2003,171594,LRF4RJPW68KJWMKGN,3-Cylinder,Manual,Gasoline
+801,lexus,sierra 3500 hd crew cab,2003,167004,YWNZDALY2ZYMC24EW,10-Cylinder+,Manual,Electric
+802,bmw,ram van 2500,2018,177029,87BMG7A581RUC83P1,2-Cylinder,Automatic,Diesel
+803,buick,e250 cargo,2007,73023,87WTDDVL04BH332WM,5-Cylinder,CVT,Hybrid
+804,isuzu,458 speciale,1993,175318,4HVPDWY326ZB165ZD,8-Cylinder,CVT,Diesel
+805,volvo,escalade esv,2014,398,L27F6MS92NUVJP123,2-Cylinder,Automatic,Diesel
+806,aston martin,aveo,2006,118576,7AA9XRR07DK66Z8B7,6-Cylinder,Manual,Hybrid
+807,lincoln,g-class,2004,175493,N4ZWEVM00E11TYAWL,10-Cylinder+,Automatic,Diesel
+808,chrysler,safari passenger,2009,143093,56VMPRFF5NU4R16AT,5-Cylinder,Automatic,Electric
+809,ford,grand prix,2002,3893,DA70UH878YXZ72U0B,10-Cylinder+,Automatic,Electric
+810,gmc,qx60,2016,86410,VE9SJL9W8FBC5A4RY,4-Cylinder,Automatic,Diesel
+811,audi,solstice,1994,30156,HS6GRX76626NM4UCZ,10-Cylinder+,Automatic,Gasoline
+812,toyota,f430,2017,26832,2F4UREC2298PFSJ52,2-Cylinder,Automatic,Gasoline
+813,mercedes-benz,maxima,2018,64444,S1JJF0LD929EEMKJ8,6-Cylinder,Manual,Gasoline
+814,mercedes-benz,a5,2000,43404,7NDRACHH5AHHEMZK5,5-Cylinder,Automatic,Diesel
+815,bentley,diamante,2009,182001,W0APWB3T9YJBHBLNY,10-Cylinder+,Automatic,Diesel
+816,chevrolet,ram wagon 2500,1992,7144,KKCVZ33N8HRSC82A7,6-Cylinder,CVT,Gasoline
+817,mazda,xc70,2019,32165,YY66H9K834H5AFXF9,8-Cylinder,CVT,Hybrid
+818,fiat,s-class,2017,165237,2MVEYFZY5AZD112F4,3-Cylinder,Manual,Hybrid
+819,chevrolet,1 series,2009,189606,WCDPKRV141ZES1A4A,4-Cylinder,Automatic,Gasoline
+820,dodge,x5 m,1999,169117,TURA5YE084PX6R4S3,5-Cylinder,CVT,Gasoline
+821,chevrolet,amigo,2004,48908,U32G8RUS1T37AU65W,10-Cylinder+,Automatic,Electric
+822,gmc,mazda3,2001,157934,P4SGC0EH8Z3114L22,5-Cylinder,Manual,Electric
+823,dodge,g,2005,134510,USLHAJHD5JCYH88EE,8-Cylinder,Automatic,Gasoline
+824,toyota,lumina,1999,195182,L4SJKVJFX2CA1UAYL,5-Cylinder,CVT,Electric
+825,chrysler,ranger super cab,2008,42941,2Z3HT1D093NJZHECB,5-Cylinder,Manual,Hybrid
+826,audi,endeavor,1999,84820,3ZZ01WA919STTB9LT,10-Cylinder+,Automatic,Diesel
+827,gmc,mpv,1998,163027,A84ATTLS5YXE71LVA,5-Cylinder,Manual,Diesel
+828,mercedes-benz,matrix,2019,26716,WMRD4RRU4L7RZ11S0,2-Cylinder,Automatic,Electric
+829,ford,90,2013,51835,3D9CNWWR5YMHM4F6B,5-Cylinder,Manual,Electric
+830,hummer,convertible,1993,34837,B37AHZP289DJ4GNNJ,10-Cylinder+,CVT,Diesel
+831,nissan,f350 crew cab,2002,122420,7V8DBH7X5PR3G977N,4-Cylinder,Manual,Electric
+832,dodge,sierra 2500 regular cab,2020,51746,GRERC2F757PECCM0G,2-Cylinder,CVT,Diesel
+833,volkswagen,3500 mega cab,2017,128543,3TT33SB7XSFLSYJXC,5-Cylinder,Manual,Diesel
+834,jeep,1500 regular cab,1995,181793,2H4F31N1827V0HBDU,6-Cylinder,CVT,Gasoline
+835,chevrolet,thunderbird,2008,54489,JHHC1Z5S3SY9424UB,5-Cylinder,CVT,Electric
+836,hyundai,gs,2019,142751,H1RB19VJ3HL8XWXHG,4-Cylinder,Manual,Gasoline
+837,gmc,ram 1500 regular cab,2020,51821,NNYKZHFX905GZ8BX3,3-Cylinder,Manual,Hybrid
+838,audi,s10 regular cab,2000,184538,HMR65NYX4KWHCZZBD,4-Cylinder,Automatic,Diesel
+839,mercedes-benz,xj,2018,10194,472WGXVU4BFFJH8W9,4-Cylinder,Manual,Electric
+840,nissan,safari cargo,2003,168651,60SV6WBZ8Y64NLYPG,6-Cylinder,Automatic,Hybrid
+841,nissan,lesabre,2010,74234,XEZGAEGW6XX6LD1C8,10-Cylinder+,Automatic,Hybrid
+842,toyota,prizm,1993,172,X540XBTM68MHP1KXS,4-Cylinder,Manual,Gasoline
+843,volvo,titan crew cab,1998,40372,GP4J6C1E7EENKT3S4,4-Cylinder,CVT,Electric
+844,bmw,aurora,2003,187210,949MN27Z3Z7Z7C08F,8-Cylinder,Automatic,Electric
+845,ford,integra,1994,96907,TF9MJHY7X8NNAAUAD,4-Cylinder,Manual,Gasoline
+846,gmc,express 3500 cargo,2013,90874,MLSK9GR2562Y8V2XP,2-Cylinder,Automatic,Hybrid
+847,toyota,explorer sport trac,2000,115570,S9ZJT5BA8LBMXWHZ6,10-Cylinder+,Automatic,Diesel
+848,mini,ilx,2011,86874,873S778Z6KDPPMLCF,4-Cylinder,CVT,Hybrid
+849,bmw,echo,2019,163814,P4ZXZBMP3JLS71MAS,10-Cylinder+,Manual,Gasoline
+850,bmw,mazda6,2013,130314,8GJJZM2C1CAF4M6GX,4-Cylinder,CVT,Diesel
+851,bmw,ss,2013,158320,BLBAFD6F30U94WEBR,3-Cylinder,CVT,Diesel
+852,mini,vantage,2013,2598,WDWLD9AF15HLVNG74,2-Cylinder,Automatic,Gasoline
+853,chevrolet,astro passenger,2001,47058,5HXPMF6S4PBEWD1AC,6-Cylinder,Automatic,Diesel
+854,mitsubishi,mdx,2000,81661,ZKBJ0ZVC8EP3NGBTD,10-Cylinder+,Manual,Hybrid
+855,porsche,golf,2014,125523,65J7M12W34X4JG9LD,10-Cylinder+,Automatic,Electric
+856,mitsubishi,k900,2016,124151,T5DGKE608AWE4T814,3-Cylinder,Manual,Diesel
+857,hyundai,pilot,2007,102547,MZDUEACK7X3X4CST6,2-Cylinder,CVT,Hybrid
+859,gmc,5 series,2018,170611,0DX5P1VR4VWCREB3M,2-Cylinder,Automatic,Hybrid
+860,volvo,navigator,1999,166093,36A2XCKS0XKES6M3T,10-Cylinder+,CVT,Electric
+861,mercedes-benz,celica,2012,98989,2ZL8BEYP1T71BASDA,10-Cylinder+,CVT,Electric
+862,bmw,sierra 1500 hd crew cab,2018,11183,6XYKE1YG8799B5XWJ,10-Cylinder+,Manual,Gasoline
+863,toyota,accent,2020,77224,RC379RFE0556M7XRH,3-Cylinder,Automatic,Electric
+864,lexus,mercedes-amg s-class,2020,8675,SHZ21DCM43LXD8ACX,3-Cylinder,Manual,Gasoline
+865,chevrolet,cx-9,2013,123137,654BZCRC1886KS07E,10-Cylinder+,CVT,Hybrid
+866,lexus,tacoma access cab,2019,194650,NRR25BR49BVY7L08P,8-Cylinder,Automatic,Hybrid
+867,mazda,lancer,2016,20141,K8E6KZ2Y0NF1ATDNB,4-Cylinder,CVT,Electric
+868,acura,prius v,2012,26243,V4FN5B6TX2LFLF2WZ,4-Cylinder,Manual,Hybrid
+869,cadillac,mr2,2017,30180,L33CHHLM95C1MC4N1,5-Cylinder,Manual,Electric
+870,chrysler,xj,1997,190613,D6B5H9DT7A6YHX9UT,2-Cylinder,Automatic,Electric
+871,chevrolet,econoline e350 cargo,2016,36227,3F0ZXVFS4CZSEKZMA,2-Cylinder,Manual,Diesel
+872,mitsubishi,ram wagon 2500,1996,34079,EH6J6H2XXWGRUB4EU,10-Cylinder+,Automatic,Hybrid
+873,kia,ram 3500 regular cab,2019,191475,43MP9GACXHGWMTTHB,6-Cylinder,Manual,Gasoline
+874,chevrolet,tundra regular cab,2016,191149,58NCYW557CM69H6WP,2-Cylinder,CVT,Gasoline
+875,volkswagen,gs,1995,84973,DY0ZD7VW2B6EVJMW5,8-Cylinder,CVT,Electric
+876,mercedes-benz,daytona,1994,102862,8C772NTA54V2VNTL6,8-Cylinder,Manual,Hybrid
+877,jeep,granturismo,1993,181785,JXMYZNCU0NH6LD0VZ,6-Cylinder,Automatic,Hybrid
+878,toyota,sonata,2002,95512,D6L4VKCEXZNGWCX7U,6-Cylinder,Manual,Hybrid
+879,jeep,monterey,1996,97951,BZ9HGB6G05TPF6E46,10-Cylinder+,CVT,Gasoline
+880,ford,cla,2020,37518,NWMC7PU26WAWVUNU9,8-Cylinder,Automatic,Hybrid
+881,ford,cruze,2015,48815,U3F3C1990D7CXDF5E,8-Cylinder,Automatic,Diesel
+882,toyota,grand caravan passenger,1998,174756,8V35PBGH2U7S7P8LP,5-Cylinder,Manual,Hybrid
+883,ford,silverado 2500 hd crew cab,2009,36399,BG3WZ3E6X7YMXXS9E,10-Cylinder+,Manual,Electric
+884,audi,fusion energi,2005,195822,JPA0RE4BXHEUR03MA,10-Cylinder+,Manual,Diesel
+885,ford,lancer,2016,131511,NPGBG74B68BPLN5V1,3-Cylinder,CVT,Electric
+886,isuzu,x5,2009,84122,MFUAYTNS9MB8KNC8C,10-Cylinder+,Automatic,Diesel
+887,chevrolet,prius,2010,92437,22GU8Y571T1PWWA8J,3-Cylinder,CVT,Electric
+888,cadillac,sierra 2500 hd crew cab,2008,101675,V53UVKEJ85R0K27Y5,10-Cylinder+,CVT,Hybrid
+889,infiniti,outback,2019,167189,G2KAHMB134ANC2RLG,5-Cylinder,Manual,Gasoline
+890,mitsubishi,cobalt,2003,8846,2JAYJANK2X16K8HMC,2-Cylinder,CVT,Gasoline
+891,chevrolet,sportvan g20,2009,41744,WPSH9X0Z67BA2NEGU,4-Cylinder,CVT,Diesel
+892,jeep,c-max hybrid,2009,189446,CAGE7CPX27DAGMGT0,8-Cylinder,Manual,Hybrid
+893,jaguar,outback,2002,2040,P6U38SX3X4SZHEDSE,8-Cylinder,Automatic,Hybrid
+894,pontiac,golf,2013,66425,APC1D1657T6V8MYTW,10-Cylinder+,CVT,Hybrid
+895,infiniti,escort,2016,44814,WSBCFA776Z2X1THVE,6-Cylinder,Manual,Electric
+896,mitsubishi,cl-class,1993,159962,C0TMN3RE1HVAUJAFJ,6-Cylinder,CVT,Diesel
+897,ford,h1,2008,181869,WW2616BY0L1DN83WC,2-Cylinder,Automatic,Gasoline
+898,buick,savana 1500 cargo,2020,7875,A698JL890HEGHJC20,8-Cylinder,CVT,Hybrid
+899,nissan,sc,2013,106047,8BZNJMSW9C81DBME8,3-Cylinder,Manual,Diesel
+900,ferrari,celica,1994,51885,WXYCXL7538R0V87FV,8-Cylinder,Manual,Diesel
+901,mercedes-benz,h1,2012,118982,T4FB0NA87P7L9LJZF,5-Cylinder,CVT,Hybrid
+902,plymouth,firebird,2006,90871,T1Y1PX9R0SU48L5J1,5-Cylinder,Automatic,Gasoline
+903,dodge,tiguan,2019,109783,SB0FRJKT2HTX0NZPH,4-Cylinder,CVT,Electric
+904,dodge,mdx,1998,59781,NFC26S4K9XVV70GPD,3-Cylinder,Automatic,Electric
+905,ford,e-tron,2012,161124,3K7TYR7W2K4H6TJN8,10-Cylinder+,CVT,Gasoline
+906,hyundai,intrigue,2003,42401,XFLVP0VU88AL9LU3F,5-Cylinder,Automatic,Diesel
+907,jeep,lx,2003,116584,REEZ2YNS5CV2YJYAN,8-Cylinder,Automatic,Diesel
+908,ford,express 2500 passenger,2018,183779,X1ATLA8H6JYZF0K8X,6-Cylinder,Manual,Diesel
+909,nissan,seville,2020,78855,P8TZ36MU6AJMB7PUT,10-Cylinder+,Automatic,Hybrid
+910,volvo,malibu limited,2014,65612,2H2TDBHL722LT42EV,10-Cylinder+,Automatic,Gasoline
+911,land rover,v70,2009,136736,APDYE06N836VJGUGJ,8-Cylinder,Automatic,Diesel
+912,chrysler,silverado 1500 crew cab,1994,190919,MGXVFXXF8CTJEKM7J,8-Cylinder,Manual,Diesel
+913,gmc,ram van 1500,1999,31448,6VAXDV2B0RBPNZZCT,3-Cylinder,CVT,Diesel
+914,bmw,land cruiser,2009,66178,JZ1218RL1N8G49PGA,2-Cylinder,Manual,Diesel
+915,lexus,outback,1996,6111,GKY2ZRYA0CP8B33CG,8-Cylinder,Automatic,Hybrid
+916,subaru,villager,1997,53214,6MAP7D4Y2695E5AFP,3-Cylinder,Manual,Diesel
+917,dodge,dbs,2002,189364,GC94E6JG3B7RTSN49,4-Cylinder,CVT,Hybrid
+918,toyota,f350 super duty super cab,2002,145632,GJZKEA9F3US8A5MX3,4-Cylinder,Automatic,Hybrid
+919,mercedes-benz,ram 3500 mega cab,2019,7685,SU8J3DYV0F89XCFBZ,5-Cylinder,Manual,Gasoline
+920,gmc,sorento,1995,91666,7T2243NT2HDPJUCK2,3-Cylinder,Automatic,Diesel
+921,suzuki,g-series 1500,1995,116629,GXDF05G1860YA0S2E,6-Cylinder,CVT,Gasoline
+922,ford,f150 regular cab,1992,48501,NS9LT13H2421BH1Y1,4-Cylinder,CVT,Gasoline
+923,hyundai,avalon,2011,80704,27T0DMF64HE75SJTP,4-Cylinder,Automatic,Electric
+924,mercury,vanquish,2011,25531,6JT9JS1J6ZYANPABJ,8-Cylinder,Automatic,Hybrid
+925,audi,eldorado,2015,130313,3X5RS6YZ0B12TZAUM,5-Cylinder,Automatic,Gasoline
+926,volkswagen,ram 1500 quad cab,2014,128120,W6DKF4VB6BL9LE0JC,2-Cylinder,CVT,Diesel
+927,chevrolet,f150 regular cab,2005,185979,4L7LG2UH08WVVMM9S,2-Cylinder,Manual,Diesel
+928,geo,xd,2018,94573,Y6UN21K6X58VGPKFL,4-Cylinder,CVT,Gasoline
+929,gmc,clk-class,2003,140274,8MGT3JHT10GUP2NRK,10-Cylinder+,Manual,Gasoline
+930,bmw,compass,2015,132096,FPM6SYD15TGZZPCF6,6-Cylinder,Automatic,Gasoline
+931,subaru,captiva sport,2018,89119,8JBR1D9X4ZR3EAB3M,4-Cylinder,Automatic,Diesel
+932,honda,silverado 3500 hd double cab,2019,128354,6LAA55MW51ZJRBMPR,8-Cylinder,CVT,Electric
+933,cadillac,civic type r,1992,137243,VV5JXU4U1BYE2874F,2-Cylinder,Manual,Gasoline
+934,honda,tundra crewmax,1999,147618,ESWXAC169A6D8RU5R,2-Cylinder,Manual,Electric
+935,nissan,regular cab,2009,21220,CRXHC3UZ2WFSKBJ5M,6-Cylinder,Manual,Electric
+936,ford,celica,2015,122661,3X7YFKKN1GNFATWNM,6-Cylinder,CVT,Diesel
+937,isuzu,regal sportback,2006,27066,SNXHAKX9358NYH2MV,8-Cylinder,Automatic,Electric
+938,ferrari,sl,2007,172325,KU6DWT3E4HKH07K46,4-Cylinder,Automatic,Diesel
+939,lotus,montero,2004,47315,7K0RTZLV2JZJEYHR2,10-Cylinder+,Manual,Electric
+940,land rover,f250 super cab,2002,106063,KX5K8Y4CX7BB3ZH49,6-Cylinder,Automatic,Electric
+941,gmc,land cruiser,2001,69943,ENSS9YE66UXSEPJAU,3-Cylinder,Manual,Hybrid
+942,bmw,esteem,1997,98768,HTRW1CFC4N9DVK32C,5-Cylinder,Automatic,Gasoline
+944,ford,f250 super duty regular cab,2009,18797,AL23FHMS27JK39JF4,2-Cylinder,CVT,Hybrid
+945,nissan,villager,2006,95126,P90ZLXTK5BP9ZDEH0,2-Cylinder,Automatic,Electric
+946,toyota,sentra,2005,64498,JNT542XT6H9HPLYD2,4-Cylinder,Manual,Diesel
+947,toyota,sierra 2500 hd regular cab,2015,184783,BWPDUMSC8KFFHSTB8,10-Cylinder+,Manual,Electric
+948,chevrolet,patriot,1997,40461,NP6GG01A0ZMLA7V0W,10-Cylinder+,CVT,Hybrid
+949,chevrolet,cavalier,2000,191147,UJUDN2D77GBRSZB2X,3-Cylinder,Automatic,Gasoline
+950,cadillac,azera,2017,173260,REVJHFZ97PX3DHTUR,10-Cylinder+,Manual,Electric
+951,acura,beetle,2008,93391,WZYYUVMS0RYE6KNDF,5-Cylinder,Automatic,Diesel
+952,volkswagen,nv200,2003,84426,7N9UE9GZ5H4JFZD4U,5-Cylinder,Automatic,Hybrid
+954,cadillac,express 1500 passenger,2007,167619,KD0DWNRY2GHEPTPMB,4-Cylinder,Automatic,Diesel
+955,aston martin,charger,1993,41689,9UVSMHYC7UCBFS85N,4-Cylinder,Manual,Diesel
+956,eagle,mkx,2017,186908,LPL3C2E89RLYCAY35,2-Cylinder,CVT,Gasoline
+957,ford,civic,2016,13366,463SHS7M70D4AGTD9,4-Cylinder,Manual,Diesel
+958,acura,2500 crew cab,2003,121598,JH7LMZ3EXJTUP3X26,3-Cylinder,Manual,Diesel
+959,toyota,passat,2015,15127,FRKFXLNG9KKBSFJD9,5-Cylinder,Manual,Gasoline
+960,porsche,accord,2015,105921,PW7900DN231B145SN,4-Cylinder,Automatic,Diesel
+961,audi,sierra 2500 hd extended cab,2017,151181,RDDJEM8K7C1E5FA0L,3-Cylinder,Automatic,Diesel
+962,nissan,trax,2011,195987,TN0LCCMS2EH3EFLPU,2-Cylinder,Automatic,Electric
+963,ford,ram van 2500,2013,139214,L7434WHR7AAZYD9UN,8-Cylinder,CVT,Hybrid
+964,volvo,maxima,2006,164278,WLSWJ7320M4NM7KVH,10-Cylinder+,Automatic,Hybrid
+965,hyundai,crown victoria,2009,46452,LC4G9Y755VGNZRNHK,8-Cylinder,Manual,Hybrid
+966,toyota,sprinter worker cargo,2011,167062,68FCRB120GTXER1GR,6-Cylinder,Automatic,Electric
+967,chevrolet,mr2,1999,172662,64WDE6BH258J5U9TN,2-Cylinder,Automatic,Gasoline
+968,subaru,raider double cab,1996,111236,0ZFATX7GXJHSG5U02,6-Cylinder,Automatic,Gasoline
+969,ford,ram wagon 3500,2018,36707,F0T2UCBV21YZEGX86,8-Cylinder,CVT,Electric
+970,hyundai,compass,1997,59291,DUY5HXSG5HKNWEE86,5-Cylinder,Automatic,Diesel
+971,chevrolet,e-golf,2015,115336,H8B3FNT38J145HW3F,10-Cylinder+,Automatic,Diesel
+972,volkswagen,suburban,2004,197031,THXNDKS52EY0556PN,4-Cylinder,Automatic,Electric
+973,suzuki,x6 m,2006,35122,6F95E9JW0YHMJTK6C,6-Cylinder,Manual,Diesel
+974,mazda,transit connect cargo,1994,82433,KXT3VVT9XLVXGC694,10-Cylinder+,CVT,Electric
+975,mazda,crossfire,1998,132200,HFTDDEXR6G13CD7H9,8-Cylinder,Manual,Hybrid
+976,volkswagen,srx,2019,163310,9BLMAPYH8PJJ8M4AH,6-Cylinder,CVT,Gasoline
+977,nissan,q7,2012,131198,HS2048FK28FCAJSKS,10-Cylinder+,Automatic,Hybrid
+978,plymouth,gle coupe,2007,115268,9N0KYY884CSB06FXE,3-Cylinder,CVT,Hybrid
+979,hyundai,570s,2018,119359,9MG6MX201TVPS3NBK,5-Cylinder,Manual,Diesel
+980,oldsmobile,continental,1993,160606,JHPWZ0MGX7CR0TNCC,5-Cylinder,CVT,Hybrid
+981,mercury,laser,2004,110056,ZB1VKP9E3KD7EM7KA,5-Cylinder,Manual,Diesel
+982,bmw,a6,2011,86735,58VF7A2J8576YAPKC,3-Cylinder,Automatic,Hybrid
+983,hyundai,express 2500 passenger,1995,189249,FD8A91JK7B208FEZN,4-Cylinder,CVT,Hybrid
+984,kia,montero,2015,366,YK51DYP99XUGBB405,6-Cylinder,Automatic,Diesel
+985,mercedes-benz,300 te,2019,36259,LKDBCYEHXS8PSP02A,8-Cylinder,CVT,Diesel
+986,lincoln,gx,2006,81744,099L9CJ41AMLW3HRT,5-Cylinder,CVT,Electric
+988,bentley,cx-9,2004,100352,1URRHTTW9R5ZVBCXH,8-Cylinder,CVT,Gasoline
+989,oldsmobile,sierra 2500 crew cab,2001,54998,U18ZVWVP50KHRX2RV,6-Cylinder,CVT,Diesel
+990,mercedes-benz,a4 allroad,2011,149150,2U3YYP2Y5FZ7PF8UP,2-Cylinder,Manual,Hybrid
+991,lexus,sportage,2020,108764,USWG28UZ471MNH0M8,3-Cylinder,Manual,Hybrid
+992,kia,leaf,2018,151757,MNCBK51Y3DKYP7XB1,5-Cylinder,Automatic,Electric
+993,infiniti,gti,2008,77295,J53H0T010UFKL4ZDB,6-Cylinder,Automatic,Gasoline
+994,volvo,suburban 1500,1995,108357,D5NR0VJ21KN9PCR6U,2-Cylinder,Manual,Gasoline
+995,ford,town car,2009,135367,B90ZUBPU5RNDYBE1B,4-Cylinder,CVT,Diesel
+996,gmc,savana 2500 cargo,1995,87053,FMPGJ0055EF8D5HH3,5-Cylinder,CVT,Hybrid
+998,gmc,xc90,2011,187125,S8ZHRDDG8TBA20986,10-Cylinder+,Automatic,Diesel
+999,oldsmobile,silverado 2500 hd regular cab,2002,112347,EFVL7PC93VTD3WMY4,5-Cylinder,Manual,Diesel
+1000,hyundai,s-class,1998,49902,B4AV0YU77VVYHK7X0,10-Cylinder+,Manual,Gasoline
+1001,ford,f350 super duty crew cab,2017,70957,6JNNN1B57H99TXGDK,10-Cylinder+,Automatic,Electric
+1002,buick,ram 1500 regular cab,2014,153944,K072YF8729H2AG04S,2-Cylinder,Automatic,Gasoline
+1003,toyota,c70,2015,126160,RXZZMKJN907AWL8JT,5-Cylinder,CVT,Hybrid
+1004,toyota,v40,2013,30468,NUX96R9P9KHPCBBY4,2-Cylinder,Manual,Electric
+1005,lexus,sunfire,2019,184289,K7C7G9W91WY7MN2SA,6-Cylinder,CVT,Diesel
+1006,ram,flying spur,2015,38572,9FUGGAEE23RKHLCRZ,6-Cylinder,CVT,Gasoline
+1007,mitsubishi,express 3500 passenger,2004,95999,UHE3RRU83ZDV2W225,6-Cylinder,Automatic,Gasoline
+1008,chrysler,x4,2004,128002,H0K7ZS497LRS9KDUJ,10-Cylinder+,Automatic,Electric
+1009,ford,highlander,1992,136910,F4HDEXXA4EXGDEEVW,5-Cylinder,Automatic,Hybrid
+1010,ram,phantom,1992,116389,MZZX870K5U8GVZJM7,8-Cylinder,Manual,Gasoline
+1011,mercedes-benz,m2,2015,109672,P9PMRRX366FY7Z0X1,2-Cylinder,Manual,Gasoline
+1012,buick,srx,2015,46643,JESWP5ZD58Z2KXM1J,4-Cylinder,Manual,Hybrid
+1013,nissan,silverado 3500 hd regular cab,2006,44340,FRYV1KHY7PZAYXH36,5-Cylinder,Manual,Diesel
+1014,isuzu,new beetle,1994,26225,PUHHH1423G6ABBNLL,8-Cylinder,CVT,Electric
+1015,toyota,eurovan,2020,16333,MFK87E1K29TN74SAH,8-Cylinder,Automatic,Diesel
+1016,chevrolet,crossfire,2000,65071,SKFL5D33027SVYYW3,8-Cylinder,CVT,Electric
+1017,mercedes-benz,s-type,2015,86038,WUDRSRH4XG6LZ2HU9,3-Cylinder,CVT,Hybrid
+1018,acura,maxima,1997,77840,WUTJZZYPXDM62Y804,10-Cylinder+,CVT,Electric
+1019,nissan,dakota quad cab,2018,90405,KGA9K4LR2GA7B6ZSL,5-Cylinder,CVT,Diesel
+1020,mercury,ff,2017,146890,XE3J42ZN58E5URRME,2-Cylinder,Manual,Hybrid
+1021,chevrolet,ram van 1500,2020,162624,ADYPVREFXDW5D8DM7,5-Cylinder,Automatic,Hybrid
+1022,porsche,s60,1993,148729,29ER5DRH9DSKHCDDM,8-Cylinder,Manual,Electric
+1023,volkswagen,astro cargo,2017,102121,7B872Z3P76ZUCS6AR,5-Cylinder,CVT,Diesel
+1024,acura,esteem,2008,7639,G76A55412WRGTWG38,5-Cylinder,Manual,Gasoline
+1025,dodge,sierra 2500 hd crew cab,1999,29174,LG0WPK8H9HLY1XD0R,8-Cylinder,Automatic,Electric
+1026,mazda,expedition,2006,78073,KE4CPV0L6GXUPHX64,8-Cylinder,CVT,Gasoline
+1027,lincoln,ram 2500 club cab,2000,1813,U7RNAFA075P0FNXXD,8-Cylinder,Automatic,Electric
+1028,ford,ct,2002,6989,PD8HVMA73JWAFZYZR,2-Cylinder,CVT,Electric
+1029,chevrolet,hardtop,1992,41070,BV2W69A8707R6M8PS,8-Cylinder,Manual,Electric
+1030,hyundai,pt cruiser,1996,118704,0CNWADX56U1ENSSFU,4-Cylinder,CVT,Electric
+1031,volkswagen,fortwo,2001,89018,PB2MNJGP3J6D4WE13,2-Cylinder,CVT,Electric
+1032,land rover,500 sel,2004,154895,8GMLLP1P5KEB91UUZ,10-Cylinder+,Automatic,Diesel
+1033,chevrolet,mx-5 miata,2016,63518,X69620619TSWZ395E,3-Cylinder,CVT,Electric
+1034,nissan,xterra,1998,188116,JZD0RSRB1MDLKVVHM,10-Cylinder+,CVT,Diesel
+1035,ford,soul,2004,86458,YPDAM22Y57YFS7PTV,10-Cylinder+,Automatic,Electric
+1036,mercedes-benz,baja,2009,116110,2T7PV0F65BNC30W3V,3-Cylinder,CVT,Electric
+1037,chevrolet,v90,2007,116857,7K80ANXX1SYW9F9M4,6-Cylinder,Automatic,Electric
+1038,toyota,cube,1998,3892,PBNK05MW6XG8VNZRK,2-Cylinder,CVT,Electric
+1039,chevrolet,ion,2006,56196,UXDP72B82EXTAZ14C,5-Cylinder,Automatic,Gasoline
+1040,mercury,q,2007,42661,20353FM05MV4GJ0CF,3-Cylinder,CVT,Diesel
+1041,lexus,sierra 1500 extended cab,2012,31136,4XNRGL6T1E9W65XPG,5-Cylinder,CVT,Electric
+1042,mini,tacoma xtracab,2014,79115,BSW9SWEJ48NAZSMFK,8-Cylinder,CVT,Diesel
+1043,dodge,cruze,2002,7259,31ZMA96N63J1UN41L,2-Cylinder,CVT,Gasoline
+1044,gmc,q5,2003,107929,G479CXCT1T2WZ7FTH,4-Cylinder,Automatic,Diesel
+1045,hyundai,canyon crew cab,1992,65527,JGGVPKB768ULHUXTL,2-Cylinder,Manual,Electric
+1046,chevrolet,sq5,2011,84938,JPSMWAL63P0M8VGDJ,2-Cylinder,CVT,Gasoline
+1047,acura,rally wagon 1500,2016,44445,JR2UYB4J9UEYR3EK4,3-Cylinder,Manual,Gasoline
+1048,porsche,sprinter 2500 crew,2000,68202,3WCNHG8852P5SW1HD,3-Cylinder,Automatic,Electric
+1049,ford,lumina passenger,2018,129394,5ERPVS7P06PE4RSSB,8-Cylinder,Manual,Diesel
+1050,dodge,blazer,2018,155772,RYTVF0U47SNBDP7KT,2-Cylinder,CVT,Hybrid
+1051,chevrolet,f150 super cab,1997,197832,3CT4WSN36CHBWYKDK,6-Cylinder,CVT,Gasoline
+1052,mercedes-benz,s10 extended cab,2008,150702,DDXKFX3Y104DR8LYM,10-Cylinder+,CVT,Hybrid
+1053,alfa romeo,1500 crew cab,2014,97701,JW0G1AHP1V0MRKZRU,4-Cylinder,Manual,Hybrid
+1054,mercedes-benz,fusion,2006,171853,064PLNJZ5YCAWG2B2,4-Cylinder,Manual,Gasoline
+1055,mercedes-benz,laser,2011,152245,WK8SAK5L5X75SNBZY,2-Cylinder,CVT,Hybrid
+1056,gmc,corolla hybrid,1992,108162,P7B111ML6ZD9YVP2Z,10-Cylinder+,Manual,Hybrid
+1057,nissan,silverado 1500 double cab,2006,73389,TW2Y1ZWB75TGR50BD,10-Cylinder+,Manual,Diesel
+1058,ford,500,2007,147871,H6PHZLZJ9SG783ZKB,4-Cylinder,CVT,Diesel
+1059,ford,s-class,2019,189599,NMBX80ZE7F7SRPS9T,8-Cylinder,CVT,Electric
+1060,acura,silverado 1500 regular cab,2020,113238,3C4PJMW2859TCMUGL,10-Cylinder+,Manual,Gasoline
+1061,chrysler,s-class,1992,121903,SJVCYD3M51CTLB544,5-Cylinder,CVT,Hybrid
+1062,acura,ridgeline,2013,180877,MSAGMLTJ58G0DDLZZ,6-Cylinder,CVT,Hybrid
+1063,dodge,1500 extended cab,1994,17707,URYC28ZP4RXSTN4C1,4-Cylinder,Automatic,Diesel
+1064,audi,city express,2017,33387,3SYEF4NG4J61L4FDJ,3-Cylinder,CVT,Gasoline
+1065,nissan,dakota quad cab,2013,192415,2S7PE0J1XL2874CEJ,6-Cylinder,CVT,Diesel
+1066,maserati,sidekick,2016,7815,Y5TESHEZ3DKEYYKZ7,10-Cylinder+,Manual,Diesel
+1067,audi,vibe,2002,74182,ZHB4WH18XXZX1BRP1,8-Cylinder,Manual,Gasoline
+1068,ford,regal,2019,175750,16PAAU46823B53VTH,2-Cylinder,CVT,Diesel
+1069,chevrolet,nubira,1995,52688,4AZ6THRH64760TZAF,10-Cylinder+,CVT,Hybrid
+1070,mitsubishi,century,2010,177645,CPZN2SV42D9WPCKJU,4-Cylinder,Manual,Hybrid
+1071,mercedes-benz,tundra access cab,1997,134454,75DALJYV1H1WX6AY9,5-Cylinder,CVT,Hybrid
+1072,ford,gl-class,2005,119989,W7FAUV6404PLL4DWF,6-Cylinder,CVT,Hybrid
+1073,toyota,164,2012,55668,HVR3XL543JV1RXF3E,5-Cylinder,Automatic,Hybrid
+1074,toyota,convertible,2015,76981,DHTYHF0X9EZ8G1DDF,5-Cylinder,CVT,Diesel
+1075,ford,gransport,2007,37718,93XHNDTC9C88LP4YE,8-Cylinder,Automatic,Diesel
+1076,porsche,m,2002,72275,ARA4DG6P0Z5UNDZGF,8-Cylinder,Manual,Electric
+1078,chevrolet,3000gt,2014,99612,4WJRZ9MF8K7N7MY9C,5-Cylinder,Manual,Electric
+1079,mitsubishi,rx,2003,33747,RE7NS25E9MDKZL7WK,8-Cylinder,Automatic,Hybrid
+1080,mazda,safari cargo,2004,12060,18S3SGYR5AX109SA7,5-Cylinder,CVT,Diesel
+1081,geo,rdx,2011,134483,5MUJLGW121N6739AK,3-Cylinder,Manual,Gasoline
+1082,cadillac,cl,2011,149885,JLFW78F83PBHR2560,4-Cylinder,Automatic,Electric
+1083,hyundai,mustang,2016,40182,327NK2NDX5SUM97SF,2-Cylinder,CVT,Gasoline
+1084,bmw,mustang,2019,83660,G18NP0G98SLVWUG3V,4-Cylinder,Automatic,Hybrid
+1085,ram,cadenza,1995,162285,WU738XNN2JRRJRFWX,8-Cylinder,Automatic,Diesel
+1086,nissan,silhouette,2001,67217,X2UNJL9E4HLA2G1SZ,5-Cylinder,Manual,Gasoline
+1087,toyota,thunderbird,2015,11662,JNYJ80X35C7W2EPMY,3-Cylinder,Manual,Hybrid
+1088,nissan,tucson,2000,174866,A4NNHZ009EF02EJFK,5-Cylinder,CVT,Gasoline
+1089,volkswagen,passat,2018,196990,7PT5H4G629T4CY7G1,10-Cylinder+,Manual,Hybrid
+1090,volvo,xterra,2012,88401,GDTXTAD718ZHMRKZT,5-Cylinder,Automatic,Gasoline
+1091,infiniti,xb,1997,97282,BZPYC1V43NL93X8UE,6-Cylinder,Manual,Electric
+1092,audi,metris worker passenger,2009,182745,AYH63VVT2HJ00R7D1,8-Cylinder,Automatic,Diesel
+1093,land rover,tacoma regular cab,2008,51055,YLK2XABY377KUTKC5,8-Cylinder,CVT,Diesel
+1094,chevrolet,sebring,2010,52234,GY2AA5ZY1HYCCJ2SF,10-Cylinder+,CVT,Diesel
+1095,bmw,s80,2015,140229,B7Z93NCH57S2RL7MV,8-Cylinder,CVT,Electric
+1096,cadillac,grand caravan passenger,2005,102412,5L6MLKLWXG3P6TTMY,10-Cylinder+,CVT,Hybrid
+1097,kia,quattro,2018,140156,BFUDAVRC0HL9B947Z,2-Cylinder,CVT,Hybrid
+1098,toyota,cla,2009,185912,DUDYTG3M7EGE5ZRZG,8-Cylinder,Automatic,Diesel
+1099,nissan,hombre regular cab,2007,193061,N6ABR7TWX01B4UEX6,4-Cylinder,Manual,Gasoline
+1100,mini,cr-z,1997,110674,7E7DLG9X83599S4AY,10-Cylinder+,Manual,Diesel
+1101,chevrolet,esperante,2013,38640,XKDV5BEU04H0DEGFT,2-Cylinder,CVT,Diesel
+1102,cadillac,grand marquis,2007,45605,9GBPCJWK8KLZS6MRE,10-Cylinder+,CVT,Diesel
+1103,audi,continental,2010,141293,8YZL8ABF26ENB6NGM,4-Cylinder,Automatic,Diesel
+1104,mitsubishi,mks,2017,125200,5W12GM6A43TXBE4YD,4-Cylinder,Automatic,Electric
+1105,ford,tl,2001,70402,G1F0Z0618KCGGMPRL,6-Cylinder,Manual,Hybrid
+1106,infiniti,sierra 1500 double cab,2015,121524,ULR3A5367KBFG51S5,6-Cylinder,Automatic,Diesel
+1107,mazda,ram wagon 1500,2015,16435,JLHLKF4G945H7EH6B,10-Cylinder+,Manual,Electric
+1108,honda,silverado 2500 hd extended cab,1998,83595,MHHSV7TZ8WB8N2G50,5-Cylinder,Automatic,Hybrid
+1109,nissan,tacoma xtracab,2015,74293,F3WHC7TZ7LZVBSY8H,6-Cylinder,Manual,Diesel
+1110,dodge,mx-5 miata,2017,121526,WSRLE9HV78X9Y2L3N,10-Cylinder+,Automatic,Diesel
+1111,lincoln,tt,2016,103256,917PHBK113ANVH347,10-Cylinder+,CVT,Electric
+1112,chevrolet,new beetle,2016,111498,H4SCPG4W2AAEVBL5V,4-Cylinder,Automatic,Electric
+1113,suzuki,5 series,1994,8160,LEWC63E85YVE9KZZB,6-Cylinder,Automatic,Diesel
+1114,subaru,sierra 1500 crew cab,2002,194464,KK3NE919394JNUZPS,10-Cylinder+,Manual,Diesel
+1115,mitsubishi,escort,2004,59593,WPK04PYB11CY7ARVL,8-Cylinder,CVT,Gasoline
+1116,pontiac,cc,2016,30583,65JXA7J48981G8M60,4-Cylinder,CVT,Diesel
+1117,volvo,captiva sport,2007,93935,ST7864B98UJXATBJD,5-Cylinder,Automatic,Gasoline
+1118,bmw,accent,2010,113267,TLAU3X865CPRU2AAW,5-Cylinder,Automatic,Gasoline
+1119,ford,a6,2005,47548,JGJNBUK36JNNE6PUN,3-Cylinder,Automatic,Gasoline
+1120,ford,tc,2014,26962,D8XX0XEL60VK4SZVS,8-Cylinder,Manual,Gasoline
+1121,mitsubishi,tacoma double cab,2010,26788,CBZSW09Z73A3Y8P6F,10-Cylinder+,Manual,Diesel
+1122,mercedes-benz,sierra 3500 hd regular cab,1998,137098,6YT4PB9R55TH7N50S,5-Cylinder,Manual,Diesel
+1123,gmc,c-class,2006,161545,K7S3YTER3H93RH9KM,6-Cylinder,CVT,Electric
+1124,toyota,dts,2018,166170,WNZWNBM02T5CH3AH9,10-Cylinder+,Manual,Diesel
+1125,ford,element,1996,186292,BTL7DH8G1ZDC13CTH,8-Cylinder,Automatic,Hybrid
+1126,chevrolet,navigator,2005,68250,0UNCNRHZ5MRESF9WJ,6-Cylinder,CVT,Diesel
+1127,aston martin,intrigue,2015,10025,MEGEMWMRX3GMV5TJX,6-Cylinder,Manual,Hybrid
+1129,scion,grand caravan passenger,2000,4688,UFG2JSTM37RLMWMWC,3-Cylinder,CVT,Gasoline
+1130,dodge,caravan passenger,2010,92502,XSHK57DG1GN4K24PS,3-Cylinder,Manual,Diesel
+1131,dodge,allroad,2004,52781,AP5K8AV27RWUP1P8R,3-Cylinder,CVT,Hybrid
+1132,buick,montero sport,1992,141150,HVV4Y1J00WKEKB42T,5-Cylinder,Automatic,Electric
+1133,lotus,silverado 1500 regular cab,2019,142893,93X1L5MC64NJ6ZFF1,4-Cylinder,Automatic,Hybrid
+1134,audi,grand vitara,2019,113789,6HL638TV8D9XDJDUW,10-Cylinder+,CVT,Diesel
+1135,bmw,a3,2015,13298,X8SRS7CH87G0FFGK0,6-Cylinder,Manual,Electric
+1136,ford,solara,2012,197609,2EVE9CKU9WGW0JR3M,6-Cylinder,Automatic,Diesel
+1137,chevrolet,cx-9,1993,21720,5S17PSVB1DBX2VGFN,2-Cylinder,CVT,Gasoline
+1138,nissan,land cruiser,2006,168887,2DE631CG12J7U0V0C,4-Cylinder,CVT,Hybrid
+1139,mazda,500 abarth,2018,120806,A30LSMC09ZA1RTDCA,8-Cylinder,Automatic,Electric
+1140,chevrolet,deville,2011,42055,CWLS4HG837YWA3DDD,8-Cylinder,CVT,Hybrid
+1141,buick,3500 crew cab,2014,688,LKE3TXADX1GC8N7RW,6-Cylinder,Manual,Diesel
+1142,cadillac,daytona,2018,24072,PL7VYL5A9ZFWMNBLR,3-Cylinder,Automatic,Diesel
+1143,kia,is,2011,59289,UALU3XYA0MZ52BVNY,3-Cylinder,CVT,Diesel
+1144,mazda,town & country,2007,148321,CDLGGP419VE41EE8W,6-Cylinder,Automatic,Diesel
+1145,oldsmobile,beretta,2007,171572,YY43U97X2799MXCVB,2-Cylinder,Automatic,Hybrid
+1146,mercury,sebring,2018,63904,JN5ADCFHX2S1SE6WP,2-Cylinder,CVT,Electric
+1147,jaguar,california,2010,25746,SVG1MDFY4NJ2KJW97,8-Cylinder,Automatic,Gasoline
+1148,toyota,sonata hybrid,2018,157409,DYB2SBBS8ZEDK2HKP,3-Cylinder,Automatic,Gasoline
+1149,hyundai,rav4 hybrid,2001,118792,TPW54VMS60BDTX709,2-Cylinder,Automatic,Gasoline
+1150,saturn,celica,2020,192940,0LZZFJER99093XHWN,10-Cylinder+,Automatic,Diesel
+1151,ford,sts,1995,55242,XX7AYCUB78F6GVP3S,8-Cylinder,CVT,Electric
+1152,ford,caliber,1993,77044,HYT40LZ82MJLV0ENP,6-Cylinder,CVT,Hybrid
+1153,chevrolet,concorde,2018,120069,WH26ZYP67TDKKFBM5,8-Cylinder,Manual,Hybrid
+1154,chrysler,4runner,2010,102932,8KCAW4NR4TF6NWCHH,5-Cylinder,Automatic,Diesel
+1155,mazda,tempo,2007,193447,PHNVJPBH44U2231RC,2-Cylinder,Automatic,Hybrid
+1156,cadillac,xl7,1992,184724,LRXYE7ME018EAX9X5,2-Cylinder,Automatic,Electric
+1157,ford,mystique,2009,118544,SL1DNZ307KB17TN4G,3-Cylinder,CVT,Gasoline
+1158,lexus,sierra 1500 crew cab,2007,84591,MZGEL7MJ18CU2DGUN,2-Cylinder,Automatic,Gasoline
+1159,gmc,s4,2005,194799,U4YAE3892T9C0L3UJ,2-Cylinder,Manual,Hybrid
+1160,kia,ls,2006,154362,SMTSPFAF7Y5HU62LT,6-Cylinder,Manual,Gasoline
+1161,hyundai,ranger super cab,2012,149651,7VFBK7RNXXFFGX598,6-Cylinder,Automatic,Diesel
+1162,gmc,express 2500 cargo,2019,81297,9J1HZLUTXWAF8P43U,5-Cylinder,Automatic,Electric
+1163,honda,mercedes-amg sl,1996,174573,KTJTXK323BWNFMG1H,5-Cylinder,Manual,Diesel
+1164,fiat,grand prix,2010,71917,S0908VMA2R3TKLWJ3,10-Cylinder+,CVT,Hybrid
+1165,oldsmobile,e350 super duty cargo,2009,52639,VY15FSGB567AU50SY,8-Cylinder,Automatic,Diesel
+1166,chevrolet,626,1998,80428,28CAP9RJ1KH8H7254,10-Cylinder+,Automatic,Electric
+1167,mercury,q3,1992,158201,XWSBSGD1XFV7FZV6E,10-Cylinder+,Automatic,Hybrid
+1168,buick,forte koup,2005,181789,K203RKN5710AW0WPH,5-Cylinder,Automatic,Diesel
+1169,toyota,cadenza,2003,119632,FVSE62FR28B04ED7H,10-Cylinder+,Automatic,Electric
+1170,kia,s-type,2008,163769,45VJV0237P1RBYNHC,4-Cylinder,CVT,Hybrid
+1171,mitsubishi,tribeca,1993,119102,0PWUNASH9UFXZR57M,10-Cylinder+,Automatic,Diesel
+1172,oldsmobile,s2000,1998,24637,1EMRVUPX9GS74HYBJ,8-Cylinder,CVT,Diesel
+1173,mercedes-benz,savana 3500 cargo,1993,13688,0RBB8XFP49LDW17S8,10-Cylinder+,Manual,Gasoline
+1174,bentley,srx,2006,94364,Z27AD9B32E46UEBXA,3-Cylinder,CVT,Gasoline
+1175,mercedes-benz,ram 3500 regular cab,2005,45618,JTUT02144WG876X9A,5-Cylinder,CVT,Gasoline
+1176,kia,viper,2018,141713,WZALW20E08JBCH3BG,6-Cylinder,Automatic,Hybrid
+1177,chevrolet,odyssey,2006,70813,YCEB5BWM67EGU1Z4G,6-Cylinder,Manual,Diesel
+1178,chevrolet,f150 super cab,2005,5193,FKH0C1825REK77PZ3,4-Cylinder,Manual,Hybrid
+1179,nissan,sierra 2500 hd extended cab,2004,161356,2B5XA8LH2MCZY1V7H,5-Cylinder,Automatic,Gasoline
+1180,bmw,r-class,1997,479,ZTJB7N8Z78B0MYXAT,4-Cylinder,CVT,Diesel
+1181,isuzu,clubman,2010,91117,2UJ0C6L407A39FERP,4-Cylinder,Automatic,Electric
+1182,dodge,gt-r,2018,99623,LPDKSDNB5T9MW2CA6,10-Cylinder+,CVT,Hybrid
+1183,infiniti,tl,2019,85046,KBC8Y2Z70K0XVT114,6-Cylinder,CVT,Diesel
+1184,infiniti,land cruiser,1999,65547,FLZFTCSP93B8FM2X3,8-Cylinder,Automatic,Gasoline
+1185,chevrolet,is,1999,26920,ZYLW097H5EES9K6US,4-Cylinder,CVT,Gasoline
+1186,chevrolet,300 te,2018,69293,9DG0C65404D8CD03G,8-Cylinder,Automatic,Hybrid
+1187,hyundai,macan,2018,2750,CMTAJ05T6F2HYB9ZX,10-Cylinder+,Automatic,Gasoline
+1188,gmc,expedition,1995,173169,4ZMLK7912NSXAVFRB,3-Cylinder,CVT,Diesel
+1189,nissan,is,2017,87428,JNFZ15RN3PSD9CYD6,4-Cylinder,Automatic,Electric
+1190,nissan,corolla,2005,69597,0V7UUANP6JLSZWHC6,8-Cylinder,CVT,Diesel
+1191,pontiac,avalanche,2018,193928,ZGA2R6KZ5YKRS6PMS,4-Cylinder,Manual,Gasoline
+1192,chevrolet,yukon xl 1500,2000,137185,3H0VZU3DXVBSMVK4M,3-Cylinder,CVT,Hybrid
+1193,chevrolet,concorde,2006,11176,85E1VGCD5DDCT3GVK,4-Cylinder,Automatic,Diesel
+1194,ford,titan king cab,2016,147172,4AHRXJMM8HD30L7UA,8-Cylinder,Manual,Gasoline
+1195,mercury,e-class,1994,82039,VA2R8NAN0Z5JL86TZ,2-Cylinder,Manual,Diesel
+1196,ford,navigator,1992,129090,9P6APE5B6TUKVN7JM,3-Cylinder,Automatic,Hybrid
+1197,gmc,savana 2500 cargo,2001,47104,8H4JRCCM3P8NDDJ0S,4-Cylinder,Automatic,Diesel
+1198,lexus,gs,2013,10056,G2FM070J62HEMNAN8,6-Cylinder,Manual,Gasoline
+1199,chevrolet,x5,2005,164168,NFT37DVW0JY61C64V,5-Cylinder,Manual,Hybrid
+1200,cadillac,a8,2003,1434,9L933V9E84JWV0EK8,6-Cylinder,Manual,Hybrid
+1201,mitsubishi,f250 super duty super cab,2015,156913,D4FPZW4737BJJFSHS,3-Cylinder,CVT,Hybrid
+1202,mazda,sentra,2013,5077,XEW5L6CB7AC1PSKBW,2-Cylinder,Automatic,Diesel
+1203,bentley,3 series,2014,151874,SL7AHEDT3SKRCW8NY,3-Cylinder,CVT,Hybrid
+1204,land rover,qx30,2015,39607,1V5HH74S2NKP76M3D,4-Cylinder,Manual,Gasoline
+1205,subaru,continental,2002,101958,G316807T53KX4PGUN,5-Cylinder,Automatic,Diesel
+1206,chevrolet,s2000,2008,90251,20NBXK1J2S7MW5D43,3-Cylinder,Automatic,Electric
+1207,mitsubishi,x3,2010,154190,ZA502KH8XP93EU3JV,5-Cylinder,Automatic,Electric
+1208,nissan,savana 2500 passenger,2004,89745,R6UM21XU9VJPHZWZA,5-Cylinder,Automatic,Gasoline
+1209,nissan,tracker,2004,95749,9S1RSA86X8E7DKR3M,4-Cylinder,CVT,Gasoline
+1210,volkswagen,grand cherokee,2012,94606,LRNC90UR6M00WPNHZ,10-Cylinder+,Automatic,Diesel
+1211,gmc,corvette,2014,55784,1BTS6XR4541N0NV0G,5-Cylinder,Automatic,Hybrid
+1212,ford,gti,2015,132534,8LAF9S3K18PEFW9Z2,6-Cylinder,Automatic,Gasoline
+1213,mitsubishi,express 2500 passenger,1992,152759,DGED92537DP2DVX0R,4-Cylinder,Manual,Hybrid
+1214,hyundai,verano,2013,93763,N2BF6PU74J99AC1H5,2-Cylinder,CVT,Diesel
+1215,dodge,solara,2009,117087,WJHSP59C94AC03CNL,3-Cylinder,CVT,Gasoline
+1216,volkswagen,aerio,2001,94473,719878UX9C80JLE0U,10-Cylinder+,Automatic,Electric
+1217,cadillac,rsx,2014,68011,F8XHGNUL30TA48YNW,10-Cylinder+,Manual,Gasoline
+1218,nissan,tacoma access cab,2000,21209,2FB8TU26X2690LHKS,4-Cylinder,CVT,Hybrid
+1219,nissan,quest,2009,173663,N9LM8MJ42XLHY092B,2-Cylinder,Manual,Hybrid
+1220,mercedes-benz,e150 passenger,2002,54245,2CL5MVNY6YLJC6XG6,4-Cylinder,CVT,Gasoline
+1221,mercedes-benz,370z,1992,120516,2RWCNS0G4W5F82AH9,10-Cylinder+,Manual,Hybrid
+1222,honda,armada,2020,95833,1EUVW5D700NPWYTL6,10-Cylinder+,Manual,Gasoline
+1223,nissan,sl,2000,107260,SF035M8G3DEPR75JB,8-Cylinder,CVT,Diesel
+1224,volkswagen,s7,2018,101798,C4F17JZB3856CFHXS,4-Cylinder,Automatic,Gasoline
+1225,porsche,cx-9,2001,806,PHNTUKHU45UZFH7AC,10-Cylinder+,Automatic,Hybrid
+1226,aston martin,explorer,1998,129420,GRK2GVJG8E6G5DU6V,4-Cylinder,CVT,Gasoline
+1227,gmc,econoline e250 cargo,2002,16002,924HUTT36EW58RH6D,2-Cylinder,CVT,Hybrid
+1228,mercedes-benz,is,2013,83994,JW0NTD9T98HPENCCD,5-Cylinder,CVT,Electric
+1229,chevrolet,g-series 1500,2000,41722,XGENR3C32ZDR2YG6B,4-Cylinder,CVT,Gasoline
+1230,geo,spectra,2011,188237,XZDLCR0L8W49WRVC3,6-Cylinder,Automatic,Gasoline
+1231,ford,california,2019,119964,YL0NHBVF5CTXWE1XD,8-Cylinder,Manual,Diesel
+1232,subaru,sportage,2005,133175,A63VTL5Y4L65BT88X,3-Cylinder,CVT,Gasoline
+1233,jaguar,titan king cab,1993,7488,K8WD0YL15UWYC8CLP,3-Cylinder,CVT,Hybrid
+1234,ford,2500 crew cab,2009,54267,KK9Y32PF7WGPL3SSG,8-Cylinder,CVT,Gasoline
+1235,nissan,5 series,2008,163415,831Z4ASBX4XYUFMSX,4-Cylinder,Automatic,Diesel
+1236,suzuki,tundra regular cab,2020,57848,1UPD24T23EG4YU74Z,5-Cylinder,Manual,Gasoline
+1237,gmc,m-class,2009,189402,XEMEPCSR00R7T8703,3-Cylinder,Manual,Electric
+1238,isuzu,colt,2012,32858,N6HPT4P20KP2MAVSU,8-Cylinder,Automatic,Diesel
+1239,jeep,grand voyager,1998,94681,GVA4WL0A6S6LX9FL1,5-Cylinder,Automatic,Diesel
+1240,volvo,sprinter 2500 cargo,2019,195160,BF8FD3K91RSNYXP13,8-Cylinder,CVT,Electric
+1241,toyota,f150 supercrew cab,2005,81176,1YU2AX7G39A9PMPLZ,2-Cylinder,CVT,Electric
+1242,bmw,xd,1997,68228,PV3LWWF27EEXND9VG,4-Cylinder,Automatic,Diesel
+1243,acura,sportage,1999,52965,6REUAX079P925MV9A,5-Cylinder,Manual,Gasoline
+1244,subaru,mountaineer,1999,9898,NUDA9K9J45VCJSSZV,6-Cylinder,Manual,Hybrid
+1245,lexus,c/v,1995,76668,R23NRX283G3PFCCYY,4-Cylinder,Automatic,Hybrid
+1246,ford,transit connect passenger,2007,70855,NHEX7X5X92LLPWDVB,2-Cylinder,CVT,Electric
+1247,volkswagen,sierra 3500 hd crew cab,2011,80564,3P6A5HUS9G4TLKVV9,4-Cylinder,CVT,Diesel
+1248,jaguar,ilx,2005,54825,L2D5LDNT6P1V1JPHY,8-Cylinder,CVT,Gasoline
+1249,gmc,pathfinder,2018,27459,ENZZ07V564ENJ91V5,6-Cylinder,CVT,Hybrid
+1250,ford,express 1500 passenger,1992,75132,ETJ119PL9X0M1CLAV,6-Cylinder,Automatic,Diesel
+1251,jaguar,rdx,2018,73145,4W5GT8BV7ZLNVEVEN,2-Cylinder,CVT,Hybrid
+1252,dodge,c-class,2016,108438,U3A35FTR2E54D202B,4-Cylinder,Manual,Electric
+1253,kia,relay,1993,137526,UP5KUC6Z5WLJXJGUG,3-Cylinder,Manual,Gasoline
+1254,kia,nx,1993,146115,7XWT1RFM01JZT9072,4-Cylinder,Manual,Hybrid
+1255,mazda,ls,2005,190999,2YDBY5X32LB5DR1MY,5-Cylinder,CVT,Electric
+1256,ford,celica,2006,175481,NGSZT8N2818DM5383,5-Cylinder,Automatic,Gasoline
+1257,audi,6 series,2001,110587,ZVZ1C63ZXDFC1MDFS,4-Cylinder,CVT,Hybrid
+1258,mercedes-benz,a5,1994,90134,N6LBL3SW3W3JS3D0E,3-Cylinder,CVT,Gasoline
+1259,gmc,rs 3,2020,33043,EG2885LW19GMKJG05,8-Cylinder,Automatic,Diesel
+1260,gmc,e150 super duty cargo,2019,97668,HEMDBB3G1PAAGHBJ2,5-Cylinder,Automatic,Diesel
+1261,suzuki,supra,2002,141314,ZBWKBVJ31NW4UMUJ2,4-Cylinder,Automatic,Gasoline
+1262,mercedes-benz,q50,1993,50607,M1K98AR51P9AFH385,5-Cylinder,Manual,Electric
+1263,chevrolet,escape,1993,105497,BKFKTYBK0N73JD4K1,10-Cylinder+,Manual,Electric
+1264,buick,4 series,2017,8565,31FBNWMA0RAV63WFA,8-Cylinder,CVT,Diesel
+1265,saab,q7,2002,149450,ZEEMV0S24UHG6101T,4-Cylinder,Manual,Hybrid
+1266,toyota,cougar,2011,88707,TSBRSBUR6SXFAY20G,4-Cylinder,Automatic,Diesel
+1267,toyota,sierra 3500 hd crew cab,2015,71650,CC0WF4JN48HB97SV4,10-Cylinder+,Automatic,Diesel
+1268,ford,f450 super duty crew cab,2011,100843,VXWSLAF49Z98PA38E,4-Cylinder,Manual,Gasoline
+1269,bmw,57,2012,2990,4PF7VN190BXAJ1A05,4-Cylinder,CVT,Electric
+1270,dodge,savana 3500 cargo,2001,187362,GYJZRXCN2A93C1YGV,3-Cylinder,Automatic,Electric
+1271,gmc,metro,2016,197457,46DC8WPX1NJ6EXKUP,6-Cylinder,CVT,Hybrid
+1272,chrysler,sentra,2009,133519,TF5G334V9FMUANA0J,10-Cylinder+,Manual,Gasoline
+1273,dodge,firebird,1992,55585,KJM644UG9Z8L9P22M,6-Cylinder,Automatic,Gasoline
+1274,volkswagen,sonata hybrid,1993,173284,NDPBCZ7F9L6S01JL5,2-Cylinder,CVT,Gasoline
+1275,land rover,lancer,2001,167978,BNWR1BFV4P7WSUXEB,3-Cylinder,Manual,Hybrid
+1276,freightliner,tacoma double cab,2016,85937,5L1KP5ZK2A1451GDV,3-Cylinder,Automatic,Electric
+1277,mazda,wrx,2008,25647,1WG8P4813GRE0G8N2,3-Cylinder,Manual,Gasoline
+1278,land rover,sierra 3500 hd extended cab,1992,17013,CVPSVVRN7GCVTZNHK,10-Cylinder+,Manual,Diesel
+1279,cadillac,navigator,1998,39106,P0KSPSG935MYJSFSS,2-Cylinder,CVT,Gasoline
+1280,ford,dakota extended cab,2015,62393,FSJLJJDT7MGSTJNSV,4-Cylinder,Manual,Diesel
+1281,scion,a7,1992,14204,GY6W9B9H8UANUSMM0,8-Cylinder,Automatic,Gasoline
+1282,toyota,3500 club coupe,1994,144643,KHKGGY2C233JCWCS7,4-Cylinder,Manual,Hybrid
+1283,ford,f250 super duty regular cab,2010,57009,BRMEV6PMXUDCCMHPC,10-Cylinder+,Automatic,Electric
+1284,cadillac,altima,2013,187716,XDUTDN353TR7VHARC,2-Cylinder,Automatic,Electric
+1285,audi,transit 150 wagon,2000,118153,YWES16A963H0DY7MJ,4-Cylinder,CVT,Electric
+1286,nissan,crown victoria,2009,125564,NYLEMWST1GPB7AYU5,3-Cylinder,CVT,Gasoline
+1287,ferrari,integra,2014,157995,BRC9Z1U32HJCLETZR,2-Cylinder,Manual,Electric
+1288,ford,camaro,2002,91951,58ZUT9974TERKZJV9,5-Cylinder,Automatic,Hybrid
+1289,mercedes-benz,is f,2003,43818,07X4U8GK2WKEWBVL0,3-Cylinder,Automatic,Hybrid
+1290,jeep,elantra,1997,28814,782H13M96N4217YYY,5-Cylinder,Automatic,Diesel
+1291,ferrari,mustang,1993,72488,YYDKHVE275BXRYZ7N,4-Cylinder,Manual,Electric
+1292,lexus,tiburon,2000,55503,0M75L3JY2VD7HLAA2,4-Cylinder,Manual,Diesel
+1293,toyota,forester,2008,151864,202MERWP7U9VDB84H,5-Cylinder,Manual,Electric
+1294,toyota,odyssey,2004,9162,Z10USH6NXW6X8B3MA,10-Cylinder+,CVT,Diesel
+1295,hyundai,sonata plug-in hybrid,1992,163852,248FCUDVXU17D8474,5-Cylinder,CVT,Electric
+1296,pontiac,fusion energi,2018,13992,1CKX6RLB8TYDF1B5J,4-Cylinder,Manual,Diesel
+1297,gmc,f250 super duty super cab,1999,86930,TSBHH3N44Z7ME1889,10-Cylinder+,Automatic,Hybrid
+1298,jeep,f150 regular cab,2003,27830,JGVMPE6G5LKM14LEW,8-Cylinder,CVT,Electric
+1299,chrysler,corvette,2018,88873,JJ7LW3LD921NNNLHP,3-Cylinder,Manual,Diesel
+1300,chevrolet,promaster window van,2005,171346,A8LP5SZ01VK5BLMSG,10-Cylinder+,Manual,Gasoline
+1301,audi,a7,1995,165254,8RMV9VF45UHP1LHUR,4-Cylinder,Automatic,Electric
+1302,chevrolet,aerostar cargo,1994,9022,Y2BR1XUV4EDWUWDLL,8-Cylinder,Automatic,Gasoline
+1303,ford,300zx,2002,73300,RJF0TDAP163U1EXS2,4-Cylinder,Automatic,Gasoline
+1304,ford,rx,2013,31873,LAT3K9SBXDKFZR8UJ,6-Cylinder,Automatic,Diesel
+1305,lexus,ram 50 regular cab,2010,60648,X51WHK44XJ1H2ST89,10-Cylinder+,Automatic,Hybrid
+1306,pontiac,tucson,2002,53504,X8A0Y8Y60NF9NUNHT,10-Cylinder+,CVT,Diesel
+1307,honda,town & country,1995,127934,RNL0PV5L8BH2UA0SE,8-Cylinder,Automatic,Electric
+1308,ford,zdx,2015,103236,FRWM3VER7FGUNGZ1V,8-Cylinder,Automatic,Diesel
+1309,dodge,rapide s,2010,59843,J8DNK8U19RB8M4KRV,4-Cylinder,Automatic,Electric
+1310,acura,mkt,2001,176317,88JREKUK3AKYYYS04,4-Cylinder,CVT,Hybrid
+1311,ford,suburban 1500,2009,159530,UY3MM17G106SHBUHU,10-Cylinder+,Manual,Diesel
+1312,ford,corrado,2019,144814,DB274X1Y28J5CX1UJ,5-Cylinder,Automatic,Electric
+1313,kia,range rover,1997,194403,9CYB85HJ1DK2SKKUN,5-Cylinder,Manual,Diesel
+1314,ford,3500 mega cab,2018,80404,YFSLR98X9ULW6W2UW,4-Cylinder,CVT,Gasoline
+1315,ford,s-series,1998,174641,681YL9C01XGH26WT9,8-Cylinder,Manual,Gasoline
+1316,chrysler,venture passenger,2006,167765,6862UL612D87UJGAX,3-Cylinder,Manual,Hybrid
+1317,toyota,cts,2018,78348,FCU65BK83SGBEV071,5-Cylinder,Automatic,Gasoline
+1318,buick,jetta,2010,89131,NPFFNX003HJGJDS9A,10-Cylinder+,CVT,Hybrid
+1319,gmc,murcielago,1996,113860,46GNCWJ66S9MTFZNR,8-Cylinder,Automatic,Gasoline
+1320,audi,r32,2003,84480,7U9XGSWA9FLL9N6X4,5-Cylinder,CVT,Diesel
+1321,chevrolet,r8,2016,79503,KABYBTGE6S8PGXJW8,8-Cylinder,Automatic,Electric
+1322,chrysler,pilot,2016,63570,DGVWHR5CXKT4SBD7S,4-Cylinder,CVT,Gasoline
+1323,hyundai,xtra cab,2013,82761,53KZGSWN2L1VCF7B5,2-Cylinder,Automatic,Diesel
+1324,ford,park avenue,1999,64168,77JFWVPH9HNP2TNL1,6-Cylinder,Automatic,Diesel
+1325,cadillac,econoline e250 cargo,2004,102880,7KHDKCF4900T8BWNG,5-Cylinder,CVT,Hybrid
+1326,acura,safari cargo,2000,178165,KDNSFEW5095YF19G1,6-Cylinder,Manual,Gasoline
+1327,bmw,verano,2015,137387,6720YLRC7PUH3YMMW,5-Cylinder,Manual,Gasoline
+1328,saturn,slr mclaren,2020,102301,KSWLGLG79BRTUEDNF,3-Cylinder,Manual,Gasoline
+1329,oldsmobile,cx-7,2019,158302,CJYDZCMM4T11XP8TS,4-Cylinder,CVT,Electric
+1330,volkswagen,titan single cab,2002,111559,1BB9R4PLXJ877H1US,2-Cylinder,CVT,Gasoline
+1331,panoz,g,2003,10650,KP8PVSDZ7TAS0SJGG,10-Cylinder+,Automatic,Electric
+1332,pontiac,town & country,1992,154780,F4RBRRE79D2HYC80Z,4-Cylinder,Automatic,Hybrid
+1333,volkswagen,countryman,2019,39579,37K2ADLE4CL6E1H9A,8-Cylinder,Manual,Gasoline
+1334,isuzu,sierra 1500 crew cab,2013,190067,RT3FDBPS9S5H52SPG,2-Cylinder,Manual,Gasoline
+1335,nissan,sierra 1500 regular cab,2015,132551,XK1GZ5ZU0JVP606J2,4-Cylinder,Manual,Electric
+1336,volkswagen,a8,2010,167211,V2H3VG873DZRUR329,5-Cylinder,Automatic,Electric
+1337,ford,highlander,2014,162595,9N7TCKAD6PMTWZ2AX,6-Cylinder,CVT,Diesel
+1338,gmc,impreza,2015,3472,KBVR0HF141SHCNXT0,5-Cylinder,CVT,Diesel
+1339,lexus,f350 super duty crew cab,2008,79058,Y72RB29D13E4VU3YR,2-Cylinder,CVT,Diesel
+1340,honda,300,2003,122358,ACN5YGP42B1LZ485L,2-Cylinder,Automatic,Electric
+1341,chevrolet,xc90,2013,171402,MFPS1CVN70PVVNX0M,8-Cylinder,CVT,Hybrid
+1342,nissan,ram 1500 regular cab,2002,92879,VBWXE14U429YENV1A,4-Cylinder,CVT,Hybrid
+1343,toyota,legacy,2019,177713,NLXWE12X9S56CHCK5,10-Cylinder+,Manual,Hybrid
+1344,gmc,2500 club coupe,2010,67871,PR9M96KC0G0EJF47E,8-Cylinder,Manual,Gasoline
+1345,scion,frontier crew cab,2001,118025,W8E52CZR6CT9SDXV3,2-Cylinder,Automatic,Electric
+1346,chevrolet,mulsanne,2011,165378,JEPYHUMH13UDC7ZSA,3-Cylinder,CVT,Gasoline
+1347,mercedes-benz,g,1996,24829,U04G8MMF961D9LWKJ,3-Cylinder,CVT,Gasoline
+1348,ford,gallardo,1993,104817,ASR9C7RM7709NCKPA,2-Cylinder,Manual,Electric
+1349,dodge,sprinter 2500 passenger,2010,193330,F96TEAJS06W7FANL6,4-Cylinder,Manual,Electric
+1350,mitsubishi,express 3500 passenger,2008,22707,DXE4M06771EAZM59D,10-Cylinder+,Automatic,Hybrid
+1351,volkswagen,ghibli,1999,6007,JXS2D7UY0ECGUA4HY,8-Cylinder,Automatic,Electric
+1352,gmc,tc,2009,114022,BVT213C68MGKRHLNM,5-Cylinder,Manual,Hybrid
+1353,gmc,prius c,1995,46239,NX7XWF161PXULSM63,10-Cylinder+,Manual,Gasoline
+1354,ram,diamante,2012,78831,G9CHMN961Z2KZDP4R,8-Cylinder,CVT,Gasoline
+1355,pontiac,town car,2018,14328,R9V00F98XFDKZ362X,10-Cylinder+,Manual,Gasoline
+1356,bmw,sierra 2500 hd crew cab,1992,175273,B3VP45RB6DZXXLT7T,5-Cylinder,CVT,Gasoline
+1357,hyundai,taurus,1999,190019,LLLTBJK17YKLAM2B4,2-Cylinder,Automatic,Electric
+1358,hummer,explorer,1995,86772,94V2W49T9F9RULWYB,4-Cylinder,Automatic,Gasoline
+1359,nissan,soul,2017,168614,CSBFC9MM7TTR9T299,8-Cylinder,CVT,Diesel
+1360,dodge,cavalier,2016,192131,8F8GE30T66U7MRNH8,6-Cylinder,CVT,Hybrid
+1361,cadillac,optima,2013,88593,GHZ03VWV51NUSNE23,8-Cylinder,Automatic,Electric
+1362,suzuki,soul,1994,65832,9RKF4ZAT7C6ZLUUNV,4-Cylinder,Manual,Gasoline
+1363,nissan,titan king cab,2009,133074,6Y7N5HCX1SC6NB83Z,8-Cylinder,CVT,Gasoline
+1364,ram,1500 extended cab,2018,172042,P4KB1V5743D3T3BN2,2-Cylinder,CVT,Electric
+1365,chrysler,sprinter 3500 cargo,1992,186311,3A2XPLN11LWLL94C6,8-Cylinder,Automatic,Hybrid
+1366,chrysler,f350 super duty super cab,2017,195867,5FUMDGWC5AUZC5A40,4-Cylinder,CVT,Diesel
+1367,ferrari,cavalier,2014,100107,50GXMHPV2NLT77PGH,10-Cylinder+,Automatic,Electric
+1368,volvo,accent,1993,8906,31TP5A4J76L70B47H,6-Cylinder,Manual,Electric
+1369,dodge,sonoma crew cab,2008,74105,4SDEY65D4CNFU8X0K,10-Cylinder+,Manual,Hybrid
+1370,volvo,mercedes-amg e-class,1993,116260,61TJ79W8198A39HJE,6-Cylinder,Manual,Hybrid
+1371,mitsubishi,sx4,2012,146873,PRH5005Y1HRLW6U62,2-Cylinder,CVT,Electric
+1372,chevrolet,quattroporte,2000,193397,DEEYX6WG9TRTE0HFC,4-Cylinder,Manual,Electric
+1373,ford,yukon,2015,145182,FADD51HD72HGTBX87,2-Cylinder,Automatic,Diesel
+1374,ford,2500 mega cab,2012,74382,G8K3D6C307LW9FGZR,6-Cylinder,Automatic,Electric
+1375,ford,c70,2009,14459,YMSVYXDG7DVZHTHCE,5-Cylinder,Automatic,Diesel
+1376,mercedes-benz,thunderbird,2008,100684,12LZH6L777B8NPNDB,6-Cylinder,Manual,Diesel
+1377,kia,rav4,2012,163736,E95GCS145K1RZXK4U,2-Cylinder,Manual,Gasoline
+1378,ford,tl,2000,77168,ZWB9R9HD5HPF42YML,4-Cylinder,CVT,Diesel
+1379,gmc,m2,2001,114383,JRY6FNYB8T0DEGJGJ,4-Cylinder,Manual,Electric
+1380,bmw,pathfinder,2013,177204,PSL652ZS0ACMUG7W2,6-Cylinder,CVT,Electric
+1381,gmc,sierra 2500 hd crew cab,2001,60429,UH7VAU7241C0DJLN9,10-Cylinder+,Manual,Diesel
+1382,toyota,suburban 2500,1997,92837,XTL4TX031S551PXY0,10-Cylinder+,CVT,Electric
+1383,pontiac,range rover,2017,85871,WR18Z8HJ4F9MS6FD1,3-Cylinder,CVT,Gasoline
+1385,saturn,430 scuderia,2006,51191,9KJUKGJR9809F5SZ9,10-Cylinder+,Manual,Electric
+1386,chevrolet,f350 super duty crew cab,1992,153616,CHRUE8HW266CFNVLN,6-Cylinder,CVT,Diesel
+1387,acura,c-hr,1997,64733,E3Y22KEW1PRS1HLJC,8-Cylinder,Manual,Gasoline
+1388,toyota,savana 3500 passenger,2014,48278,ZDLNSXMXXN2ARKSM2,8-Cylinder,Automatic,Hybrid
+1389,toyota,colorado regular cab,2018,20547,CF63UNL17N11EG2K6,6-Cylinder,Automatic,Hybrid
+1390,chevrolet,vitara,2003,110821,GURMWZ5G7Z5WW5BKD,10-Cylinder+,Manual,Electric
+1391,lexus,cruze,2008,186145,EY8Z3VK97WL4ALDPT,2-Cylinder,Automatic,Diesel
+1392,lincoln,malibu,1992,53487,MLTZ7AAY9DMZ04EUB,2-Cylinder,Manual,Diesel
+1393,chevrolet,8 series,2003,29584,2ULLY7AG222JGWX4N,8-Cylinder,Automatic,Diesel
+1394,kia,2500 crew cab,1999,95355,81X4YSWZ7TN5PGNYL,10-Cylinder+,Manual,Diesel
+1395,porsche,custom cruiser,2018,26510,VY9SY9EA0H1V35DKV,10-Cylinder+,Manual,Gasoline
+1396,audi,trooper,2012,81333,SMUC7JCB0ZXZKXXWZ,2-Cylinder,Manual,Electric
+1397,pontiac,durango,2020,17843,HMNKSVLT4J53Z23D9,5-Cylinder,CVT,Gasoline
+1398,audi,juke,1997,53581,W96DEC9253MD2X7B5,4-Cylinder,Manual,Electric
+1399,chevrolet,suburban 1500,2002,136109,NCKK07UK6YY3NDAWM,8-Cylinder,Manual,Gasoline
+1400,chevrolet,promaster 1500 cargo,2014,1144,J9R6TTKD86S46UBVR,10-Cylinder+,Automatic,Diesel
+1401,ford,express 1500 cargo,2017,108213,TTNH8PCE68799K3R8,8-Cylinder,Automatic,Electric
+1402,chevrolet,cls-class,2017,148483,WGGUG0CF757PW54M5,2-Cylinder,CVT,Gasoline
+1403,chevrolet,lumina,2012,186956,LU69439427FFJ2C5M,4-Cylinder,Manual,Electric
+1404,dodge,suburban 2500,2018,41323,8WCGEUF061GEWVD31,10-Cylinder+,Automatic,Hybrid
+1405,bentley,solstice,1994,77180,JG4JG03J52JZVT8TD,4-Cylinder,Automatic,Hybrid
+1406,audi,mustang,1997,18032,5APBS7KX8E2F1SW3T,10-Cylinder+,Automatic,Hybrid
+1407,chevrolet,reno,1999,179331,BC98GXPP9JA99F0LW,2-Cylinder,CVT,Diesel
+1408,dodge,canyon crew cab,1998,162351,MTC1NDVT41HV2G9VJ,8-Cylinder,Manual,Electric
+1409,chevrolet,elise,2011,197269,Z7RGSNWP7PXN9NPL8,6-Cylinder,Manual,Diesel
+1410,buick,hombre spacecab,2005,115991,090WKEXN2CCE9N1P3,6-Cylinder,Automatic,Hybrid
+1411,cadillac,maxima,2004,16872,J1ALWZA92SWCTK3GH,6-Cylinder,CVT,Diesel
+1412,ford,lemans,2011,153862,VP80NCVW7CGJJZ3E5,10-Cylinder+,CVT,Diesel
+1413,mini,sonoma regular cab,2008,171926,7NTFM6BZX940U642Y,5-Cylinder,Automatic,Diesel
+1414,kia,cx-5,2020,146440,8PCNYY943K4GFB115,3-Cylinder,CVT,Hybrid
+1415,toyota,colt,1999,145573,FZNCZEGJ0FM4RCFFC,3-Cylinder,Automatic,Gasoline
+1416,pontiac,dakota extended cab,2013,1360,BE4USNYS9A87X2AGD,3-Cylinder,CVT,Diesel
+1417,volvo,rx-8,2007,114614,T67ZWB7B63EG7G53Z,8-Cylinder,CVT,Gasoline
+1418,ford,altima,2018,65184,0Z8MKB612VDTBYNB0,6-Cylinder,Manual,Electric
+1419,ford,tundra regular cab,2018,98413,1EXXX49TX58KR4E4A,4-Cylinder,Automatic,Hybrid
+1420,volvo,express 3500 passenger,2016,70097,3JATDB8L0BLVYN4UN,3-Cylinder,CVT,Gasoline
+1421,chevrolet,sierra 2500 hd extended cab,1998,158821,1MK12CZ679GLPZXUX,5-Cylinder,CVT,Diesel
+1422,ford,q3,2019,65920,WSSVFLXX5XF68LCP1,10-Cylinder+,Automatic,Diesel
+1423,chevrolet,camaro,2014,56895,6HS6FZ222RZJHXVAV,5-Cylinder,CVT,Diesel
+1424,infiniti,mkz,1994,172530,3KBEVZV11W6DKXC59,2-Cylinder,CVT,Hybrid
+1425,chevrolet,3500 regular cab,2000,128073,WRA7WF7A1J76RB8FA,5-Cylinder,CVT,Diesel
+1426,mercedes-benz,savana 3500 cargo,2017,16178,UYP26XV44WRTW7Z5C,2-Cylinder,Manual,Diesel
+1427,ford,570s,2010,105272,318VXDWV40K67CJ9B,8-Cylinder,Automatic,Gasoline
+1428,mazda,maxima,1997,68485,K2PEZMWV8CB5TM1BY,2-Cylinder,CVT,Gasoline
+1429,fiat,aerostar cargo,2014,20979,DDEWTPKH6Y81ZWTN5,5-Cylinder,Automatic,Electric
+1430,land rover,x5,1995,172020,R831HLU4X83KNSCUG,6-Cylinder,Automatic,Electric
+1431,nissan,jetta iii,2011,147098,L4JZT9UA7TJWM641H,10-Cylinder+,Automatic,Hybrid
+1432,nissan,300,1995,64997,FJ0KH3Y79EXD081AS,2-Cylinder,Automatic,Diesel
+1433,mitsubishi,eos,2005,17659,G19K6ZG313PZTT4C2,3-Cylinder,CVT,Gasoline
+1434,ford,gx,2002,110988,TK92XP6GXAVLR8H70,4-Cylinder,Manual,Hybrid
+1435,ford,grand caravan passenger,1995,40113,LCC33RVT060MXWCX4,4-Cylinder,Automatic,Electric
+1436,mini,ls,2002,31589,0557806L07URUXBM9,5-Cylinder,Manual,Diesel
+1437,aston martin,savana 2500 passenger,2002,146531,P60WS5TP6302884TE,6-Cylinder,Manual,Electric
+1438,mercedes-benz,celica,2008,172844,X5036V9Z3AK8ZC7VD,3-Cylinder,Manual,Hybrid
+1439,dodge,eos,2010,197240,6FEELG5804LD7BS4W,10-Cylinder+,Automatic,Gasoline
+1440,bmw,gls,2019,5710,4DPHPKFB749MGHDS5,8-Cylinder,Manual,Electric
+1441,chrysler,tiburon,2016,165241,UL7UWRNX1K53NPT0L,6-Cylinder,Manual,Diesel
+1442,toyota,spectra,2009,122328,N4SLJWA9007S89GGU,6-Cylinder,Automatic,Diesel
+1443,mercedes-benz,renegade,2001,61298,HTBR6U3W8888XC960,3-Cylinder,CVT,Gasoline
+1444,mercedes-benz,v50,2016,35388,5ECWB1GD1YPLR4HVY,3-Cylinder,Automatic,Electric
+1445,mercury,a6,2004,94846,4207RXHG5ALWP7WPA,6-Cylinder,Automatic,Hybrid
+1446,saturn,f150 regular cab,2018,16427,WFRKE3UTXYUB3LEYF,8-Cylinder,Automatic,Diesel
+1447,hyundai,rav4,2004,73351,SX431GT446MTG44P4,3-Cylinder,CVT,Hybrid
+1448,land rover,camry,1997,87937,ZYNLADAL1RU8P3D1U,3-Cylinder,Manual,Hybrid
+1449,mercedes-benz,tiguan,2017,111194,LKLF0SV61P6FJR61K,6-Cylinder,Manual,Diesel
+1450,gmc,xtra cab,2017,42405,TWKNAT7H2NB8X6LUD,5-Cylinder,CVT,Electric
+1451,land rover,dakota crew cab,1993,23276,CTTJSXPE76JUC2NEW,6-Cylinder,CVT,Gasoline
+1452,mazda,integra,2003,15337,8YBJW60C7NGLNAUA9,10-Cylinder+,CVT,Hybrid
+1453,toyota,sierra 3500 hd extended cab,1999,155316,0AJAKM8J27KL80GTL,3-Cylinder,Manual,Diesel
+1454,plymouth,titan crew cab,1999,132465,Y4F1MYHL778MFD52J,10-Cylinder+,Automatic,Hybrid
+1455,ford,ranger super cab,2012,92147,27SL5VAN1XGM3VFJF,8-Cylinder,Manual,Electric
+1456,scion,express 1500 cargo,2019,111153,HC8HH1B041D4F9K9G,6-Cylinder,CVT,Electric
+1457,kia,mdx,2003,110659,188KPN155GYXAV3PV,3-Cylinder,Manual,Hybrid
+1458,nissan,santa fe,2015,97871,HY770CWC2041HN52W,5-Cylinder,Manual,Hybrid
+1459,subaru,sierra 2500 regular cab,1993,73965,HVK8XJMK7B22UV23A,5-Cylinder,CVT,Electric
+1460,chevrolet,dbs,2017,98742,9USTY05K29JL3HDHW,3-Cylinder,Manual,Hybrid
+1461,acura,corolla,2012,12753,KSRU9ZUX971RN2RV6,6-Cylinder,Automatic,Diesel
+1462,volvo,jetta,2018,27193,DJFUT9RE8Y364PAW8,8-Cylinder,CVT,Gasoline
+1463,toyota,f150 regular cab,2004,40062,JHFMPR5S0JSS331R0,3-Cylinder,CVT,Hybrid
+1464,volvo,jetta (new),1999,108854,8FP4S2MJ3HXGHP3J6,3-Cylinder,CVT,Diesel
+1465,buick,dakota quad cab,2008,84476,SGXKMSZG53F8F2KFK,5-Cylinder,Automatic,Hybrid
+1466,jeep,expedition el,2000,177633,KC8G9H0R2MVKJ2G0H,10-Cylinder+,Automatic,Diesel
+1467,toyota,rx,2015,107276,3KXPCC9U50SR7VEES,2-Cylinder,Automatic,Diesel
+1468,geo,endeavor,2006,31965,8VA76A3Y4UFTLUCU1,8-Cylinder,CVT,Electric
+1469,lincoln,regal,2005,85319,FP0Z4MU239RSYXNNK,3-Cylinder,Manual,Gasoline
+1470,subaru,express 3500 passenger,2008,95116,2WUMR7XK6S3EASW95,8-Cylinder,Manual,Hybrid
+1471,freightliner,a5,2000,166638,9HEZ9BP35UG0V0US6,3-Cylinder,Manual,Gasoline
+1472,audi,x6 m,2019,119265,WENNNRT29WXNRB3A7,3-Cylinder,CVT,Diesel
+1473,ford,golf sportwagen,2010,19934,JUXS59H06HJJNYL39,3-Cylinder,CVT,Hybrid
+1474,toyota,xc70,2012,93346,CYRWESFM0EZWR0Z1W,4-Cylinder,CVT,Diesel
+1475,jeep,range rover velar,2007,182135,S5A6MGPZ1G2VHYEX7,6-Cylinder,Automatic,Electric
+1476,ford,gle,2005,161812,8L8GM31V8NM9WTA52,4-Cylinder,Automatic,Diesel
+1477,mitsubishi,ranger super cab,2013,107670,8GFEU3MZ3XK9PCTCX,8-Cylinder,CVT,Hybrid
+1478,hyundai,sequoia,1994,181710,1JPGWRR70S780REXK,6-Cylinder,Manual,Hybrid
+1479,chevrolet,cavalier,1998,140705,J5TMEYJV7DE7H97M6,6-Cylinder,Manual,Electric
+1480,toyota,xc40,2004,6074,J8K5T8KY1WJFP6N7X,10-Cylinder+,Manual,Electric
+1481,mclaren,montero sport,1997,185428,9NEBSD0675BN1ZY83,10-Cylinder+,Automatic,Gasoline
+1482,jeep,4runner,1995,15279,M59ETR1208YANA8R9,5-Cylinder,CVT,Gasoline
+1483,lincoln,rsx,2016,107420,A2A0DH0G4P088VKEG,5-Cylinder,Automatic,Electric
+1484,gmc,1500 club coupe,1992,148688,X285WUX82DMWYY08A,8-Cylinder,Automatic,Gasoline
+1485,gmc,viper,2003,1464,81NK96CL9K88MUHW8,10-Cylinder+,Automatic,Diesel
+1486,toyota,slc,1992,56893,E3GRFDXS4ZUCX9N2F,4-Cylinder,Automatic,Hybrid
+1487,bmw,mazda3,1999,46723,3T5VBD2C7XAEXGDP9,6-Cylinder,Manual,Electric
+1488,volvo,grand caravan passenger,2020,132466,M0YJE4N90KS90E1MU,4-Cylinder,Manual,Hybrid
+1489,chevrolet,savana 2500 cargo,1998,127066,WPD31PJM0E6NM5K0U,5-Cylinder,Automatic,Electric
+1490,gmc,fortwo,1999,88608,AWTUMX12X97KT1YZS,8-Cylinder,Manual,Diesel
+1491,mazda,spark ev,2013,150838,8EZT7TH07SNWZS8BA,4-Cylinder,Manual,Gasoline
+1492,audi,b-series regular cab,1997,125743,LGUZ75K7X0P63LDME,3-Cylinder,Automatic,Electric
+1493,saturn,explorer sport trac,2011,12239,222RTCRTX486UNWLB,4-Cylinder,CVT,Diesel
+1494,mercedes-benz,x-type,2003,127377,1TGDVRWE4FXSGDMRK,10-Cylinder+,Automatic,Diesel
+1495,ford,clarity electric,1994,164512,90NH07ZY6D9N0ZNZH,8-Cylinder,CVT,Diesel
+1496,mercedes-benz,4runner,2006,50932,7ED3U29844H7HETM7,6-Cylinder,Automatic,Diesel
+1497,mazda,vantage,1995,140794,7NF0FE391J9PT636K,4-Cylinder,CVT,Hybrid
+1498,rolls-royce,silverado 1500 extended cab,2016,183648,82BNZZP10CCDRK0XU,3-Cylinder,Automatic,Diesel
+1499,ford,intrepid,2011,16467,EUGA7HAH25RN8TJKF,6-Cylinder,CVT,Diesel
+1500,hyundai,sequoia,2014,177229,B12H7EFK7EHDBPYRE,10-Cylinder+,CVT,Diesel
+1501,mercedes-benz,eldorado,1997,27376,3KVZPRCU9LELW97E6,3-Cylinder,CVT,Hybrid
+1502,mercedes-benz,ram wagon 2500,2005,96221,6PKFJX0750466JHU4,2-Cylinder,Automatic,Diesel
+1503,buick,l-series,2002,176050,6JBG22K102MB29M0D,2-Cylinder,Automatic,Hybrid
+1504,jeep,range rover sport,2011,119952,TRUMB5140EWXWAU37,6-Cylinder,CVT,Hybrid
+1505,gmc,canyon crew cab,2017,83031,W6HWK50K0MHJS40Y0,4-Cylinder,Manual,Diesel
+1506,toyota,forenza,2001,53316,P258NB16XPUY0KUGJ,10-Cylinder+,Automatic,Diesel
+1507,gmc,routan,2001,83423,49LEDPL86N8WMZKR9,8-Cylinder,CVT,Diesel
+1508,toyota,ct6,2012,166467,FWMNGYAS8EFELSZL6,3-Cylinder,Automatic,Hybrid
+1509,chevrolet,transit 350 hd van,2011,79109,0BJT6L33X046N2XN1,6-Cylinder,Automatic,Diesel
+1510,mini,jetta,2014,61714,BZAHUV4J629LNRXW9,8-Cylinder,Manual,Gasoline
+1511,gmc,nsx,2006,76832,MYYY6GFR7BRU7NU28,6-Cylinder,CVT,Electric
+1512,mercedes-benz,range rover sport,1995,129528,MFWX73U86SDZU929X,10-Cylinder+,Automatic,Hybrid
+1513,kia,optima hybrid,1998,168080,GSV1MJMY03848ULYY,10-Cylinder+,Manual,Electric
+1514,aston martin,accord hybrid,2007,116203,2SURY1RS7FY7HYAM2,4-Cylinder,Manual,Gasoline
+1515,rolls-royce,optima,1996,142386,XFN2YWYU1FDEEWJC7,10-Cylinder+,Manual,Gasoline
+1516,toyota,express 3500 cargo,2007,35617,3EGAMKXU7A4JV93SG,10-Cylinder+,Manual,Hybrid
+1517,toyota,savana 1500 passenger,2002,185651,R4WPLBY53MNS2D7TR,3-Cylinder,Manual,Diesel
+1518,bmw,gx,2000,126301,L6UN9YG468Y2M9JXT,4-Cylinder,CVT,Hybrid
+1519,toyota,mazda3,1999,54868,SYP8CE9R5RSZG325S,6-Cylinder,Manual,Hybrid
+1520,mercedes-benz,s10 crew cab,2000,128586,P9D2X1NZ4EFKDZ9C8,10-Cylinder+,Manual,Electric
+1521,rolls-royce,ram 1500 regular cab,1997,89910,X5AJGKWB4UM5MK9GY,2-Cylinder,Automatic,Diesel
+1522,genesis,e350 super duty cargo,1997,95653,ZALXWJSSXA3ALHE4Y,5-Cylinder,CVT,Diesel
+1523,chevrolet,rs 3,2016,196199,MYSRRE9NX54CZFV48,2-Cylinder,Automatic,Gasoline
+1524,audi,g,2007,163477,6SXPK5RG9DXCCJS45,4-Cylinder,Automatic,Diesel
+1525,chevrolet,express 3500 passenger,1999,29230,RGBXDUWM2U389Y0L4,6-Cylinder,CVT,Electric
+1526,gmc,navigator,2002,143234,8H3TG49F1A70C0PJW,10-Cylinder+,CVT,Hybrid
+1527,nissan,s8,1994,92122,YRFFGH054BZK016E6,10-Cylinder+,CVT,Hybrid
+1528,kia,montana sv6,2019,155157,DCEPPN7B6C1GGB5HH,2-Cylinder,CVT,Hybrid
+1529,audi,3500 crew cab,2001,57789,8TH48WDP0XJ6RELKK,5-Cylinder,Manual,Electric
+1530,mini,sierra 3500 hd regular cab,1996,140622,RYKSYGBMXSYT7CJCM,6-Cylinder,CVT,Diesel
+1531,honda,intrepid,2011,179601,0MW58GDA6B7K6M3E8,2-Cylinder,CVT,Hybrid
+1532,subaru,avenger,2002,30931,1URDLRRH256X2AG5K,2-Cylinder,CVT,Gasoline
+1533,subaru,compass,2009,83554,8L7P90TD0EPS6KL71,3-Cylinder,Automatic,Hybrid
+1534,buick,pilot,2000,179685,X5B5EB9D0P5UZ099J,4-Cylinder,CVT,Diesel
+1535,ford,f150 regular cab,2019,156708,XF0J4N3H6B6X098BC,4-Cylinder,Automatic,Electric
+1536,infiniti,a6,1998,71403,RJYAMGRL2NK3WM9ZA,4-Cylinder,Automatic,Electric
+1537,suzuki,maxima,2008,42505,X4P1ESFC0EYXSCYLK,5-Cylinder,Manual,Gasoline
+1538,toyota,leaf,1997,193826,MR5FFKV19FSLCNN7P,10-Cylinder+,Manual,Gasoline
+1539,mazda,cl-class,2009,90568,U0DFUBE37ST9UNGPD,10-Cylinder+,Manual,Diesel
+1540,bmw,d250 club cab,2006,39074,CLK2T1PJ7Z24HXCBH,5-Cylinder,Manual,Gasoline
+1542,audi,mulsanne,2003,42790,9N5XX7UU0KYAFSP0M,6-Cylinder,Manual,Hybrid
+1543,acura,f250 super duty regular cab,2017,194993,6LB4Y8MN2PUY66BS9,6-Cylinder,Automatic,Gasoline
+1544,bmw,optima,2011,7611,EX89H8UC76DVB3YF3,2-Cylinder,Manual,Electric
+1545,lincoln,sonata,2017,118009,HRUJYXDZ1KDPN3MP4,8-Cylinder,Manual,Hybrid
+1546,suzuki,maxima,1997,98760,8Y5PP8G111HYSJH29,5-Cylinder,Manual,Diesel
+1547,chevrolet,altima,1993,97420,AX1H3K5M7WN9TYCLR,8-Cylinder,CVT,Electric
+1548,plymouth,cx-3,2006,102952,03LFFR948CCCZWS4L,4-Cylinder,CVT,Electric
+1549,honda,4c,1994,38170,DF13X43L27KRRR59H,3-Cylinder,CVT,Electric
+1550,ford,e250 super duty cargo,1995,91862,S1LVWLM07LMBT2D38,6-Cylinder,CVT,Gasoline
+1551,pontiac,xtra cab,2014,178683,WGBD3AUP3LUUTF4WM,5-Cylinder,Automatic,Diesel
+1552,nissan,sprinter worker cargo,2014,24505,L1JNU61B0J4HRPM9H,6-Cylinder,Manual,Diesel
+1553,ford,sonic,2011,171652,L624NVH21L8YGK9LC,5-Cylinder,CVT,Diesel
+1554,dodge,passat,2003,146571,AZJ5AWGD9XAJVLYCM,2-Cylinder,Automatic,Hybrid
+1555,jaguar,cherokee,1996,185150,CDTZ41PJ4F2PDGR48,5-Cylinder,Manual,Hybrid
+1556,acura,kona,2012,142355,33W3SMS42J084YWBA,5-Cylinder,CVT,Gasoline
+1557,mazda,escape,2002,174358,J9X0D86J8H282RBDM,6-Cylinder,Automatic,Hybrid
+1558,gmc,corsica,1993,63982,U6LBMWNY6BU2PLYCG,2-Cylinder,Automatic,Diesel
+1559,hyundai,forte,2006,108802,4AUGP9682JW9ZKX7D,5-Cylinder,Automatic,Diesel
+1560,toyota,qx,2011,129322,0EARAW745R69NT0TK,6-Cylinder,CVT,Diesel
+1561,gmc,acadia,1992,153869,P8P77RX3XFK6YY1ZU,2-Cylinder,CVT,Diesel
+1562,mazda,s10 extended cab,1994,122931,AMKLJMDC0ABJ3G253,8-Cylinder,Automatic,Gasoline
+1563,dodge,express 3500 passenger,2020,89270,CG1K4DMN5L294CWRM,6-Cylinder,Manual,Gasoline
+1564,gmc,expedition,2014,139516,FAVJLZP83R4L4CV2E,8-Cylinder,CVT,Diesel
+1565,chevrolet,sonata hybrid,2018,118395,4BCRKFRV9KGLLNHW7,5-Cylinder,Manual,Electric
+1566,nissan,prelude,2007,166908,DL7RF0PM73Z7H8E34,2-Cylinder,CVT,Gasoline
+1567,gmc,ridgeline,2014,155315,EXSF9RUS1GREM6YE7,4-Cylinder,Automatic,Diesel
+1568,chevrolet,sc,1997,179861,WMDKYVP00AS9SEEU1,10-Cylinder+,Automatic,Electric
+1569,toyota,taurus,2019,31727,ZCP7V0LC3LCP0S2AU,10-Cylinder+,CVT,Hybrid
+1570,volkswagen,sl-class,2006,112077,XTZNSG098FM6FL4J4,8-Cylinder,Manual,Diesel
+1571,jeep,tundra regular cab,2016,107743,ALTJ5V063T2406XL2,3-Cylinder,CVT,Hybrid
+1572,buick,range rover,1996,23359,9CWHJK0S8UYMZW8XC,6-Cylinder,CVT,Diesel
+1573,dodge,4runner,2007,7937,LCK9YA2U9K1ZNRL6M,6-Cylinder,CVT,Gasoline
+1574,chevrolet,talon,1998,31057,6CNDE5106H4B2JY4W,4-Cylinder,Manual,Hybrid
+1575,lincoln,uplander passenger,2016,160907,YX27SPFX5Y9XVP74D,8-Cylinder,Automatic,Diesel
+1576,jeep,continental,2013,81428,X7X0Z1A413SPA0719,4-Cylinder,Manual,Electric
+1577,ram,terraza,1998,58731,4LJJCENS9GXVDH9AY,8-Cylinder,Automatic,Gasoline
+1578,acura,touareg,1994,3557,HNAJMUY84TNUV7FMG,3-Cylinder,CVT,Electric
+1579,mercedes-benz,z4,1992,117006,EY5B93XS7BY8BTYP7,8-Cylinder,CVT,Diesel
+1580,suzuki,dakota regular cab,2001,148382,VMKB9SKD6XU09586A,3-Cylinder,CVT,Electric
+1581,gmc,tl,2001,112354,244CH6ND0HZ2JDPZZ,10-Cylinder+,CVT,Hybrid
+1582,isuzu,tahoe,2014,125886,JWKYVWYD6BH44VBTU,3-Cylinder,Automatic,Hybrid
+1583,hyundai,f150 regular cab,2018,129880,AACDNELZ6YMDWUYG5,6-Cylinder,Automatic,Diesel
+1584,gmc,panamera,2016,42836,B0V7JRUC0SCYS8ZEF,4-Cylinder,Automatic,Diesel
+1585,chevrolet,599 gto,2016,179957,7MMMTXLJ0DEDX7PZ8,6-Cylinder,CVT,Hybrid
+1586,chevrolet,spectra,2012,138501,8NYV7KSE8GB6S7PW9,6-Cylinder,Manual,Hybrid
+1587,ford,viper,2004,42094,0MN77E9X1P68RW31T,6-Cylinder,CVT,Electric
+1588,audi,concorde,2006,134556,0AZUX8N58UF3ZSRPZ,5-Cylinder,Manual,Hybrid
+1589,suzuki,durango,2018,29156,V9ZRK8JB22HJT1LGU,3-Cylinder,CVT,Hybrid
+1590,mercedes-benz,mazda2,1995,27592,2RVNFKUL8P7FMBHN2,4-Cylinder,Manual,Hybrid
+1591,gmc,600 sec,2017,162201,KKMZY0XH0DVTV1FHJ,10-Cylinder+,CVT,Hybrid
+1592,infiniti,nv1500 cargo,2013,66696,KJU7KFVZ3AWKPWYD2,2-Cylinder,CVT,Electric
+1593,dodge,king cab,1995,38316,E2HTCR4R4PMEUT2CS,4-Cylinder,CVT,Hybrid
+1594,mazda,tl,1992,147998,XGVARW970CAYZ9JZP,8-Cylinder,Automatic,Diesel
+1596,maserati,sportage,2013,86332,973155N74P0WD72ZU,10-Cylinder+,Manual,Gasoline
+1597,mercedes-benz,element,2015,195294,HJWCEPX556FTPK4MS,2-Cylinder,Manual,Diesel
+1598,nissan,ram van 1500,2003,15847,69HGFSL361JSW4WNY,10-Cylinder+,Automatic,Electric
+1599,scion,spark,2008,25795,CGVB08S41XXW8J6SH,3-Cylinder,Manual,Gasoline
+1600,ford,rx,2019,39234,WTZ6UCTL46D2Y7FGA,5-Cylinder,Manual,Diesel
+1601,chevrolet,tiburon,2017,174506,2A5RXEAH5ZNTBDV9F,5-Cylinder,Manual,Electric
+1602,gmc,tahoe,1992,117943,BCXK56BJ2CVG1NP73,8-Cylinder,Manual,Gasoline
+1603,audi,concorde,1998,54272,1528A74X1VS9PS45X,8-Cylinder,Automatic,Diesel
+1604,cadillac,focus,2005,128888,R3U1N0L11VNUXJ0JV,6-Cylinder,Automatic,Hybrid
+1605,hyundai,mountaineer,2019,172355,S9AP1H647XE5AB7B2,3-Cylinder,Automatic,Electric
+1606,mini,fr-s,1998,115256,RAFBHF591FFJ470WJ,3-Cylinder,CVT,Diesel
+1607,infiniti,sl-class,1996,1959,9R6YNZA15TLX6XSM3,3-Cylinder,Manual,Gasoline
+1608,cadillac,equator extended cab,2018,59868,4UCZE45H5JPNE0ZY5,5-Cylinder,Automatic,Electric
+1609,volvo,ram van 2500,2008,197352,5MS31MAR7F2SE6N2M,4-Cylinder,Manual,Diesel
+1610,nissan,tribute,2004,181602,FTC7EZC39UCYA7SUW,6-Cylinder,Automatic,Diesel
+1611,bmw,convertible,2012,82805,CBL6DLN65YAV9R1S9,3-Cylinder,Automatic,Diesel
+1612,buick,tucson fuel cell,2018,23196,MMXEDZDS6YR6ZPU23,4-Cylinder,CVT,Gasoline
+1613,jeep,gto,2016,140307,MCEP5VMX86Z36DB8K,6-Cylinder,CVT,Diesel
+1614,lincoln,z4 m,2012,48973,YN0XGWX52XERGFD2K,2-Cylinder,Manual,Electric
+1615,chevrolet,rav4,1999,57386,62VFSUD8924PY5ZME,2-Cylinder,CVT,Diesel
+1616,alfa romeo,previa,1994,47624,N9VNB0H61CYPX4CU3,10-Cylinder+,Manual,Gasoline
+1617,ferrari,corvette,1992,48286,YJKD547A9L8G7CAEU,10-Cylinder+,Automatic,Gasoline
+1618,fiat,sonata,2001,79603,ZUF1FMSZ3H4X8471M,5-Cylinder,Manual,Hybrid
+1619,volvo,navigator,2016,179761,W8F92YFM0XNJRDS5M,6-Cylinder,Automatic,Electric
+1620,mercedes-benz,silverado 2500 hd regular cab,2007,66262,9P9GACCC7KDYBLTCF,3-Cylinder,Automatic,Diesel
+1621,ford,forte,2014,142637,B7HJ2BFRXZLWADK9M,2-Cylinder,Automatic,Gasoline
+1622,saab,57,2015,21940,UPMFR09N0KUU8JC5N,3-Cylinder,Manual,Electric
+1623,mini,outlander sport,1996,65119,H7KSKWJFX0AXHCGPP,3-Cylinder,Automatic,Gasoline
+1624,mini,rio,2000,51750,WV8YUPVS1B5R23255,4-Cylinder,CVT,Gasoline
+1625,mercedes-benz,defender 90,2016,95024,ZVA2RRPG5S6GM40T9,3-Cylinder,Manual,Gasoline
+1626,ford,protege,2013,358,6PCERVGT6MF7SBL6S,2-Cylinder,Manual,Hybrid
+1627,lexus,s10 regular cab,2015,155264,LJC0YF0A3BLDG7UL4,4-Cylinder,Automatic,Gasoline
+1628,infiniti,sedona,2004,188455,3J2983T49RKJ3C4CJ,10-Cylinder+,CVT,Diesel
+1629,nissan,b-series cab plus,2012,187876,L8S02FUR8MMFKBVXK,5-Cylinder,Manual,Electric
+1630,toyota,gti,2011,162002,DLF2G35Z6V4J3VEE2,2-Cylinder,Manual,Electric
+1631,pontiac,sierra 2500 hd regular cab,2002,158520,V0DSZ7EY410BU0W6A,2-Cylinder,CVT,Electric
+1632,lexus,x6,1994,84203,209YNE4V6R92UNMZT,5-Cylinder,Automatic,Gasoline
+1633,nissan,yaris,2014,7467,WMGVPGZE4SH4PHYPY,2-Cylinder,Manual,Diesel
+1634,gmc,viper,2017,145975,UWH1YTDG7DBU2T0X9,4-Cylinder,CVT,Gasoline
+1635,dodge,rio,1992,140830,D9KEL27R634MG78AS,5-Cylinder,Automatic,Gasoline
+1636,mini,tribeca,2019,124632,3SWSNVCW2TSPCGCSC,10-Cylinder+,Automatic,Electric
+1637,toyota,a4,2000,76054,X7EMNUGU7JZFGXJP7,2-Cylinder,Automatic,Diesel
+1638,honda,legacy,2020,184411,JURZ57108X6ZF1LWG,2-Cylinder,CVT,Gasoline
+1639,lotus,yaris,2017,4009,5DB0NT0T3UXCF1U9D,3-Cylinder,Manual,Hybrid
+1640,hyundai,celica,2018,39152,3CAD1M1E4G5DEDFHN,4-Cylinder,Automatic,Gasoline
+1641,mercedes-benz,range rover sport,2009,81534,6X018XCE3L5AFAP40,2-Cylinder,CVT,Gasoline
+1642,ford,wrx,2017,58706,48RV0FCD94E40TN4W,6-Cylinder,Manual,Diesel
+1643,ram,cayman,2006,158444,6D3U54B22K3MRDYF6,10-Cylinder+,CVT,Gasoline
+1644,land rover,accord hybrid,1995,176619,97Z61B5W5VFP2G03T,2-Cylinder,CVT,Diesel
+1645,cadillac,ram 1500 quad cab,2008,160380,ZEHVM48A3UC2V6NVZ,10-Cylinder+,Manual,Electric
+1646,jaguar,element,2005,91855,6XG46L3V080T950KX,4-Cylinder,Manual,Diesel
+1647,dodge,e150 passenger,2001,49871,H4EWZXUW2FT5W2JW3,4-Cylinder,Manual,Electric
+1648,toyota,forte5,2019,70266,VSCFPNMP53JPATNRS,2-Cylinder,Automatic,Electric
+1649,lexus,e350 super duty cargo,2007,39767,6DRRVDFK8P4HYXYBX,3-Cylinder,CVT,Hybrid
+1650,subaru,pt cruiser,2009,64975,7JH5T7S895K2FZ8RP,10-Cylinder+,Automatic,Diesel
+1651,chevrolet,q5,2013,196584,X0USVTW30RSDYV386,10-Cylinder+,Manual,Electric
+1652,volvo,f150 regular cab,2011,160716,P9XD5TWZ1TPS412DH,5-Cylinder,Manual,Hybrid
+1653,kia,hhr,2003,131537,959VK2JY4NC9ALW2F,6-Cylinder,Manual,Diesel
+1654,honda,tracer,1998,57695,YSYUWF8S8B6PN626W,10-Cylinder+,Manual,Diesel
+1655,smart,clk-class,2019,95899,GZ1XVJZJ1X1HC5B52,8-Cylinder,Automatic,Hybrid
+1656,honda,monte carlo,1993,66902,T5E0U0HF40K3MHMSD,3-Cylinder,Manual,Hybrid
+1657,dodge,liberty,2006,137519,CHGYFCC617V626KAK,5-Cylinder,CVT,Hybrid
+1658,saturn,azure,2004,127195,D9MWX06S0Z3XDXLK0,6-Cylinder,Automatic,Hybrid
+1659,nissan,sierra 2500 hd regular cab,2001,51676,D15ZANAL5MKW6L6P1,8-Cylinder,Manual,Diesel
+1660,lincoln,escalade,2008,97388,X3Y9T12Y1CLJK4GRH,8-Cylinder,Manual,Electric
+1661,ford,f350 super duty regular cab,2000,184059,2L1DMU4V6ZBPM5GBA,5-Cylinder,Manual,Electric
+1662,land rover,200,1994,116543,39U3NFT52HKTM95FL,3-Cylinder,CVT,Hybrid
+1663,dodge,a8,2011,160953,GMP956JK2EL0NLKRZ,3-Cylinder,Automatic,Hybrid
+1664,gmc,mazda5,2016,5812,M91D4SZL4AMPLHXM5,8-Cylinder,CVT,Hybrid
+1665,mercedes-benz,spark,2010,145217,SMRDGE111XWHMHCSU,5-Cylinder,CVT,Gasoline
+1666,ford,suburban 1500,1997,24899,93BNNDUG2NZBFMHP3,10-Cylinder+,Automatic,Gasoline
+1667,toyota,lss,2007,188890,SKP8KTSJ4ZTR7XCUV,3-Cylinder,CVT,Hybrid
+1668,kia,firebird,2018,81140,SVLVHBN13SX8GB4M2,8-Cylinder,Manual,Diesel
+1669,infiniti,passat,1998,97253,03HY3MC88RYR40ETF,2-Cylinder,Automatic,Electric
+1670,dodge,transit 250 van,1994,59377,3CEMAWJZ1M0JMT8FF,4-Cylinder,CVT,Gasoline
+1671,gmc,boxster,1993,63022,KCGT5TK22H05T1LWP,6-Cylinder,CVT,Gasoline
+1672,audi,golf,2019,74326,L8D8BAA62LS4BPZMS,5-Cylinder,Automatic,Electric
+1673,mclaren,f250 super duty regular cab,2006,109120,JMPRZBC08ZW9MSNC0,6-Cylinder,Automatic,Hybrid
+1674,ford,q7,2003,119788,BYTVNNEN0EWJ0E1GX,4-Cylinder,Automatic,Hybrid
+1675,hyundai,land cruiser,2014,60565,YF94UXM44T669NXKS,3-Cylinder,CVT,Electric
+1676,volkswagen,pathfinder,1999,172428,GSRNDH3K34AG81RSZ,8-Cylinder,Automatic,Hybrid
+1677,buick,promaster cargo van,2006,68032,4ZHM2G216BM2RU8V0,4-Cylinder,CVT,Electric
+1678,jaguar,silverado (classic) 1500 crew cab,2019,51224,TSYWZDA28BW9Z1ZMK,10-Cylinder+,CVT,Gasoline
+1679,ford,yaris,2009,62345,Z2ALW0H94990N37DJ,6-Cylinder,CVT,Gasoline
+1680,kia,ram van 2500,2016,139364,07W63VJA88MGD2BS8,3-Cylinder,Automatic,Diesel
+1681,chevrolet,suburban 2500,2013,80173,2W1RKH5C6F9UT0BLN,2-Cylinder,Automatic,Hybrid
+1682,cadillac,pilot,2020,53325,VZGTYUWU88BXEUS4Z,8-Cylinder,Automatic,Electric
+1683,mercedes-benz,silverado 1500 extended cab,1994,46956,38MCGNLG1X2R85330,2-Cylinder,Manual,Gasoline
+1684,mitsubishi,milan,2010,81258,8Z5LM8EL46903JCPN,2-Cylinder,Manual,Hybrid
+1685,gmc,300zx,2018,176701,BABJH59T59GZL42M4,5-Cylinder,CVT,Diesel
+1686,volvo,f250 super duty crew cab,2008,101548,N0GZX09K5SZ37EG29,2-Cylinder,Manual,Diesel
+1687,toyota,mercedes-amg gla,2018,108,1U2EXCU15AT9MFWR3,6-Cylinder,Automatic,Diesel
+1688,mercedes-benz,c70,1993,208,5FEM6AB20U849JANZ,8-Cylinder,Manual,Gasoline
+1689,eagle,yukon,2008,173561,CMX4C73U76VNT01RE,10-Cylinder+,Automatic,Hybrid
+1690,ford,promaster 3500 cargo,1992,127501,FVLAWCHY8NEFCVDHP,3-Cylinder,Automatic,Gasoline
+1691,toyota,c-class,2007,145392,ATHDCW077CSWKBMAG,2-Cylinder,Automatic,Hybrid
+1692,honda,mr2,2015,55083,6D234A3S7YM7XBDWH,10-Cylinder+,CVT,Electric
+1693,mercedes-benz,forte,2014,73316,JHDFBRJM539K2Y0KA,10-Cylinder+,CVT,Electric
+1694,pontiac,rodeo,2007,117151,ZC9U2HAG6K3948BK7,2-Cylinder,CVT,Hybrid
+1695,audi,f350 super duty super cab,2005,54089,DWGDZ4DD65EPL9ZTY,6-Cylinder,Manual,Diesel
+1696,mercedes-benz,civic,1998,42820,ZHRZH8HV2R2PCH2JV,4-Cylinder,Manual,Hybrid
+1697,mazda,pathfinder,2001,102018,1LZAX5191CSMFJBL6,8-Cylinder,CVT,Hybrid
+1698,dodge,santa fe,2005,170049,DZPZ7D124VKCPBPCZ,5-Cylinder,Manual,Hybrid
+1699,jaguar,h1,2015,183366,GAHA66XX3WJZT698F,3-Cylinder,Manual,Diesel
+1700,plymouth,rav4,2000,107194,T8V48N5D4YUC0EKPY,3-Cylinder,Automatic,Gasoline
+1701,ferrari,accent,2009,149199,0DMAS2SDXRPV5AXVD,10-Cylinder+,Automatic,Electric
+1702,chrysler,sierra 3500 hd regular cab,1998,151150,7ZY4TDH432JP6RWR1,10-Cylinder+,Automatic,Hybrid
+1703,fiat,sentra,2013,7281,CTT7NX7K3REK7SGL1,4-Cylinder,CVT,Diesel
+1704,audi,xlr,2013,18048,0D1JJN1DXXUJ3RUXY,8-Cylinder,CVT,Gasoline
+1705,nissan,continental,2006,5856,1FJBL3WF3NLL3UEWD,8-Cylinder,CVT,Gasoline
+1706,dodge,mx-5 miata,2016,99395,63G26KP94VTBBSWUS,2-Cylinder,Automatic,Diesel
+1707,hyundai,b-series regular cab,2012,181820,DXAX64WD7Z0A3T11V,6-Cylinder,Automatic,Hybrid
+1708,volvo,tl,2000,100859,DFC5H56V730NAM3D5,10-Cylinder+,Manual,Hybrid
+1709,toyota,golf,1994,193178,FU7RRELJ957VDXWJD,2-Cylinder,Manual,Electric
+1710,ferrari,apv cargo,2016,192754,4HFVA4JG3UNBK6VS2,4-Cylinder,Automatic,Diesel
+1711,infiniti,s40,2016,35794,MVB89NSG47AC505XK,3-Cylinder,CVT,Gasoline
+1712,gmc,skylark,2010,171198,J12373ZN2UYEA4H0G,10-Cylinder+,Manual,Hybrid
+1713,suzuki,silverado 2500 hd regular cab,2002,150101,NX9Z8AVK3XC01ML3W,6-Cylinder,Manual,Diesel
+1714,suzuki,rs 7,2004,129168,EF3XFXPV6WU80YL6F,5-Cylinder,Automatic,Gasoline
+1715,bmw,murano,2014,35745,1ET6KAC664P0BE1JV,5-Cylinder,CVT,Hybrid
+1716,ford,uplander passenger,2015,62751,UDXSTAE715S9LEAT5,5-Cylinder,Manual,Gasoline
+1717,toyota,accent,2005,179127,56K1TFCR7MW89FYL6,3-Cylinder,CVT,Gasoline
+1718,acura,glk-class,2010,154666,UVGZHWB821NXXNDG9,10-Cylinder+,Manual,Diesel
+1719,ferrari,200sx,2012,142703,B5MEA41B9BJ4T4988,3-Cylinder,CVT,Hybrid
+1720,chevrolet,endeavor,2013,103460,9AMGH10KXMDWBHAKD,4-Cylinder,CVT,Diesel
+1721,saturn,xk,2012,117288,DZNV2V040TN3FSFS4,2-Cylinder,Manual,Diesel
+1722,nissan,ram 1500 regular cab,2007,59528,0Z7DSKMK9VMTWB244,2-Cylinder,Automatic,Diesel
+1723,cadillac,neon,1999,108715,6C9NXZUY9RYKPKC85,10-Cylinder+,Manual,Electric
+1724,audi,s80,2017,25580,P6145U2A4K222ZGWJ,4-Cylinder,Automatic,Hybrid
+1725,gmc,sequoia,1997,139811,6UP39SCW9DP93EZVG,5-Cylinder,Manual,Electric
+1726,nissan,frontier king cab,1999,48646,T4KPRJBH18Z59B7FR,3-Cylinder,CVT,Gasoline
+1727,gmc,b-series regular cab,2015,6812,99VKX59Y74XJ147D5,10-Cylinder+,CVT,Gasoline
+1728,gmc,dbs,2012,157360,XM4VNL8486BSM8PW7,6-Cylinder,Manual,Diesel
+1729,mercedes-benz,colorado extended cab,2005,126113,AFKX8AVC8YCN9SB0Z,8-Cylinder,Automatic,Diesel
+1730,mercedes-benz,lx,1993,88061,GND612S350MMZ0BFC,10-Cylinder+,Automatic,Diesel
+1731,ford,metris passenger,2007,166590,38APL3095SARWU3NU,10-Cylinder+,CVT,Diesel
+1732,ford,c-max hybrid,1997,162006,74WU1DVJ33UV3VT83,5-Cylinder,Manual,Electric
+1733,cadillac,aviator,2001,24685,KK71NAY27XCZCBGNJ,5-Cylinder,CVT,Electric
+1734,bmw,7 series,2014,139655,UH6P4GH631RM13M7S,3-Cylinder,CVT,Hybrid
+1735,pontiac,canyon regular cab,2010,6409,VV7WXPK764L3AGKH0,10-Cylinder+,Automatic,Hybrid
+1736,jaguar,amigo,2016,172578,L352PM498JWDZTLCL,3-Cylinder,Manual,Diesel
+1737,kia,passport,2003,76273,12X9GHWL4NTGGMVN2,5-Cylinder,Manual,Gasoline
+1738,dodge,savana 2500 passenger,2018,61801,Z4EE5LN89J1872R24,6-Cylinder,CVT,Diesel
+1739,cadillac,mazda5,2002,85587,P8FGKDCB6SDY5X21J,3-Cylinder,Automatic,Hybrid
+1740,mclaren,ghibli,2017,10244,ZX1S3R7K4G1P26GEZ,6-Cylinder,Manual,Diesel
+1741,saturn,roadmaster,2015,195466,23DGT4UN1N5N2GKC1,3-Cylinder,Automatic,Gasoline
+1742,jeep,canyon regular cab,2009,157499,T5DVBK5NXLH9MHZEN,10-Cylinder+,Manual,Gasoline
+1743,nissan,trans sport,2006,144907,HM3RMRXL1XFWSPGZV,2-Cylinder,CVT,Electric
+1744,ford,tl,2015,161615,CUU7922F19MVPDA70,10-Cylinder+,Manual,Diesel
+1745,mazda,matrix,2014,21171,V99KHLF7XPFPN8GBT,3-Cylinder,Automatic,Gasoline
+1746,mazda,baja,2006,178009,K5TRXGDR8BG85207Z,5-Cylinder,Manual,Diesel
+1747,lexus,rabbit,2001,86777,U9BSFSYB8NZUFLVM2,2-Cylinder,Automatic,Gasoline
+1748,gmc,cascada,2001,37983,8Y0HKL3M3VN7HHVMV,5-Cylinder,Automatic,Gasoline
+1749,toyota,edge,2015,60614,VCENN7KB4HMH9ZBBF,5-Cylinder,CVT,Hybrid
+1750,mazda,pilot,1998,81530,TPRF87XZ0X6S4M3LA,4-Cylinder,Automatic,Electric
+1751,fiat,accord,2000,141354,ZB7NJ6JG0UEZNDLXK,3-Cylinder,CVT,Diesel
+1752,dodge,tacoma xtracab,2003,22450,GZU29B197XE0M7MX8,3-Cylinder,Manual,Diesel
+1753,gmc,grand caravan passenger,2002,143420,M1W37DM7XKXSY3UXE,10-Cylinder+,Automatic,Diesel
+1754,infiniti,f250 regular cab,2011,11546,RWY240Z33Z8RS8SV6,6-Cylinder,CVT,Diesel
+1755,ford,malibu,2002,181344,WZ34RN421NAF6DNG5,5-Cylinder,Manual,Diesel
+1756,cadillac,es,2010,168251,8FEDSE6L6FUSDPS0P,10-Cylinder+,Automatic,Diesel
+1757,suzuki,skylark,2013,38259,B49A8VW69HL9MR6NK,2-Cylinder,CVT,Electric
+1758,hyundai,gx,2016,153612,5J5C80LK9WAJZLEUM,8-Cylinder,Automatic,Electric
+1759,dodge,azera,2016,16668,UY1P77F49A24XWUZZ,5-Cylinder,CVT,Hybrid
+1760,bmw,f150 regular cab,2010,40336,A3ZK8GFZ6Z30GKTYH,6-Cylinder,Manual,Hybrid
+1761,jeep,rabbit,2002,138339,VX7421J49VN9N5UMP,2-Cylinder,Manual,Hybrid
+1762,gmc,rc,2004,154489,B94J96HN5JX28U7BG,5-Cylinder,Automatic,Diesel
+1763,porsche,rav4,2003,32133,4YFN2EEA6RYUW6BNG,6-Cylinder,CVT,Electric
+1764,isuzu,accord,2018,19615,7SF4N2B1384NJG643,10-Cylinder+,Automatic,Electric
+1765,ford,a4,2007,186346,ZMZR9J6N87LRG4N1W,5-Cylinder,Manual,Diesel
+1766,subaru,charger,2016,97865,B5N6JCNY0K4GSWU7K,10-Cylinder+,Automatic,Diesel
+1767,mercury,optima,2013,119008,MEM9YG5Y14HD530CJ,2-Cylinder,Automatic,Gasoline
+1768,honda,silverado 1500 extended cab,2010,24510,BYGJ13A01ADZB113M,6-Cylinder,Manual,Electric
+1769,chevrolet,tundra access cab,2014,130533,M3WHV9VR343A1P2EX,4-Cylinder,CVT,Gasoline
+1770,pontiac,5 series,1994,182070,AWEC3HPJ29MSK07KK,4-Cylinder,CVT,Hybrid
+1771,geo,sl-class,2020,187355,Y6T64A1H128BZ0A6X,8-Cylinder,CVT,Electric
+1772,alfa romeo,cascada,1998,40298,M77H4APRXAM15T1YV,8-Cylinder,CVT,Hybrid
+1773,volkswagen,amanti,1992,13359,UFAPCF1B23NGBLVRU,4-Cylinder,Automatic,Hybrid
+1774,mercedes-benz,sportvan g30,1995,66988,S667XELY3ZLC155FW,4-Cylinder,Manual,Diesel
+1775,honda,h3t,2006,111554,U1FDD1VG8PD93J9WM,5-Cylinder,CVT,Gasoline
+1776,audi,town car,2020,192092,4FEZ8NDH7DEEE18P4,4-Cylinder,CVT,Gasoline
+1777,lexus,g-series g10,2007,108932,LGZ8M44J4KJG5TJCN,5-Cylinder,CVT,Electric
+1778,bmw,tiburon,2007,14126,PK8GGB5C5U9YAK86E,8-Cylinder,Manual,Hybrid
+1779,chevrolet,savana 3500 cargo,2015,32054,KS3M9LJM1VWDVUAPA,2-Cylinder,Manual,Electric
+1780,nissan,express 2500 cargo,2009,59512,LSEF1TZV26FUFY0AE,2-Cylinder,Automatic,Diesel
+1781,audi,deville,2011,186696,K2KX82SG9RTXGVN0M,8-Cylinder,Manual,Gasoline
+1782,chrysler,lumina passenger,2007,113554,N8V4UD1FXFV1NTZKK,6-Cylinder,CVT,Gasoline
+1783,bmw,h1,1998,162407,0ND16RCEX2RN0C7BC,2-Cylinder,CVT,Hybrid
+1784,ford,eldorado,2011,53428,PUE327B46MV7EJTT4,4-Cylinder,Manual,Electric
+1785,ford,accord,2004,194324,7XSARZ8M5ES5GBPTU,2-Cylinder,Manual,Gasoline
+1786,bmw,es,2011,8768,RRL4294Z7569XA1TA,10-Cylinder+,Manual,Gasoline
+1787,gmc,tt,2002,141775,5A4GLRXT5KKAHVMCZ,5-Cylinder,Automatic,Electric
+1788,cadillac,f150 regular cab,2015,76866,44189F2717M1T67B6,5-Cylinder,Automatic,Hybrid
+1789,nissan,tucson,2018,86744,B54E0XK51SSZXCJBX,2-Cylinder,Automatic,Hybrid
+1790,hyundai,qx70,2017,139170,D0RCCMDL1UKNCSZHK,8-Cylinder,Automatic,Electric
+1791,mercedes-benz,sprinter 3500 cargo,2018,31215,97MVW9DCXR3B8YKA3,3-Cylinder,CVT,Gasoline
+1792,chevrolet,xl-7,2007,7971,1T0EK1LM8UBP5363K,3-Cylinder,Manual,Gasoline
+1793,ford,canyon crew cab,2012,159162,SK6U5RW45HLEX4524,2-Cylinder,CVT,Hybrid
+1794,geo,3000gt,2020,61152,ET9R1UFD4RY6TW2DH,4-Cylinder,CVT,Gasoline
+1795,acura,outlander sport,1992,114714,73UYW0TH8B08G395S,8-Cylinder,CVT,Gasoline
+1796,mercedes-benz,impreza,2013,133832,TF7FMDUS6RDY1VZKE,8-Cylinder,Automatic,Electric
+1797,mitsubishi,s60,2016,43751,4ASK3963X25WD934Y,6-Cylinder,Automatic,Electric
+1798,bentley,3500 regular cab,2014,124214,21DVK1E99VSN76GE0,8-Cylinder,Automatic,Diesel
+1799,mazda,outlander phev,2019,77855,NVCMN8Z773X97CFBJ,4-Cylinder,Manual,Electric
+1800,jeep,a5,2009,67615,T5F9KKDE5SUL013JE,4-Cylinder,Manual,Gasoline
+1801,saturn,tl,2011,70717,HGS2TLPF2V28VY3LK,2-Cylinder,Manual,Electric
+1802,ford,express 3500 cargo,1999,79302,CU07733M2N583ZMES,6-Cylinder,Manual,Diesel
+1803,gmc,es,1994,109965,A2MY4ESJ6C8R8654Z,2-Cylinder,Automatic,Gasoline
+1804,jeep,catera,2003,52584,X0P1WDUG7SPFPARBX,3-Cylinder,Manual,Diesel
+1805,cadillac,grand caravan passenger,1993,63536,XVU2JUD8X4DA91DBE,8-Cylinder,Automatic,Hybrid
+1806,fiat,celica,2017,5406,348SDCK04UBF3TSXC,10-Cylinder+,CVT,Electric
+1807,gmc,7 series,2012,188385,WA8ZC5LVXU898KJ11,8-Cylinder,Automatic,Gasoline
+1808,toyota,rx,2000,28568,SRCRNBET05DZ8CHKA,5-Cylinder,Manual,Electric
+1809,chevrolet,club wagon,2001,80258,CMCMH53EX2JDHZPDS,3-Cylinder,Manual,Diesel
+1810,bmw,odyssey,2008,100365,E8C91LSS1ZRD6WX7B,3-Cylinder,Manual,Electric
+1811,mercury,navigator l,2015,4354,VKNT28DY0JALXXJBM,6-Cylinder,Manual,Electric
+1812,cadillac,yukon,2018,83231,A6RARGXS9LXZBWD3P,10-Cylinder+,Manual,Gasoline
+1813,dodge,altima,1999,114302,8LF7WBZ75U0Y02VC9,5-Cylinder,Manual,Hybrid
+1814,porsche,impala,2018,93602,1HVGGMN52SV8820YL,5-Cylinder,CVT,Electric
+1815,chevrolet,sebring,1999,148962,1PB3R9K59SV4X2M03,2-Cylinder,CVT,Hybrid
+1816,chrysler,s10 extended cab,2009,157646,NLTT4P6Z7BGFT8VSP,5-Cylinder,Manual,Diesel
+1817,mini,sierra 2500 hd extended cab,2008,44923,1X5AX4U13GL0TF730,3-Cylinder,Automatic,Electric
+1818,chrysler,silhouette,1994,106092,J6EXEYD7XNFSF6ACY,5-Cylinder,CVT,Diesel
+1819,ford,tacoma access cab,1992,21164,F40RPYXJ7UH627Y4L,6-Cylinder,Manual,Hybrid
+1820,mercedes-benz,tt,2007,196680,UAAVJNX30R4TNW23D,10-Cylinder+,CVT,Diesel
+1821,volkswagen,suburban,1997,53650,GJSXX98S68ZRWZ8K9,6-Cylinder,Automatic,Diesel
+1822,ford,liberty,2012,3479,EZ8PYNMM5JM33LHP8,5-Cylinder,Automatic,Diesel
+1823,oldsmobile,es,2016,106568,Y1E9YW9M5BZ8VLEJN,10-Cylinder+,Manual,Electric
+1824,chevrolet,silverado 1500 regular cab,2004,189669,PCPPK1245BSZG2LXN,3-Cylinder,CVT,Hybrid
+1825,chrysler,silverado 3500 hd regular cab,2007,2102,YYB5W67A7M2T4MKN9,10-Cylinder+,Manual,Hybrid
+1826,mercedes-benz,f250 super duty regular cab,1996,183629,05YKH0ZN41AMMW49E,6-Cylinder,CVT,Hybrid
+1827,audi,countryman,2002,88110,CHP8LZL30F5JGMG5D,10-Cylinder+,CVT,Hybrid
+1828,lincoln,sts,2006,185771,BSY9X0W14ATVUYKY4,3-Cylinder,CVT,Electric
+1829,gmc,g,2014,81924,E87TWWA42F4SATZTL,5-Cylinder,CVT,Diesel
+1830,cadillac,mercedes-amg sl,2009,89793,EA65M70LXG72DRUTS,3-Cylinder,Manual,Hybrid
+1831,cadillac,yukon xl 1500,2014,108162,92C8T7EK0A2XJRKVM,10-Cylinder+,CVT,Gasoline
+1832,volvo,land cruiser,2011,159642,6LABDNMN0CH2P8PGD,3-Cylinder,CVT,Hybrid
+1833,honda,6 series,2009,117409,SXK3M3TP50UWXRKB0,4-Cylinder,Automatic,Hybrid
+1834,infiniti,sedona,2015,72366,LCGWXVWA2U4727YJL,6-Cylinder,Manual,Diesel
+1835,ford,nv1500 cargo,2010,94840,EPZL4U8R64UJDEBDV,8-Cylinder,CVT,Diesel
+1836,nissan,golf,2000,167055,AW7SWGJP7793AKTCA,2-Cylinder,Automatic,Diesel
+1837,mercedes-benz,corvette,2014,127719,16GHSAU15TPL274ML,4-Cylinder,CVT,Hybrid
+1838,honda,a3,2006,24025,W5XT1V4YX3F30W2XS,6-Cylinder,Manual,Diesel
+1839,lexus,mks,1997,122739,EVCW91F13T44C2LAD,3-Cylinder,Automatic,Hybrid
+1840,gmc,tahoe,2004,151972,NDGZK0FN5NVNG9B8G,5-Cylinder,Manual,Hybrid
+1841,jeep,jetta sportwagen,2017,30776,JALTETS51NMTPE5E0,5-Cylinder,Automatic,Electric
+1842,freightliner,econoline e350 super duty passenger,2008,22513,UG3XU5ZX8SD8GKXG5,3-Cylinder,CVT,Electric
+1843,land rover,vibe,1995,43639,PTGJ9TX93U4LERWY1,10-Cylinder+,CVT,Hybrid
+1844,chevrolet,land cruiser,2010,98015,JHAE37T50TN2AWT0C,10-Cylinder+,Automatic,Diesel
+1845,cadillac,xc70,2006,45814,ZGWKET357081C9JXP,8-Cylinder,Manual,Diesel
+1846,gmc,compass,2016,76399,T5WT2PME7EEER36TL,3-Cylinder,Automatic,Hybrid
+1847,ford,express 3500 cargo,2005,121878,DC5RTTLG9EG1MRBDH,2-Cylinder,CVT,Gasoline
+1848,bmw,x6,1993,63809,KX5KYESR5P43FWPJU,8-Cylinder,Manual,Gasoline
+1849,audi,lhs,2012,152560,EL5SSJWU9Y5YYJB5U,10-Cylinder+,Automatic,Diesel
+1850,cadillac,cube,2019,35777,C8ZHR6Z001W80RV0H,6-Cylinder,Automatic,Diesel
+1851,lexus,savana 1500 passenger,2000,74907,2NS3SE2F9DHH6FF73,5-Cylinder,Manual,Electric
+1852,subaru,r-class,2006,46900,ZB7Y4Y2F8Y4SV85GJ,10-Cylinder+,Automatic,Electric
+1853,volkswagen,b-series regular cab,2007,42860,VVR29FAB7CS63GPJD,10-Cylinder+,Manual,Diesel
+1854,jeep,ram wagon 3500,2000,31542,5D3FSHT05G5K8LZ61,5-Cylinder,CVT,Hybrid
+1855,chevrolet,malibu,2017,9247,91NUUP9V747TAP7ZB,8-Cylinder,Automatic,Gasoline
+1856,mercury,corvette,2011,72247,Y5Y4MJZX741236VG2,2-Cylinder,CVT,Gasoline
+1857,gmc,suburban 2500,2000,22575,A4GD5HHH3PF4HJDHT,2-Cylinder,CVT,Gasoline
+1858,mitsubishi,prius,1994,81166,GNC04FEW6JDCZ2DY6,8-Cylinder,Automatic,Gasoline
+1859,mazda,ram 2500 club cab,2000,82136,81P6FM6T15Z7TDZK9,3-Cylinder,Automatic,Electric
+1860,volvo,mazda3,2017,30083,FULCK670X768J4J3Z,5-Cylinder,CVT,Gasoline
+1861,lexus,sprinter 2500 crew,2010,180272,K4VGWBLJ02TS5L55C,5-Cylinder,CVT,Diesel
+1862,gmc,econoline e350 super duty cargo,2017,154832,B684BFM655UT3YTXX,6-Cylinder,Automatic,Diesel
+1863,mercedes-benz,taurus,1994,46730,BA9N9PPJ0PPKGB7GW,4-Cylinder,CVT,Diesel
+1864,audi,e-class,1993,179053,JW3VDXSY7P9TN44CJ,2-Cylinder,Manual,Gasoline
+1865,mercury,verano,2006,41250,CU701M6U7VBNN9U22,8-Cylinder,CVT,Diesel
+1866,mercedes-benz,mpv,2003,44407,76A9HP107PJ0XVXMV,6-Cylinder,CVT,Hybrid
+1867,cadillac,explorer sport trac,2014,119435,NPVU2Y7J46FN16Y2H,6-Cylinder,Automatic,Diesel
+1868,chevrolet,santa fe,2006,9795,FWY5N7968UW0V3S74,10-Cylinder+,Manual,Gasoline
+1869,tesla,uplander passenger,2007,71932,01XAH9HD5JPWNS64Y,6-Cylinder,Automatic,Electric
+1870,honda,tundra regular cab,2003,123783,3258KPVM6B6YMFBGE,3-Cylinder,Automatic,Diesel
+1871,ford,volt,2009,165856,516C5ZK15S9XK7006,6-Cylinder,CVT,Electric
+1872,chevrolet,1500 extended cab,2016,77859,MAK23ZU19ZV74ED83,4-Cylinder,CVT,Gasoline
+1873,jaguar,escort,1993,100121,8CT6P83F2R25S3AFN,8-Cylinder,CVT,Electric
+1874,mercury,a3,2017,117706,ZTJZJFN58FR4Y8K4S,8-Cylinder,Manual,Gasoline
+1875,suzuki,911,1998,5433,2L52WSJW5VR42T70E,5-Cylinder,Manual,Gasoline
+1876,hummer,xts,2016,5824,T6NLPHAYXZ4D9D91T,10-Cylinder+,CVT,Electric
+1877,subaru,f150 super cab,2014,78251,CFP4VLZ1XWAYTPLSN,6-Cylinder,Automatic,Diesel
+1878,acura,sierra 2500 hd double cab,2016,80791,LC721SDY6RVBFALW6,10-Cylinder+,Manual,Diesel
+1879,pontiac,rondo,2015,112325,WJ0S76FLXL5HUXX6P,3-Cylinder,Automatic,Hybrid
+1880,dodge,express 1500 cargo,2009,109757,A0BDF2XA2BEG17922,6-Cylinder,CVT,Hybrid
+1881,dodge,es,1996,81687,32S4JV5B1T88YBVE8,8-Cylinder,Automatic,Gasoline
+1882,infiniti,breeze,2000,62446,M2WRDM9F8XAX2E055,10-Cylinder+,Automatic,Electric
+1883,mitsubishi,prizm,2008,35154,KC08NEM4XB96E3WED,5-Cylinder,Automatic,Diesel
+1884,cadillac,silhouette,2013,33868,U4ZTJ1E0348EV0XS5,3-Cylinder,CVT,Gasoline
+1885,buick,element,2008,27808,RNCMDHYA71HJ2RFZB,5-Cylinder,Automatic,Diesel
+1886,audi,nv3500 hd passenger,2020,51606,0GAG3YJP2Z004TJ8D,6-Cylinder,Automatic,Hybrid
+1887,toyota,scoupe,2006,138917,7CHMBHP080PXVFDKK,6-Cylinder,Automatic,Electric
+1888,chrysler,pathfinder,1997,112052,PEDDAE6R0F8906SZ2,8-Cylinder,Automatic,Diesel
+1889,bmw,e250 cargo,2009,179449,BDFG4TT19DES69W5T,2-Cylinder,Automatic,Diesel
+1890,honda,corvette,2007,47167,CKS2AEFHXGFMRZRPC,10-Cylinder+,Manual,Electric
+1891,toyota,xe,2020,51233,PLC7DEKAXCG1D6NH5,8-Cylinder,CVT,Gasoline
+1892,bmw,sierra 2500 hd double cab,1997,23998,RG7NWR2N4J8L8T67K,8-Cylinder,Automatic,Electric
+1893,isuzu,patriot,1996,93379,JRJD05AJ9LXNB1L4W,5-Cylinder,CVT,Gasoline
+1894,hyundai,1500 quad cab,2010,184473,JNSR5CAX08YD94BUG,2-Cylinder,Manual,Diesel
+1895,volvo,vision,1992,43535,9W77G62D7WSX58JJP,4-Cylinder,Manual,Gasoline
+1896,chevrolet,e250 super duty cargo,2012,14066,VZWE5BD09H7T07BU7,3-Cylinder,CVT,Electric
+1897,mitsubishi,accent,1992,186811,73GRC3VG3X6VVCRRW,5-Cylinder,Automatic,Diesel
+1898,gmc,taurus,2002,159832,VJN9NSME5ZLK09805,6-Cylinder,Automatic,Diesel
+1899,pontiac,club wagon,2017,45180,LV9B4RCK4T394S5W0,3-Cylinder,Automatic,Hybrid
+1900,ford,silverado 3500 hd regular cab,2006,162897,BGC22CJ64AY9RFF0L,8-Cylinder,Automatic,Gasoline
+1901,ram,mountaineer,2004,167937,YR8ZXJK61TTKW8LCM,2-Cylinder,CVT,Gasoline
+1902,ford,m,2008,54183,RKXH8448XEF3GXDBX,3-Cylinder,Manual,Diesel
+1903,ford,x-type,2002,131245,LA342PE79DPSHBYJC,2-Cylinder,Manual,Electric
+1904,scion,3500 extended cab,2017,2692,54WSL5VAXAH662N92,4-Cylinder,Manual,Hybrid
+1905,ford,vandura g1500,2019,85114,03DFL8AW5J0BA1KRY,5-Cylinder,Automatic,Diesel
+1906,volkswagen,ranger super cab,1998,166166,4MSTG89R11FW6N78S,4-Cylinder,CVT,Electric
+1907,ford,i-370 extended cab,1992,138978,3Z22S2L90KRTZK7JK,2-Cylinder,Automatic,Gasoline
+1908,chevrolet,titan king cab,2017,183901,9M9FKAS64EDVAAC8B,3-Cylinder,Manual,Gasoline
+1909,cadillac,venza,2008,195019,L0J9ZFMD2KULUX2K0,6-Cylinder,Automatic,Diesel
+1910,mercedes-benz,1500 crew cab,2016,149752,UM6CFNH24L8PX75WP,5-Cylinder,Automatic,Diesel
+1911,chevrolet,versa note,2007,114482,9XDAUT8G27PKCBMCC,4-Cylinder,CVT,Gasoline
+1912,dodge,metris cargo,1996,159451,VPEJKA1X8F6L9FADR,8-Cylinder,CVT,Electric
+1913,nissan,silverado 1500 ld double cab,2015,174702,SNLXY2353JXNS62E7,6-Cylinder,Automatic,Hybrid
+1914,chevrolet,mercedes-amg gle coupe,2001,34358,2N1P4C5N1MATNRHDP,8-Cylinder,CVT,Hybrid
+1915,mazda,savana 2500 cargo,2011,60029,N7FUHM7E2T2WNKHYM,3-Cylinder,Manual,Hybrid
+1916,dodge,mr2,2017,137021,E8YF3CL152T3Z513J,6-Cylinder,Automatic,Diesel
+1917,nissan,ranger super cab,1999,41413,4GXW0TUVXY481KK3S,8-Cylinder,CVT,Gasoline
+1918,dodge,cayenne,2009,36502,B9YUT3ZX861130VM9,3-Cylinder,Automatic,Gasoline
+1919,ram,tiburon,1997,132143,KH3HHNCN1R7TC7M55,6-Cylinder,Automatic,Gasoline
+1920,mini,caravan passenger,2011,113193,92TU80C59MLUK9LCH,2-Cylinder,Automatic,Electric
+1921,bmw,sprinter 3500 cargo,2003,10244,EAF4DPLZ133S86B2S,8-Cylinder,Automatic,Gasoline
+1922,mazda,sierra 1500 crew cab,1996,64834,M6V82RJ47BDBPRTKA,5-Cylinder,Automatic,Gasoline
+1923,audi,929,2004,8114,3G66H94D28SCCW1RD,2-Cylinder,CVT,Hybrid
+1924,jeep,fortwo electric drive,1995,27758,499B0U9Z24ZFHRV70,10-Cylinder+,Automatic,Gasoline
+1925,mercedes-benz,xc70,2003,97431,ZGTLEGWJ6Z9CENXSE,3-Cylinder,Automatic,Electric
+1926,audi,gtc4lusso,2002,52183,XEYZ1NY3561N4D2GK,5-Cylinder,Automatic,Gasoline
+1927,bmw,sebring,1998,160940,UB6L0SX79FX2RH51N,2-Cylinder,CVT,Hybrid
+1928,mazda,suburban 2500,2005,41299,P8G3C0VZ8FUD844BR,3-Cylinder,Manual,Diesel
+1929,chrysler,hhr,2003,98106,TLJD1YE14A5JC9P1N,6-Cylinder,CVT,Gasoline
+1930,infiniti,grand marquis,2012,108293,61JMMJE31KJRJ5ZPG,4-Cylinder,Automatic,Electric
+1931,nissan,thunderbird,2008,197084,JZ1SC6PU0NS0J1SM6,10-Cylinder+,Manual,Diesel
+1932,toyota,challenger,2018,83362,N89V8M801FXKYWBZ1,2-Cylinder,Automatic,Electric
+1933,cadillac,1500 quad cab,2008,49182,EX61G56N6L6R1P6CV,4-Cylinder,Manual,Diesel
+1934,cadillac,hardtop 4 door,2018,184998,7UCR90SS8SDF9HJAS,2-Cylinder,Automatic,Diesel
+1935,bmw,300 ce,2011,96859,DM7FTCU94R6WUFEVN,6-Cylinder,CVT,Gasoline
+1936,gmc,safari passenger,2010,138665,FJ0XZBM2XCV9ZZPWB,8-Cylinder,Manual,Gasoline
+1937,gmc,versa,1998,137509,ACF69NML3TJ9T0AJK,10-Cylinder+,CVT,Electric
+1938,bmw,500 abarth,2018,105478,1TC3WTBT21X7BL1PS,8-Cylinder,CVT,Electric
+1939,lexus,macan,2012,177368,K6PNC97H6CSR45MLM,5-Cylinder,Manual,Hybrid
+1940,chevrolet,silverado 1500 hd crew cab,2011,125176,LYSFF96031EH1K8CU,4-Cylinder,Manual,Diesel
+1941,ford,viper,1995,141759,PFXM1ST354G2TNBXL,5-Cylinder,CVT,Hybrid
+1942,dodge,amanti,1999,13269,FYT21GEZ5DTEDMLV0,4-Cylinder,CVT,Hybrid
+1943,toyota,impreza,2018,127106,3HJPKEDW1S0BUL3A0,2-Cylinder,Manual,Diesel
+1944,ram,nv1500 cargo,2005,119616,DZUC653T950JZN7HJ,2-Cylinder,Automatic,Electric
+1945,infiniti,rogue,2017,51825,EUBPMD9U1GH0LB73K,8-Cylinder,Automatic,Diesel
+1946,audi,e-class,2002,71189,MB8EN243716F5UM7W,4-Cylinder,Manual,Hybrid
+1947,acura,outback,2005,61440,F5U0WBCU12Z8UASAC,10-Cylinder+,Automatic,Diesel
+1948,saab,suburban 2500,1993,102791,S7NT45XRX1LVCH4HL,3-Cylinder,Automatic,Diesel
+1949,subaru,f250 super duty crew cab,2010,102623,B5NTU3BR2TULDVK0J,4-Cylinder,Automatic,Electric
+1950,chevrolet,legacy,1998,4507,PAGRA4KF81CVMUDCB,8-Cylinder,Automatic,Electric
+1951,chevrolet,range rover evoque,2020,51655,F31E3LRU4P9ZW5UM0,8-Cylinder,Automatic,Hybrid
+1952,volkswagen,57,1996,43739,Z7LJ5AFY5M5DCATKU,10-Cylinder+,Automatic,Hybrid
+1953,toyota,swift,2003,102408,W13XNSE77GLW49ZF7,4-Cylinder,Automatic,Hybrid
+1954,honda,mx-5 miata rf,2018,20393,6WD0B0W77AAYE878B,10-Cylinder+,Automatic,Hybrid
+1955,dodge,xj,2016,18906,V6MVFE1N7ERMN56T7,4-Cylinder,CVT,Electric
+1956,toyota,town car,2006,71909,8J7CHRXV1BRXWTRCN,8-Cylinder,Manual,Diesel
+1957,maserati,rav4,1998,137020,YHXRM1M33ZY3NFV8U,10-Cylinder+,CVT,Gasoline
+1958,mazda,sierra 3500 regular cab,2016,172813,WATRY3M474V3E5H3G,6-Cylinder,CVT,Hybrid
+1959,chevrolet,sierra 3500 hd crew cab,2019,70831,JZY52KFZ3KPZZKAZT,2-Cylinder,Automatic,Electric
+1960,nissan,titan single cab,2002,91393,6P4KDMUS44TKWZPES,3-Cylinder,Automatic,Gasoline
+1961,hyundai,seville,1993,91989,SHPG6VR22LV5RL121,4-Cylinder,Automatic,Diesel
+1962,audi,armada,2013,133258,Z9GUEHWG1U7UNBB3R,5-Cylinder,Automatic,Hybrid
+1963,audi,express 2500 passenger,2000,120518,GLZNYPY1215BFVT4K,10-Cylinder+,Manual,Gasoline
+1964,porsche,equus,2009,48973,08T1PWR447FFN6GPV,4-Cylinder,CVT,Hybrid
+1965,chrysler,grand marquis,2015,21859,RRG1FNDL83GZLLB0A,3-Cylinder,Manual,Diesel
+1966,toyota,esteem,1998,90494,DXFHHA5P399HFX9D4,10-Cylinder+,CVT,Electric
+1967,lincoln,m5,2012,91912,GWZ9388N3LMJZLYE3,10-Cylinder+,Automatic,Electric
+1968,toyota,cts-v,2019,67513,BP5BX7GM4BNNHG6BU,2-Cylinder,CVT,Hybrid
+1969,audi,escort,2019,114943,WZ1U4R5H194CXZ1TX,2-Cylinder,Manual,Electric
+1970,hummer,allroad,1992,27729,TKVLGSY51KLTPBMHB,10-Cylinder+,Manual,Electric
+1971,suzuki,passat,2006,105279,E3GRMTMB53W5CT5M7,10-Cylinder+,Automatic,Hybrid
+1972,chevrolet,4runner,2005,83181,803HUV890WG4Z4LM0,6-Cylinder,Manual,Hybrid
+1973,ford,vandura g3500,2007,173558,90UV8ZAZ4HKNXBBTA,2-Cylinder,CVT,Hybrid
+1974,dodge,lr2,2018,11548,PU42JBXZ0EYPZUYLW,8-Cylinder,Automatic,Hybrid
+1975,ford,aerio,2014,163423,SFUWVE4086RM62PV3,4-Cylinder,Manual,Hybrid
+1976,plymouth,ram 1500 regular cab,2007,100455,2SGP47192NVRY8VLR,4-Cylinder,CVT,Electric
+1977,saturn,odyssey,2014,144297,9XMYDAUX2ZB6Y4LUT,5-Cylinder,Manual,Diesel
+1978,bmw,sierra 2500 hd crew cab,2002,79742,S9B3WL8G22H9KKNL5,8-Cylinder,CVT,Diesel
+1979,mazda,express 3500 cargo,2005,28607,7A8VGKRY2UAFS5WHP,6-Cylinder,Automatic,Diesel
+1980,nissan,canyon regular cab,2005,135975,MWNJDBAU1HMN83KNN,10-Cylinder+,Manual,Diesel
+1981,hyundai,murano,1996,62277,V8SUPW347PPBWEV1N,8-Cylinder,Manual,Hybrid
+1982,chevrolet,ats-v,1996,43562,RSYEDH7A12PCZ5BUA,5-Cylinder,CVT,Diesel
+1983,toyota,intrepid,2011,163129,S76ZAYWM237SMS7R4,8-Cylinder,CVT,Electric
+1984,mercedes-benz,sprinter 2500 passenger,2010,102638,XA082K746KXL23DEF,6-Cylinder,Manual,Electric
+1985,ford,2500 regular cab,2003,84004,2TBZV5HT8WC226BAZ,2-Cylinder,CVT,Gasoline
+1986,maybach,s4,2002,76733,803MWAYJ4TCDTD55Y,4-Cylinder,CVT,Hybrid
+1987,chrysler,g-series g20,2016,73069,GT0RJF0T1GWJA23E9,2-Cylinder,Automatic,Electric
+1988,mercedes-benz,silverado 1500 hd crew cab,1999,38716,CY9FRMYC049XF4FDE,8-Cylinder,CVT,Electric
+1989,ford,corvette,1994,21831,ZBW34RX45LE6ANX5L,6-Cylinder,Manual,Diesel
+1990,ford,crown victoria,2014,31015,1T6W6Y2G15DLEA4KG,2-Cylinder,Automatic,Hybrid
+1991,suzuki,yukon xl 2500,1994,4173,JVX9E3V36ZFM956ZS,10-Cylinder+,Automatic,Electric
+1992,chevrolet,summit,2020,40263,FCMSHMJR4R5JYJDMZ,4-Cylinder,Manual,Hybrid
+1993,volvo,mark viii,2016,156703,P17ZB7V57HZJAMC8L,3-Cylinder,CVT,Gasoline
+1994,mercedes-benz,sierra 3500 crew cab,2010,69333,GSSE3D7465ASBMF7R,6-Cylinder,Manual,Hybrid
+1995,hyundai,i-pace,2005,141301,C13X44T23UJU25CTE,5-Cylinder,CVT,Gasoline
+1996,suzuki,impreza,2006,8085,2U1DNEWL7DTZWZYZ2,10-Cylinder+,Manual,Diesel
+1997,ford,ecosport,1992,101682,075ARBY89U2VPM3AU,2-Cylinder,CVT,Gasoline
+1998,kia,envoy,1998,76523,XVGA16868NAV5UNJ9,4-Cylinder,CVT,Electric
+1999,ford,savana 1500 passenger,2019,57066,KRP32VEB2KSBTX478,2-Cylinder,Manual,Hybrid
+2000,acura,f150 regular cab,2018,24326,EC9ARD5U0E77MJSR4,6-Cylinder,CVT,Hybrid
